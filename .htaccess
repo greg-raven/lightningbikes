@@ -128,6 +128,7 @@ SetEnv TZ America/Los_Angeles
 Redirect 301 /1_4_mile_drag.htm http://www.lightningbikes.com/media/1983-qtr-mile-drag.html
 Redirect 301 /2011%20P-38%20Manual.pdf http://www.lightningbikes.com/p38/manual-2011.html
 Redirect 301 /accessor.htm http://www.lightningbikes.com/accessories/index.html
+Redirect 301 /accessories/accessories.html http://www.lightningbikes.com/accessories/index.html
 Redirect 301 /argus_race.htm http://www.lightningbikes.com/media/1988-argus_race.html
 Redirect 301 /BBcups%20Types.html http://www.lightningbikes.com/cranks/bottom-bracket-cups.html
 Redirect 301 /bicycles.htm http://www.lightningbikes.com/recumbents.html

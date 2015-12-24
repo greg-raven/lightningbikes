@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 <!-- InstanceBeginEditable name="doctitle" -->
-	<title>Riders: Timothy Chance</title>
+	<title>Riders: Timothy Chance (Voyager)</title>
 
 <!-- InstanceEndEditable -->
 <!-- #bbinclude "metatags.incl" -->
