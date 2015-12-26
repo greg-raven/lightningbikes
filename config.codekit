@@ -4624,6 +4624,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/bill-cline\/camping.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 494057,
+		"inputAbbreviatedPath": "\/images\/bill-cline\/camping.jpg",
+		"outputAbbreviatedPath": "\/images\/bill-cline\/camping.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/bill-cline\/custom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 604114,
+		"inputAbbreviatedPath": "\/images\/bill-cline\/custom.jpg",
+		"outputAbbreviatedPath": "\/images\/bill-cline\/custom.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/bill-cline\/packing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 309684,
+		"inputAbbreviatedPath": "\/images\/bill-cline\/packing.jpg",
+		"outputAbbreviatedPath": "\/images\/bill-cline\/packing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/bill-cline\/stopping.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 670140,
+		"inputAbbreviatedPath": "\/images\/bill-cline\/stopping.jpg",
+		"outputAbbreviatedPath": "\/images\/bill-cline\/stopping.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/images\/Carousel_Placeholder.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4785,6 +4829,94 @@
 		"initialSize": 5214,
 		"inputAbbreviatedPath": "\/images\/chainrings\/tn-chainrings.jpg",
 		"outputAbbreviatedPath": "\/images\/chainrings\/tn-chainrings.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/chris-broome\/p38-coroplast.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19804,
+		"inputAbbreviatedPath": "\/images\/chris-broome\/p38-coroplast.jpg",
+		"outputAbbreviatedPath": "\/images\/chris-broome\/p38-coroplast.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/chris-broome\/t38-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46608,
+		"inputAbbreviatedPath": "\/images\/chris-broome\/t38-1.jpg",
+		"outputAbbreviatedPath": "\/images\/chris-broome\/t38-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/chris-broome\/t38-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45972,
+		"inputAbbreviatedPath": "\/images\/chris-broome\/t38-2.jpg",
+		"outputAbbreviatedPath": "\/images\/chris-broome\/t38-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/chris-broome\/t38-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36218,
+		"inputAbbreviatedPath": "\/images\/chris-broome\/t38-4.jpg",
+		"outputAbbreviatedPath": "\/images\/chris-broome\/t38-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/chris-broome\/t38-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56083,
+		"inputAbbreviatedPath": "\/images\/chris-broome\/t38-5.jpg",
+		"outputAbbreviatedPath": "\/images\/chris-broome\/t38-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/chris-broome\/t38-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58312,
+		"inputAbbreviatedPath": "\/images\/chris-broome\/t38-6.jpg",
+		"outputAbbreviatedPath": "\/images\/chris-broome\/t38-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/chris-broome\/t38-in-red.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.53502e+06,
+		"inputAbbreviatedPath": "\/images\/chris-broome\/t38-in-red.jpg",
+		"outputAbbreviatedPath": "\/images\/chris-broome\/t38-in-red.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/chris-broome\/u2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.63182e+06,
+		"inputAbbreviatedPath": "\/images\/chris-broome\/u2.jpg",
+		"outputAbbreviatedPath": "\/images\/chris-broome\/u2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -13604,6 +13736,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/bill-cline.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/bill-cline.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/carl-murdock.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -13618,6 +13759,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/riders\/ceb-blankenship.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/chris-broome.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/chris-broome.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -13717,6 +13867,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/riders\/p38.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/paul-gracey.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/paul-gracey.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
