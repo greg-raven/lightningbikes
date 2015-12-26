@@ -1224,6 +1224,61 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/e-lightning\/images\/rear-rack-black-slider.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142735,
+		"inputAbbreviatedPath": "\/e-lightning\/images\/rear-rack-black-slider.jpg",
+		"outputAbbreviatedPath": "\/e-lightning\/images\/rear-rack-black-slider.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/e-lightning\/images\/s-350-rl-battery-slider.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213655,
+		"inputAbbreviatedPath": "\/e-lightning\/images\/s-350-rl-battery-slider.jpg",
+		"outputAbbreviatedPath": "\/e-lightning\/images\/s-350-rl-battery-slider.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/e-lightning\/images\/s-350-rl-console-slider.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 188745,
+		"inputAbbreviatedPath": "\/e-lightning\/images\/s-350-rl-console-slider.jpg",
+		"outputAbbreviatedPath": "\/e-lightning\/images\/s-350-rl-console-slider.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/e-lightning\/images\/s-350-rl-motor-slider.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 189763,
+		"inputAbbreviatedPath": "\/e-lightning\/images\/s-350-rl-motor-slider.jpg",
+		"outputAbbreviatedPath": "\/e-lightning\/images\/s-350-rl-motor-slider.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/e-lightning\/images\/s-350-rl-system-slider.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 347907,
+		"inputAbbreviatedPath": "\/e-lightning\/images\/s-350-rl-system-slider.jpg",
+		"outputAbbreviatedPath": "\/e-lightning\/images\/s-350-rl-system-slider.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/e-lightning\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
