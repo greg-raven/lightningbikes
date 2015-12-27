@@ -13603,6 +13603,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/dan-hansen-jr\/f40-at-home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 303806,
+		"inputAbbreviatedPath": "\/riders\/dan-hansen-jr\/f40-at-home.jpg",
+		"outputAbbreviatedPath": "\/riders\/dan-hansen-jr\/f40-at-home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/dan-hansen-jr\/f40-nose.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
