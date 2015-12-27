@@ -14370,6 +14370,37 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/lynn-miller\/f-90.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33382,
+		"inputAbbreviatedPath": "\/riders\/lynn-miller\/f-90.jpg",
+		"outputAbbreviatedPath": "\/riders\/lynn-miller\/f-90.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/lynn-miller\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/lynn-miller\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/lynn-miller\/r-84.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56026,
+		"inputAbbreviatedPath": "\/riders\/lynn-miller\/r-84.jpg",
+		"outputAbbreviatedPath": "\/riders\/lynn-miller\/r-84.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/martin-krieg\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
