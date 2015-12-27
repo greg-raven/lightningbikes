@@ -13371,6 +13371,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/carolyn-trimble\/carolyns-p38.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78241,
+		"inputAbbreviatedPath": "\/riders\/carolyn-trimble\/carolyns-p38.jpg",
+		"outputAbbreviatedPath": "\/riders\/carolyn-trimble\/carolyns-p38.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/carolyn-trimble\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/carolyn-trimble\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/ceb-blankenship\/003r.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
