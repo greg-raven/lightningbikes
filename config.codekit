@@ -13362,15 +13362,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/riders\/carl-patty\/index-PreviewTemp-CA620C7B-5D7F-4F0B-B095-7A3B1893615F.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/riders\/carl-patty\/index-PreviewTemp-CA620C7B-5D7F-4F0B-B095-7A3B1893615F.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/riders\/carl-patty\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -13560,6 +13551,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/dan-hansen-jr\/f40-nose.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 362406,
+		"inputAbbreviatedPath": "\/riders\/dan-hansen-jr\/f40-nose.jpg",
+		"outputAbbreviatedPath": "\/riders\/dan-hansen-jr\/f40-nose.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/dan-hansen-jr\/index.html": {
 		"fileType": 8192,
