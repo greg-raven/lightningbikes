@@ -1233,7 +1233,7 @@
 		"outputAbbreviatedPath": "\/e-lightning\/images\/rear-rack-black-slider.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/e-lightning\/images\/s-350-rl-battery-slider.jpg": {
 		"fileType": 16384,
@@ -1244,7 +1244,7 @@
 		"outputAbbreviatedPath": "\/e-lightning\/images\/s-350-rl-battery-slider.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/e-lightning\/images\/s-350-rl-console-slider.jpg": {
 		"fileType": 16384,
@@ -1255,7 +1255,7 @@
 		"outputAbbreviatedPath": "\/e-lightning\/images\/s-350-rl-console-slider.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/e-lightning\/images\/s-350-rl-motor-slider.jpg": {
 		"fileType": 16384,
@@ -1266,7 +1266,7 @@
 		"outputAbbreviatedPath": "\/e-lightning\/images\/s-350-rl-motor-slider.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/e-lightning\/images\/s-350-rl-system-slider.jpg": {
 		"fileType": 16384,
@@ -1277,7 +1277,7 @@
 		"outputAbbreviatedPath": "\/e-lightning\/images\/s-350-rl-system-slider.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/e-lightning\/index.html": {
 		"fileType": 8192,
@@ -5007,7 +5007,7 @@
 		"outputAbbreviatedPath": "\/images\/cranks\/singapore-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/cranks\/singapore-2.jpg": {
 		"fileType": 16384,
@@ -5018,7 +5018,7 @@
 		"outputAbbreviatedPath": "\/images\/cranks\/singapore-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/cranks\/SP1_6673_dev-600.jpg": {
 		"fileType": 16384,
@@ -5700,7 +5700,7 @@
 		"outputAbbreviatedPath": "\/images\/handcycle\/handcycle-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/handcycle\/handcycle-2.jpg": {
 		"fileType": 16384,
@@ -5711,7 +5711,7 @@
 		"outputAbbreviatedPath": "\/images\/handcycle\/handcycle-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/handcycle\/handcycle-3.jpg": {
 		"fileType": 16384,
@@ -5722,7 +5722,7 @@
 		"outputAbbreviatedPath": "\/images\/handcycle\/handcycle-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/handcycle\/handcycle.jpg": {
 		"fileType": 16384,
@@ -13309,7 +13309,7 @@
 		"outputAbbreviatedPath": "\/riders\/bill-cline\/camping.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/bill-cline\/custom.jpg": {
 		"fileType": 16384,
@@ -13320,7 +13320,7 @@
 		"outputAbbreviatedPath": "\/riders\/bill-cline\/custom.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/bill-cline\/index.html": {
 		"fileType": 8192,
@@ -13340,7 +13340,7 @@
 		"outputAbbreviatedPath": "\/riders\/bill-cline\/packing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/bill-cline\/stopping.jpg": {
 		"fileType": 16384,
@@ -13351,7 +13351,7 @@
 		"outputAbbreviatedPath": "\/riders\/bill-cline\/stopping.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/carl-murdock\/index.html": {
 		"fileType": 8192,
@@ -13380,7 +13380,7 @@
 		"outputAbbreviatedPath": "\/riders\/ceb-blankenship\/003r.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/ceb-blankenship\/024r.jpg": {
 		"fileType": 16384,
@@ -13391,7 +13391,7 @@
 		"outputAbbreviatedPath": "\/riders\/ceb-blankenship\/024r.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/ceb-blankenship\/cebbikesm.jpg": {
 		"fileType": 16384,
@@ -13402,7 +13402,7 @@
 		"outputAbbreviatedPath": "\/riders\/ceb-blankenship\/cebbikesm.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/ceb-blankenship\/cebride.jpg": {
 		"fileType": 16384,
@@ -13413,7 +13413,7 @@
 		"outputAbbreviatedPath": "\/riders\/ceb-blankenship\/cebride.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/ceb-blankenship\/fork-extender.jpg": {
 		"fileType": 16384,
@@ -13424,7 +13424,7 @@
 		"outputAbbreviatedPath": "\/riders\/ceb-blankenship\/fork-extender.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/ceb-blankenship\/index.html": {
 		"fileType": 8192,
@@ -13444,7 +13444,7 @@
 		"outputAbbreviatedPath": "\/riders\/ceb-blankenship\/Sugarloaf-Mt-Wall.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/chris-broome\/index.html": {
 		"fileType": 8192,
@@ -13464,7 +13464,7 @@
 		"outputAbbreviatedPath": "\/riders\/chris-broome\/p38-coroplast.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/chris-broome\/t38-1.jpg": {
 		"fileType": 16384,
@@ -13475,7 +13475,7 @@
 		"outputAbbreviatedPath": "\/riders\/chris-broome\/t38-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/chris-broome\/t38-2.jpg": {
 		"fileType": 16384,
@@ -13486,7 +13486,7 @@
 		"outputAbbreviatedPath": "\/riders\/chris-broome\/t38-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/chris-broome\/t38-4.jpg": {
 		"fileType": 16384,
@@ -13497,7 +13497,7 @@
 		"outputAbbreviatedPath": "\/riders\/chris-broome\/t38-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/chris-broome\/t38-5.jpg": {
 		"fileType": 16384,
@@ -13508,7 +13508,7 @@
 		"outputAbbreviatedPath": "\/riders\/chris-broome\/t38-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/chris-broome\/t38-6.jpg": {
 		"fileType": 16384,
@@ -13519,7 +13519,7 @@
 		"outputAbbreviatedPath": "\/riders\/chris-broome\/t38-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/chris-broome\/t38-in-red.jpg": {
 		"fileType": 16384,
@@ -13530,7 +13530,7 @@
 		"outputAbbreviatedPath": "\/riders\/chris-broome\/t38-in-red.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/chris-broome\/u2.jpg": {
 		"fileType": 16384,
@@ -13541,7 +13541,7 @@
 		"outputAbbreviatedPath": "\/riders\/chris-broome\/u2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/cranks.html": {
 		"fileType": 8192,
@@ -13561,7 +13561,7 @@
 		"outputAbbreviatedPath": "\/riders\/dan-hansen-jr\/f40-nose.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/dan-hansen-jr\/index.html": {
 		"fileType": 8192,
@@ -13628,7 +13628,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38-in-action.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/096.jpg": {
 		"fileType": 16384,
@@ -13639,7 +13639,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/096.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/097.jpg": {
 		"fileType": 16384,
@@ -13650,7 +13650,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/097.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/098.jpg": {
 		"fileType": 16384,
@@ -13661,7 +13661,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/098.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/099.jpg": {
 		"fileType": 16384,
@@ -13672,7 +13672,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/099.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/100.jpg": {
 		"fileType": 16384,
@@ -13683,7 +13683,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/100.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/102.jpg": {
 		"fileType": 16384,
@@ -13694,7 +13694,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/102.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/103.jpg": {
 		"fileType": 16384,
@@ -13705,7 +13705,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/103.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/104.jpg": {
 		"fileType": 16384,
@@ -13716,7 +13716,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/104.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/108.jpg": {
 		"fileType": 16384,
@@ -13727,7 +13727,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/108.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/109.jpg": {
 		"fileType": 16384,
@@ -13738,7 +13738,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/109.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/110.jpg": {
 		"fileType": 16384,
@@ -13749,7 +13749,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/110.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/111.jpg": {
 		"fileType": 16384,
@@ -13760,7 +13760,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/111.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/114.jpg": {
 		"fileType": 16384,
@@ -13771,7 +13771,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/114.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/116.jpg": {
 		"fileType": 16384,
@@ -13782,7 +13782,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/116.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/117.jpg": {
 		"fileType": 16384,
@@ -13793,7 +13793,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/117.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/118.jpg": {
 		"fileType": 16384,
@@ -13804,7 +13804,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/118.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/119.jpg": {
 		"fileType": 16384,
@@ -13815,7 +13815,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/119.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/120.jpg": {
 		"fileType": 16384,
@@ -13826,7 +13826,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/120.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/122.jpg": {
 		"fileType": 16384,
@@ -13837,7 +13837,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/122.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/123.jpg": {
 		"fileType": 16384,
@@ -13848,7 +13848,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/123.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/124.jpg": {
 		"fileType": 16384,
@@ -13859,7 +13859,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/124.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/125.jpg": {
 		"fileType": 16384,
@@ -13870,7 +13870,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/125.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/126.jpg": {
 		"fileType": 16384,
@@ -13881,7 +13881,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/126.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/127.jpg": {
 		"fileType": 16384,
@@ -13892,7 +13892,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/127.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/128.jpg": {
 		"fileType": 16384,
@@ -13903,7 +13903,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/128.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/129.jpg": {
 		"fileType": 16384,
@@ -13914,7 +13914,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/129.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/130.jpg": {
 		"fileType": 16384,
@@ -13925,7 +13925,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/130.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/131.jpg": {
 		"fileType": 16384,
@@ -13936,7 +13936,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/131.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/132.jpg": {
 		"fileType": 16384,
@@ -13947,7 +13947,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/132.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/build.jpg": {
 		"fileType": 16384,
@@ -13958,7 +13958,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/p38\/build.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/p38\/index.html": {
 		"fileType": 8192,
@@ -13978,7 +13978,7 @@
 		"outputAbbreviatedPath": "\/riders\/greg-raven\/phantom-delivery.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/index.html": {
 		"fileType": 8192,
@@ -14029,7 +14029,7 @@
 		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/len-zawodniak\/201311-len-z-02.jpg": {
 		"fileType": 16384,
@@ -14040,7 +14040,7 @@
 		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/len-zawodniak\/201311-len-z-03.jpg": {
 		"fileType": 16384,
@@ -14051,7 +14051,7 @@
 		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/len-zawodniak\/201311-len-z-04.jpg": {
 		"fileType": 16384,
@@ -14062,7 +14062,7 @@
 		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/len-zawodniak\/201311-len-z-05.jpg": {
 		"fileType": 16384,
@@ -14073,7 +14073,7 @@
 		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-05.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/len-zawodniak\/201311-len-z-06.jpg": {
 		"fileType": 16384,
@@ -14084,7 +14084,7 @@
 		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-06.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/len-zawodniak\/201311-len-z-07.jpg": {
 		"fileType": 16384,
@@ -14095,7 +14095,7 @@
 		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-07.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/len-zawodniak\/201311-len-z.jpg": {
 		"fileType": 16384,
@@ -14106,7 +14106,7 @@
 		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/len-zawodniak\/index.html": {
 		"fileType": 8192,
@@ -14125,17 +14125,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/riders\/martin-krieg\/p38-martin-krieg.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 173718,
-		"inputAbbreviatedPath": "\/riders\/martin-krieg\/p38-martin-krieg.jpg",
-		"outputAbbreviatedPath": "\/riders\/martin-krieg\/p38-martin-krieg.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/riders\/mike-nicholaus\/index.html": {
 		"fileType": 8192,
@@ -14229,7 +14218,7 @@
 		"outputAbbreviatedPath": "\/riders\/rich-kara\/canals-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/rich-kara\/canals-2.jpg": {
 		"fileType": 16384,
@@ -14240,7 +14229,7 @@
 		"outputAbbreviatedPath": "\/riders\/rich-kara\/canals-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/rich-kara\/canals-3.jpg": {
 		"fileType": 16384,
@@ -14251,7 +14240,7 @@
 		"outputAbbreviatedPath": "\/riders\/rich-kara\/canals-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/rich-kara\/index.html": {
 		"fileType": 8192,
@@ -14280,7 +14269,7 @@
 		"outputAbbreviatedPath": "\/riders\/rick-landers\/restored-p38.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/rick-landers\/tour-de-art.jpg": {
 		"fileType": 16384,
@@ -14291,7 +14280,7 @@
 		"outputAbbreviatedPath": "\/riders\/rick-landers\/tour-de-art.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/roland-stuck\/032.jpg": {
 		"fileType": 16384,
@@ -14302,7 +14291,7 @@
 		"outputAbbreviatedPath": "\/riders\/roland-stuck\/032.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/roland-stuck\/100.jpg": {
 		"fileType": 16384,
@@ -14313,7 +14302,7 @@
 		"outputAbbreviatedPath": "\/riders\/roland-stuck\/100.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/roland-stuck\/214.jpg": {
 		"fileType": 16384,
@@ -14324,7 +14313,7 @@
 		"outputAbbreviatedPath": "\/riders\/roland-stuck\/214.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/roland-stuck\/index.html": {
 		"fileType": 8192,
@@ -14344,7 +14333,7 @@
 		"outputAbbreviatedPath": "\/riders\/stephen-purcell\/alps.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/stephen-purcell\/index.html": {
 		"fileType": 8192,
@@ -14422,7 +14411,7 @@
 		"outputAbbreviatedPath": "\/riders\/timothy-chance\/Voyager-Timothy-Chance-at-Loanhead.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/timothy-chance\/Voyager-Timothy-Chance-climbing.jpg": {
 		"fileType": 16384,
@@ -14433,7 +14422,7 @@
 		"outputAbbreviatedPath": "\/riders\/timothy-chance\/Voyager-Timothy-Chance-climbing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/tom-black\/build-1.jpg": {
 		"fileType": 16384,
@@ -14444,7 +14433,7 @@
 		"outputAbbreviatedPath": "\/riders\/tom-black\/build-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/tom-black\/build-2.jpg": {
 		"fileType": 16384,
@@ -14455,7 +14444,7 @@
 		"outputAbbreviatedPath": "\/riders\/tom-black\/build-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/tom-black\/disc-brake.jpg": {
 		"fileType": 16384,
@@ -14466,7 +14455,7 @@
 		"outputAbbreviatedPath": "\/riders\/tom-black\/disc-brake.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/tom-black\/front-low-angle.jpg": {
 		"fileType": 16384,
@@ -14477,7 +14466,7 @@
 		"outputAbbreviatedPath": "\/riders\/tom-black\/front-low-angle.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/tom-black\/hub-motor.jpg": {
 		"fileType": 16384,
@@ -14488,7 +14477,7 @@
 		"outputAbbreviatedPath": "\/riders\/tom-black\/hub-motor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/tom-black\/index.html": {
 		"fileType": 8192,
@@ -14508,7 +14497,7 @@
 		"outputAbbreviatedPath": "\/riders\/tom-black\/motor-control-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/tom-black\/motor-control-2.jpg": {
 		"fileType": 16384,
@@ -14519,7 +14508,7 @@
 		"outputAbbreviatedPath": "\/riders\/tom-black\/motor-control-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/tom-black\/right-rear-quarter.jpg": {
 		"fileType": 16384,
@@ -14530,7 +14519,7 @@
 		"outputAbbreviatedPath": "\/riders\/tom-black\/right-rear-quarter.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/tom-black\/zzipper-fairing.jpg": {
 		"fileType": 16384,
@@ -14541,7 +14530,7 @@
 		"outputAbbreviatedPath": "\/riders\/tom-black\/zzipper-fairing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/tyger-johnson\/index.html": {
 		"fileType": 8192,
@@ -14561,7 +14550,7 @@
 		"outputAbbreviatedPath": "\/riders\/tyger-johnson\/tyger1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/tyger-johnson\/tyger2.jpg": {
 		"fileType": 16384,
@@ -14572,7 +14561,7 @@
 		"outputAbbreviatedPath": "\/riders\/tyger-johnson\/tyger2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/tyger-johnson\/tyger3.jpg": {
 		"fileType": 16384,
@@ -14583,7 +14572,7 @@
 		"outputAbbreviatedPath": "\/riders\/tyger-johnson\/tyger3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/tyger-johnson\/Tygers_Fans.jpg": {
 		"fileType": 16384,
@@ -14594,7 +14583,7 @@
 		"outputAbbreviatedPath": "\/riders\/tyger-johnson\/Tygers_Fans.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/wendy-sparks\/index.html": {
 		"fileType": 8192,
@@ -14654,7 +14643,7 @@
 		"outputAbbreviatedPath": "\/riders\/william-petrie\/navy-monument.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/Scripts\/fancyBox\/source\/fancybox_overlay.png": {
 		"fileType": 32768,
