@@ -14126,6 +14126,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/martin-krieg\/p38-martin-krieg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 566262,
+		"inputAbbreviatedPath": "\/riders\/martin-krieg\/p38-martin-krieg.jpg",
+		"outputAbbreviatedPath": "\/riders\/martin-krieg\/p38-martin-krieg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/mike-nicholaus\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14208,6 +14219,26 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/raymond-leikes\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/raymond-leikes\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/raymond-leikes\/leikes-p38.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 336785,
+		"inputAbbreviatedPath": "\/riders\/raymond-leikes\/leikes-p38.jpg",
+		"outputAbbreviatedPath": "\/riders\/raymond-leikes\/leikes-p38.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/rich-kara\/canals-1.jpg": {
 		"fileType": 16384,
