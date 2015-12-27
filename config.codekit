@@ -13830,6 +13830,48 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/roland-stuck\/032.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123410,
+		"inputAbbreviatedPath": "\/riders\/roland-stuck\/032.jpg",
+		"outputAbbreviatedPath": "\/riders\/roland-stuck\/032.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/roland-stuck\/100.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 190606,
+		"inputAbbreviatedPath": "\/riders\/roland-stuck\/100.jpg",
+		"outputAbbreviatedPath": "\/riders\/roland-stuck\/100.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/roland-stuck\/214.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128248,
+		"inputAbbreviatedPath": "\/riders\/roland-stuck\/214.jpg",
+		"outputAbbreviatedPath": "\/riders\/roland-stuck\/214.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/roland-stuck\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/roland-stuck\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/stephen-purcell\/alps.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
