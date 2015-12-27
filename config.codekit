@@ -14062,6 +14062,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/riders\/holz-goulet\/holz-goulet.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226134,
+		"inputAbbreviatedPath": "\/riders\/holz-goulet\/holz-goulet.jpg",
+		"outputAbbreviatedPath": "\/riders\/holz-goulet\/holz-goulet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/holz-goulet\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/holz-goulet\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
