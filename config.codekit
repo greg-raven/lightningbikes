@@ -13362,6 +13362,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/carl-patty\/index-PreviewTemp-CA620C7B-5D7F-4F0B-B095-7A3B1893615F.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/carl-patty\/index-PreviewTemp-CA620C7B-5D7F-4F0B-B095-7A3B1893615F.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/carl-patty\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/carl-patty\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/ceb-blankenship\/003r.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13862,15 +13880,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
-		},
-	"\/riders\/rich-kara\/index-PreviewTemp-7753DE80-D2B2-401D-B705-78D61F017242.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/riders\/rich-kara\/index-PreviewTemp-7753DE80-D2B2-401D-B705-78D61F017242.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/riders\/rich-kara\/index.html": {
 		"fileType": 8192,
