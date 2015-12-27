@@ -13371,6 +13371,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/carolyn-trimble\/carolyn-trimble.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51749,
+		"inputAbbreviatedPath": "\/riders\/carolyn-trimble\/carolyn-trimble.jpg",
+		"outputAbbreviatedPath": "\/riders\/carolyn-trimble\/carolyn-trimble.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/carolyn-trimble\/carolyns-p38.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
