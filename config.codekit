@@ -13830,6 +13830,46 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/rick-landers\/index-PreviewTemp-604E6EF2-EE27-4980-B383-771DA7FC779E.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/rick-landers\/index-PreviewTemp-604E6EF2-EE27-4980-B383-771DA7FC779E.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/rick-landers\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/rick-landers\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/rick-landers\/restored-p38.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34000,
+		"inputAbbreviatedPath": "\/riders\/rick-landers\/restored-p38.jpg",
+		"outputAbbreviatedPath": "\/riders\/rick-landers\/restored-p38.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/rick-landers\/tour-de-art.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 453443,
+		"inputAbbreviatedPath": "\/riders\/rick-landers\/tour-de-art.jpg",
+		"outputAbbreviatedPath": "\/riders\/rick-landers\/tour-de-art.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/roland-stuck\/032.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
