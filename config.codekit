@@ -14474,6 +14474,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/riders\/michael-smith\/cannondale.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 762483,
+		"inputAbbreviatedPath": "\/riders\/michael-smith\/cannondale.jpg",
+		"outputAbbreviatedPath": "\/riders\/michael-smith\/cannondale.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/michael-smith\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14502,6 +14513,81 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/olav-stana\/cunningham.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 830358,
+		"inputAbbreviatedPath": "\/riders\/olav-stana\/cunningham.jpg",
+		"outputAbbreviatedPath": "\/riders\/olav-stana\/cunningham.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/olav-stana\/four-up.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 173490,
+		"inputAbbreviatedPath": "\/riders\/olav-stana\/four-up.jpg",
+		"outputAbbreviatedPath": "\/riders\/olav-stana\/four-up.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/olav-stana\/guru-anthracite.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 719839,
+		"inputAbbreviatedPath": "\/riders\/olav-stana\/guru-anthracite.jpg",
+		"outputAbbreviatedPath": "\/riders\/olav-stana\/guru-anthracite.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/olav-stana\/guru-white.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 738957,
+		"inputAbbreviatedPath": "\/riders\/olav-stana\/guru-white.jpg",
+		"outputAbbreviatedPath": "\/riders\/olav-stana\/guru-white.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/olav-stana\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/olav-stana\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/olav-stana\/olav-stana.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81724,
+		"inputAbbreviatedPath": "\/riders\/olav-stana\/olav-stana.jpg",
+		"outputAbbreviatedPath": "\/riders\/olav-stana\/olav-stana.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/olav-stana\/trek.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 775961,
+		"inputAbbreviatedPath": "\/riders\/olav-stana\/trek.jpg",
+		"outputAbbreviatedPath": "\/riders\/olav-stana\/trek.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/p38.html": {
 		"fileType": 8192,
