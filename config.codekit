@@ -14182,6 +14182,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/riders\/john-oneal\/delivery-day.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 455814,
+		"inputAbbreviatedPath": "\/riders\/john-oneal\/delivery-day.jpg",
+		"outputAbbreviatedPath": "\/riders\/john-oneal\/delivery-day.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/john-oneal\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/john-oneal\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/lee-emmett\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
