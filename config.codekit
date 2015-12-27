@@ -13574,6 +13574,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/clive-mcilrath\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/clive-mcilrath\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/clive-mcilrath\/st-john-bridge.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135487,
+		"inputAbbreviatedPath": "\/riders\/clive-mcilrath\/st-john-bridge.jpg",
+		"outputAbbreviatedPath": "\/riders\/clive-mcilrath\/st-john-bridge.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/cranks.html": {
 		"fileType": 8192,
 		"ignore": 0,
