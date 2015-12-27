@@ -13830,11 +13830,53 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/riders\/rick-landers\/index-PreviewTemp-604E6EF2-EE27-4980-B383-771DA7FC779E.html": {
+	"\/riders\/rich-kara\/canals-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170754,
+		"inputAbbreviatedPath": "\/riders\/rich-kara\/canals-1.jpg",
+		"outputAbbreviatedPath": "\/riders\/rich-kara\/canals-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/rich-kara\/canals-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 178801,
+		"inputAbbreviatedPath": "\/riders\/rich-kara\/canals-2.jpg",
+		"outputAbbreviatedPath": "\/riders\/rich-kara\/canals-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/rich-kara\/canals-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 358846,
+		"inputAbbreviatedPath": "\/riders\/rich-kara\/canals-3.jpg",
+		"outputAbbreviatedPath": "\/riders\/rich-kara\/canals-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/rich-kara\/index-PreviewTemp-7753DE80-D2B2-401D-B705-78D61F017242.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/riders\/rick-landers\/index-PreviewTemp-604E6EF2-EE27-4980-B383-771DA7FC779E.html",
+		"inputAbbreviatedPath": "\/riders\/rich-kara\/index-PreviewTemp-7753DE80-D2B2-401D-B705-78D61F017242.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/rich-kara\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/rich-kara\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
