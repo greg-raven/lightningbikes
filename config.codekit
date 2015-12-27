@@ -14091,6 +14091,37 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/james-allen-troost\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/james-allen-troost\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/james-allen-troost\/james-allen-troost.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 354595,
+		"inputAbbreviatedPath": "\/riders\/james-allen-troost\/james-allen-troost.jpg",
+		"outputAbbreviatedPath": "\/riders\/james-allen-troost\/james-allen-troost.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/james-allen-troost\/troost-tryptic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 293965,
+		"inputAbbreviatedPath": "\/riders\/james-allen-troost\/troost-tryptic.jpg",
+		"outputAbbreviatedPath": "\/riders\/james-allen-troost\/troost-tryptic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/lee-emmett\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
