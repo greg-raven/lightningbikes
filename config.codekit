@@ -14042,6 +14042,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/guido-holenstein\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/guido-holenstein\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/guido-holenstein\/swiss-f40.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 370258,
+		"inputAbbreviatedPath": "\/riders\/guido-holenstein\/swiss-f40.jpg",
+		"outputAbbreviatedPath": "\/riders\/guido-holenstein\/swiss-f40.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
