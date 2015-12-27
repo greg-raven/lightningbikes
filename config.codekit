@@ -14421,6 +14421,59 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/riders\/michael-kapala\/bottle-holder.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 349433,
+		"inputAbbreviatedPath": "\/riders\/michael-kapala\/bottle-holder.jpg",
+		"outputAbbreviatedPath": "\/riders\/michael-kapala\/bottle-holder.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/michael-kapala\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/michael-kapala\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/michael-kapala\/michael-and-r84.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 537123,
+		"inputAbbreviatedPath": "\/riders\/michael-kapala\/michael-and-r84.jpg",
+		"outputAbbreviatedPath": "\/riders\/michael-kapala\/michael-and-r84.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/michael-kapala\/r84-right-front-quarter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 646778,
+		"inputAbbreviatedPath": "\/riders\/michael-kapala\/r84-right-front-quarter.jpg",
+		"outputAbbreviatedPath": "\/riders\/michael-kapala\/r84-right-front-quarter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/michael-kapala\/r84-side-view.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 391282,
+		"inputAbbreviatedPath": "\/riders\/michael-kapala\/r84-side-view.jpg",
+		"outputAbbreviatedPath": "\/riders\/michael-kapala\/r84-side-view.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/mike-nicholaus\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
