@@ -13652,6 +13652,72 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/gary-bernstein\/build-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80810,
+		"inputAbbreviatedPath": "\/riders\/gary-bernstein\/build-1.jpg",
+		"outputAbbreviatedPath": "\/riders\/gary-bernstein\/build-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/gary-bernstein\/build-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80214,
+		"inputAbbreviatedPath": "\/riders\/gary-bernstein\/build-2.jpg",
+		"outputAbbreviatedPath": "\/riders\/gary-bernstein\/build-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/gary-bernstein\/build-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84549,
+		"inputAbbreviatedPath": "\/riders\/gary-bernstein\/build-3.jpg",
+		"outputAbbreviatedPath": "\/riders\/gary-bernstein\/build-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/gary-bernstein\/build-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58972,
+		"inputAbbreviatedPath": "\/riders\/gary-bernstein\/build-4.jpg",
+		"outputAbbreviatedPath": "\/riders\/gary-bernstein\/build-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/gary-bernstein\/facing-left.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68980,
+		"inputAbbreviatedPath": "\/riders\/gary-bernstein\/facing-left.jpg",
+		"outputAbbreviatedPath": "\/riders\/gary-bernstein\/facing-left.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/gary-bernstein\/facing-right.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60973,
+		"inputAbbreviatedPath": "\/riders\/gary-bernstein\/facing-right.jpg",
+		"outputAbbreviatedPath": "\/riders\/gary-bernstein\/facing-right.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/riders\/gary-bernstein\/gary-bernstein-rides-with-jamis.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13659,6 +13725,17 @@
 		"initialSize": 39733,
 		"inputAbbreviatedPath": "\/riders\/gary-bernstein\/gary-bernstein-rides-with-jamis.jpg",
 		"outputAbbreviatedPath": "\/riders\/gary-bernstein\/gary-bernstein-rides-with-jamis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/gary-bernstein\/garys-f40.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55360,
+		"inputAbbreviatedPath": "\/riders\/gary-bernstein\/garys-f40.jpg",
+		"outputAbbreviatedPath": "\/riders\/gary-bernstein\/garys-f40.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -13671,6 +13748,28 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/gary-bernstein\/ready-for-takeoff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57756,
+		"inputAbbreviatedPath": "\/riders\/gary-bernstein\/ready-for-takeoff.jpg",
+		"outputAbbreviatedPath": "\/riders\/gary-bernstein\/ready-for-takeoff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/gary-bernstein\/under-way.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53694,
+		"inputAbbreviatedPath": "\/riders\/gary-bernstein\/under-way.jpg",
+		"outputAbbreviatedPath": "\/riders\/gary-bernstein\/under-way.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/riders\/greg-raven\/2013-solvang.jpg": {
 		"fileType": 16384,
