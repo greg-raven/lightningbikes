@@ -6428,6 +6428,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/p38\/first-ride zach-kaplan.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102066,
+		"inputAbbreviatedPath": "\/images\/p38\/first-ride zach-kaplan.jpg",
+		"outputAbbreviatedPath": "\/images\/p38\/first-ride zach-kaplan.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/p38\/Julia-p38-600.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14271,6 +14282,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/jeff-wills\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/jeff-wills\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/riders\/jim-foerster\/index.html": {
 		"fileType": 8192,
