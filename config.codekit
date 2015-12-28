@@ -13672,6 +13672,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/greg-raven\/2013-solvang.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88989,
+		"inputAbbreviatedPath": "\/riders\/greg-raven\/2013-solvang.jpg",
+		"outputAbbreviatedPath": "\/riders\/greg-raven\/2013-solvang.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/riders\/greg-raven\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14401,6 +14412,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/mark-textor\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/mark-textor\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/mark-textor\/textor-p38.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30796,
+		"inputAbbreviatedPath": "\/riders\/mark-textor\/textor-p38.jpg",
+		"outputAbbreviatedPath": "\/riders\/mark-textor\/textor-p38.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/riders\/martin-krieg\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14510,6 +14541,26 @@
 		"initialSize": 66550,
 		"inputAbbreviatedPath": "\/riders\/mike-nicholaus\/p38-mike-nicholas.jpg",
 		"outputAbbreviatedPath": "\/riders\/mike-nicholaus\/p38-mike-nicholas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/noel-mcpharlin\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/noel-mcpharlin\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/noel-mcpharlin\/tour-downunder.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33872,
+		"inputAbbreviatedPath": "\/riders\/noel-mcpharlin\/tour-downunder.jpg",
+		"outputAbbreviatedPath": "\/riders\/noel-mcpharlin\/tour-downunder.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
