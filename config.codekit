@@ -13663,6 +13663,59 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/frank-raineri\/artillery.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116509,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/artillery.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/artillery.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/frank-raineri\/boardwalk.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87695,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/boardwalk.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/boardwalk.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/frank-raineri\/bridge.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110538,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/bridge.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/bridge.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/frank-raineri\/ice-path.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112147,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/ice-path.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/ice-path.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/frank-raineri\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/gary-bernstein\/build-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
