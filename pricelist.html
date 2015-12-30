@@ -397,21 +397,34 @@
 			<p>
 				The following ordering information / form is only for those individuals who do not have a Lightning dealer nearby. If possible, we recommend buying from a local authorized Lightning dealer in order to obtain the highest possible service.<br>
 			</p>
-			<p>
-				NAME: ..................................................................................................
-			</p>
-			<p>
-				TELEPHONE: ......................................................................................
-			</p>
-			<p>
-				ADDRESS: ..........................................................................................
-			</p>
-			<p>
-				CITY:................................................................ STATE: .............
-			</p>
-			<p>
-				ZIP CODE: ................................
-			</p>
+			<form>
+<div class="form-horizontal">
+				<div class="form-group">
+					<label for="name">Name</label>
+					<input class="form-control" id="name" placeholder="" disabled="disabled">
+				</div>
+				<div class="form-group">
+					<label for="telephone">Telephone</label>
+					<input class="form-control" id="telephone" placeholder="" disabled="disabled">
+				</div>
+				<div class="form-group">
+					<label for="address">Address</label>
+					<input class="form-control" id="address" placeholder="" disabled="disabled">
+				</div>
+				<div class="form-group">
+					<label for="city">City</label>
+					<input class="form-control" id="city" placeholder="" disabled="disabled">
+				</div>
+				<div class="form-group">
+					<label for="state">State</label>
+					<input class="form-control" id="state" placeholder="" disabled="disabled">
+				</div>
+				<div class="form-group">
+					<label for="zip">ZIP code</label>
+					<input class="form-control" id="zip" placeholder="" disabled="disabled">
+				</div>
+</div>
+			</form>
 			<h2>
 				Shipping
 			</h2>
@@ -436,11 +449,11 @@
 					</tr>
 					<tr>
 						<td>California residents add sales tax of 8%</td>
-						<td>__________</td>
+						<td>$___</td>
 					</tr>
 					<tr>
 						<td>Total</td>
-						<td>__________</td>
+						<td>$___</td>
 					</tr>
 				</tbody>
 			</table>
@@ -450,12 +463,20 @@
 			<p>
 				The full amount is payable when the order is placed by Visa/Master Cards, Money Order, or Personal check. For credit card orders, FAX, mail, or phone in the credit card info.
 			</p>
-			<p>
-				Credit Card Number: __________________________________ Exp. ____________
-			</p>
-			<p>
-				Signature ______________________________________
-			</p>
+			<form>
+				<div class="form-group">
+					<label for="ccnumber">Credit card number</label>
+					<input type="email" class="form-control" id="ccnumber" placeholder="" disabled="disabled">
+				</div>
+				<div class="form-group">
+					<label for="ccexpiration">Expiration date</label>
+					<input class="form-control" id="ccexpiration" placeholder="" disabled="disabled">
+				</div>
+				<div class="form-group">
+					<label for="signature">Signature</label>
+					<input class="form-control" id="signature" placeholder="" disabled="disabled">
+				</div>
+			</form>
 			<h2>
 				Notes
 			</h2>
@@ -470,15 +491,24 @@
 			<p>
 				Take your measurements as specified on the <a href="/bikefit.html">Bike Fitting</a> page.
 			</p>
-			<p>
-				HEIGHT: ..................... WEIGHT: .......................
-			</p>
-			<p>
-				INSEAM (standing: crotch to floor, barefoot): .............................
-			</p>
-			<p>
-				LEG X-SEAM (sitting: book to heel of foot): ...............................
-			</p>
+			<form>
+				<div class="form-group">
+					<label for="height">Height</label>
+					<input type="email" class="form-control" id="height" placeholder="" disabled="disabled">
+				</div>
+				<div class="form-group">
+					<label for="weight">Weight</label>
+					<input class="form-control" id="weight" placeholder="" disabled="disabled">
+				</div>
+				<div class="form-group">
+					<label for="inseam">Inseam (standing: crotch to floor, barefoot)</label>
+					<input class="form-control" id="inseam" placeholder="" disabled="disabled">
+				</div>
+				<div class="form-group">
+					<label for="xseam">Leg X-seam (sitting: book to heel of foot)</label>
+					<input class="form-control" id="xseam" placeholder="" disabled="disabled">
+				</div>
+			</form>
 			<h2>
 				You can place orders by
 			</h2>
