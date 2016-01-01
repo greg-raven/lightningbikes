@@ -18,6 +18,7 @@
 <![endif]-->
 <!-- end metatags.incl -->
 <!-- end bbinclude -->
+	<link href="/css/bootstrap3_player/css/bootstrap3_player.css" rel="stylesheet">
 </head>
 <body>
 <!-- #bbinclude "content-container.incl" -->
@@ -27,9 +28,10 @@
 <!-- end content-container.incl -->
 <!-- end bbinclude -->
 <!-- #bbinclude "riders.incl" -->
-	<p class="lead">
-		Lightning riders
-	</p>
+			<p class="lead">
+				Lightning riders
+			</p>
+
 <!-- end riders.incl -->
 <!-- end bbinclude -->
 			<h1>
@@ -66,7 +68,9 @@
 			<p>
 				Here is <a href="/riders/martin-krieg/index.html">Martin Krieg</a>&rsquo;s podcast interview with Pete, dealing with his experiences with the Lightning recumbent, and his record-breaking 1989 RAAM victory aboard the Lightning <a href="/f40/index.html">F-40</a>.
 			</p>
-			<iframe src="https://archive.org/embed/PenseyresPodcastRecumbent" width="500" height="140"></iframe>
+			<audio controls>
+				<source src="https://archive.org/download/PenseyresPodcastRecumbent/Penseyres%20Podcast%20Recumbent.mp3" type="audio/mpeg"> Your browser does not support the audio element.
+			</audio>
 			<p>
 				(Note: <a href="https://archive.org/details/PenseyresPodcastUpright">Part 1 of this interview</a> deals with Pete&rsquo;s experience on upright bikes.
 			</p>
@@ -104,8 +108,13 @@
 <!-- /.container-fluid -->
 <!-- end address.incl -->
 <!-- end bbinclude -->
+<!-- #bbinclude "js.incl" -->
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script> <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<!-- end js.incl -->
+<!-- end bbinclude -->
+<script src="/css/bootstrap3_player/js/bootstrap3_player.js"></script>
 <!-- #bbinclude "analytics.incl" -->
-	<script type="text/javascript">var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-37984504-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
+<script type="text/javascript">var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-37984504-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
 <!-- end analytics.incl -->
 <!-- end bbinclude -->
 </body>
