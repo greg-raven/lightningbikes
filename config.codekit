@@ -3169,17 +3169,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/images\/accessories\/seat-bags.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 309162,
-		"inputAbbreviatedPath": "\/images\/accessories\/seat-bags.png",
-		"outputAbbreviatedPath": "\/images\/accessories\/seat-bags.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
 	"\/images\/accessories\/seat-mesh-kit-tn.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11544,7 +11533,7 @@
 		"outputAbbreviatedPath": "\/riders\/bartolo-anatra\/Bartolo Anatra.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/ben-fox\/ben-fox-early-vintage.jpg": {
 		"fileType": 16384,
@@ -11566,7 +11555,7 @@
 		"outputAbbreviatedPath": "\/riders\/ben-fox\/Ben-Fox-tailsock.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/ben-fox\/Ben-Fox-vintage-frame-minus-paint.jpg": {
 		"fileType": 16384,
@@ -11577,7 +11566,7 @@
 		"outputAbbreviatedPath": "\/riders\/ben-fox\/Ben-Fox-vintage-frame-minus-paint.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/ben-fox\/Ben-Fox-vintage-frame-with-new-red-paint.jpg": {
 		"fileType": 16384,
@@ -11588,7 +11577,7 @@
 		"outputAbbreviatedPath": "\/riders\/ben-fox\/Ben-Fox-vintage-frame-with-new-red-paint.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/ben-fox\/Ben-Fox-with-shockster.jpg": {
 		"fileType": 16384,
@@ -11599,7 +11588,7 @@
 		"outputAbbreviatedPath": "\/riders\/ben-fox\/Ben-Fox-with-shockster.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/ben-fox\/index.html": {
 		"fileType": 8192,
@@ -11796,7 +11785,7 @@
 		"outputAbbreviatedPath": "\/riders\/chris-broome\/coloplast-homebrew.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/chris-broome\/index.html": {
 		"fileType": 8192,
@@ -11964,7 +11953,7 @@
 		"outputAbbreviatedPath": "\/riders\/dan-hansen-jr\/lake-georgetown.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/del-cross\/front-section.jpg": {
 		"fileType": 16384,
@@ -11975,7 +11964,7 @@
 		"outputAbbreviatedPath": "\/riders\/del-cross\/front-section.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/del-cross\/index.html": {
 		"fileType": 8192,
@@ -11995,7 +11984,7 @@
 		"outputAbbreviatedPath": "\/riders\/del-cross\/p-38.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/del-cross\/rear-section.jpg": {
 		"fileType": 16384,
@@ -12006,7 +11995,7 @@
 		"outputAbbreviatedPath": "\/riders\/del-cross\/rear-section.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/f40-racing.html": {
 		"fileType": 8192,
@@ -13475,7 +13464,7 @@
 		"outputAbbreviatedPath": "\/riders\/hari-iyer\/Hari-Iyer.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/hari-iyer\/index.html": {
 		"fileType": 8192,
@@ -13524,7 +13513,7 @@
 		"outputAbbreviatedPath": "\/riders\/howard-gilbert\/modified-front-brake-noodle.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/howard-gilbert\/swoopy-handlebars.jpg": {
 		"fileType": 16384,
@@ -13535,7 +13524,7 @@
 		"outputAbbreviatedPath": "\/riders\/howard-gilbert\/swoopy-handlebars.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/index.html": {
 		"fileType": 8192,
@@ -13626,7 +13615,7 @@
 		"outputAbbreviatedPath": "\/riders\/jeff-wills\/Easy-Racer-ish-seat.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/jeff-wills\/index.html": {
 		"fileType": 8192,
@@ -13666,7 +13655,7 @@
 		"outputAbbreviatedPath": "\/riders\/joe-imm\/in-south-korea.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/joe-imm\/index.html": {
 		"fileType": 8192,
@@ -13735,7 +13724,7 @@
 		"outputAbbreviatedPath": "\/riders\/juarez-petterie\/Juarez-Petterle-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/juarez-petterie\/Juarez-Petterle-2.jpg": {
 		"fileType": 16384,
@@ -13746,7 +13735,7 @@
 		"outputAbbreviatedPath": "\/riders\/juarez-petterie\/Juarez-Petterle-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/juarez-petterie\/Juarez-Petterle-3.jpg": {
 		"fileType": 16384,
@@ -13757,7 +13746,7 @@
 		"outputAbbreviatedPath": "\/riders\/juarez-petterie\/Juarez-Petterle-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/julia-zhu\/index.html": {
 		"fileType": 8192,
@@ -13777,7 +13766,7 @@
 		"outputAbbreviatedPath": "\/riders\/julia-zhu\/julia-zhu.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/ken-leibold\/index.html": {
 		"fileType": 8192,
@@ -13808,7 +13797,7 @@
 		"outputAbbreviatedPath": "\/riders\/ken-leibold\/winter-ride.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/lee-emmett\/index.html": {
 		"fileType": 8192,
@@ -15684,7 +15673,7 @@
 		"outputAbbreviatedPath": "\/riders\/michael-kapala\/thunderbolt.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/michael-smith\/cannondale.jpg": {
 		"fileType": 16384,
@@ -15724,7 +15713,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/04.jpg": {
 		"fileType": 16384,
@@ -15735,7 +15724,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/05.jpg": {
 		"fileType": 16384,
@@ -15746,7 +15735,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/05.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/06.jpg": {
 		"fileType": 16384,
@@ -15757,7 +15746,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/06.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/07.jpg": {
 		"fileType": 16384,
@@ -15768,7 +15757,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/07.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/08.jpg": {
 		"fileType": 16384,
@@ -15779,7 +15768,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/08.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/09.jpg": {
 		"fileType": 16384,
@@ -15790,7 +15779,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/09.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/10.jpg": {
 		"fileType": 16384,
@@ -15801,7 +15790,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/betty_hill.jpg": {
 		"fileType": 16384,
@@ -15812,7 +15801,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/betty_hill.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/manchestershipcanal.jpg": {
 		"fileType": 16384,
@@ -15823,7 +15812,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_images1\/manchestershipcanal.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/03.jpg": {
 		"fileType": 16384,
@@ -15834,7 +15823,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/04.jpg": {
 		"fileType": 16384,
@@ -15845,7 +15834,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/05.jpg": {
 		"fileType": 16384,
@@ -15856,7 +15845,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/05.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/06.jpg": {
 		"fileType": 16384,
@@ -15867,7 +15856,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/06.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/07.jpg": {
 		"fileType": 16384,
@@ -15878,7 +15867,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/07.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/08.jpg": {
 		"fileType": 16384,
@@ -15889,7 +15878,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/08.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/09.jpg": {
 		"fileType": 16384,
@@ -15900,7 +15889,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/09.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/10.jpg": {
 		"fileType": 16384,
@@ -15911,7 +15900,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/betty_hill.jpg": {
 		"fileType": 16384,
@@ -15922,7 +15911,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/betty_hill.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/manchestershipcanal.jpg": {
 		"fileType": 16384,
@@ -15933,7 +15922,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/2014rab\/index_files\/vlb_thumbnails1\/manchestershipcanal.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index.html": {
 		"fileType": 8192,
@@ -15953,7 +15942,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/2014_winter_200k.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/20151017_santa_barbara_century.jpg": {
 		"fileType": 16384,
@@ -15964,7 +15953,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/20151017_santa_barbara_century.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/another_beautiful_day.jpg": {
 		"fileType": 16384,
@@ -15975,7 +15964,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/another_beautiful_day.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/back_in_california.jpg": {
 		"fileType": 16384,
@@ -15986,7 +15975,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/back_in_california.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/bart_to_orinda.jpg": {
 		"fileType": 16384,
@@ -15997,7 +15986,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/bart_to_orinda.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/haleakala.jpg": {
 		"fileType": 16384,
@@ -16008,7 +15997,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/haleakala.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/lakeberryessa.jpg": {
 		"fileType": 16384,
@@ -16019,7 +16008,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/lakeberryessa.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/lakehermondpark.jpg": {
 		"fileType": 16384,
@@ -16030,7 +16019,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/lakehermondpark.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/mick_jordan_p38.jpg": {
 		"fileType": 16384,
@@ -16041,7 +16030,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/mick_jordan_p38.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/mtdc.jpg": {
 		"fileType": 16384,
@@ -16052,7 +16041,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/mtdc.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/olema.jpg": {
 		"fileType": 16384,
@@ -16063,7 +16052,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/olema.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/paradise.jpg": {
 		"fileType": 16384,
@@ -16074,7 +16063,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/paradise.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/r84.jpg": {
 		"fileType": 16384,
@@ -16085,7 +16074,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/r84.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/rolling_low.jpg": {
 		"fileType": 16384,
@@ -16096,7 +16085,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/rolling_low.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/santacruz.jpg": {
 		"fileType": 16384,
@@ -16107,7 +16096,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/santacruz.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/scottishclimb.jpg": {
 		"fileType": 16384,
@@ -16118,7 +16107,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/scottishclimb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/sf_to_cloverdale.jpg": {
 		"fileType": 16384,
@@ -16129,7 +16118,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/sf_to_cloverdale.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/sierra_crest.jpg": {
 		"fileType": 16384,
@@ -16140,7 +16129,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/sierra_crest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/sierra_road_climb.jpg": {
 		"fileType": 16384,
@@ -16151,7 +16140,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/sierra_road_climb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/trainer_1.jpg": {
 		"fileType": 16384,
@@ -16162,7 +16151,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/trainer_1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/trainer_2.jpg": {
 		"fileType": 16384,
@@ -16173,7 +16162,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/trainer_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/tunitas_climb.jpg": {
 		"fileType": 16384,
@@ -16184,7 +16173,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/tunitas_climb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_images1\/west_alpine_road.jpg": {
 		"fileType": 16384,
@@ -16195,7 +16184,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_images1\/west_alpine_road.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/2014_winter_200k.jpg": {
 		"fileType": 16384,
@@ -16206,7 +16195,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/2014_winter_200k.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/20151017_santa_barbara_century.jpg": {
 		"fileType": 16384,
@@ -16217,7 +16206,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/20151017_santa_barbara_century.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/another_beautiful_day.jpg": {
 		"fileType": 16384,
@@ -16228,7 +16217,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/another_beautiful_day.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/back_in_california.jpg": {
 		"fileType": 16384,
@@ -16239,7 +16228,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/back_in_california.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/bart_to_orinda.jpg": {
 		"fileType": 16384,
@@ -16250,7 +16239,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/bart_to_orinda.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/haleakala.jpg": {
 		"fileType": 16384,
@@ -16261,7 +16250,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/haleakala.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/lakeberryessa.jpg": {
 		"fileType": 16384,
@@ -16272,7 +16261,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/lakeberryessa.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/lakehermondpark.jpg": {
 		"fileType": 16384,
@@ -16283,7 +16272,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/lakehermondpark.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/mick_jordan_p38.jpg": {
 		"fileType": 16384,
@@ -16294,7 +16283,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/mick_jordan_p38.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/mtdc.jpg": {
 		"fileType": 16384,
@@ -16305,7 +16294,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/mtdc.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/olema.jpg": {
 		"fileType": 16384,
@@ -16316,7 +16305,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/olema.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/paradise.jpg": {
 		"fileType": 16384,
@@ -16327,7 +16316,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/paradise.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/r84.jpg": {
 		"fileType": 16384,
@@ -16338,7 +16327,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/r84.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/rolling_low.jpg": {
 		"fileType": 16384,
@@ -16349,7 +16338,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/rolling_low.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/santacruz.jpg": {
 		"fileType": 16384,
@@ -16360,7 +16349,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/santacruz.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/scottishclimb.jpg": {
 		"fileType": 16384,
@@ -16371,7 +16360,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/scottishclimb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/sf_to_cloverdale.jpg": {
 		"fileType": 16384,
@@ -16382,7 +16371,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/sf_to_cloverdale.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/sierra_crest.jpg": {
 		"fileType": 16384,
@@ -16393,7 +16382,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/sierra_crest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/sierra_road_climb.jpg": {
 		"fileType": 16384,
@@ -16404,7 +16393,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/sierra_road_climb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/trainer_1.jpg": {
 		"fileType": 16384,
@@ -16415,7 +16404,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/trainer_1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/trainer_2.jpg": {
 		"fileType": 16384,
@@ -16426,7 +16415,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/trainer_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/tunitas_climb.jpg": {
 		"fileType": 16384,
@@ -16437,7 +16426,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/tunitas_climb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/west_alpine_road.jpg": {
 		"fileType": 16384,
@@ -16448,7 +16437,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/index_files\/vlb_thumbnails1\/west_alpine_road.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/r84\/build.jpg": {
 		"fileType": 16384,
@@ -16459,7 +16448,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/r84\/build.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/r84\/Mick Jordan.jpg": {
 		"fileType": 16384,
@@ -16470,7 +16459,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/r84\/Mick Jordan.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/r84\/r84-1.jpg": {
 		"fileType": 16384,
@@ -16481,7 +16470,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/r84\/r84-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/r84\/r84-2.jpg": {
 		"fileType": 16384,
@@ -16492,7 +16481,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/r84\/r84-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/r84\/r84-3.jpg": {
 		"fileType": 16384,
@@ -16503,7 +16492,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/r84\/r84-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index.html": {
 		"fileType": 8192,
@@ -16523,7 +16512,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/04.jpg": {
 		"fileType": 16384,
@@ -16534,7 +16523,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/05.jpg": {
 		"fileType": 16384,
@@ -16545,7 +16534,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/05.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/06.jpg": {
 		"fileType": 16384,
@@ -16556,7 +16545,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/06.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/07.jpg": {
 		"fileType": 16384,
@@ -16567,7 +16556,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/07.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/08.jpg": {
 		"fileType": 16384,
@@ -16578,7 +16567,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/08.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/09.jpg": {
 		"fileType": 16384,
@@ -16589,7 +16578,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/09.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/micks_new_ride_1.jpg": {
 		"fileType": 16384,
@@ -16600,7 +16589,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/micks_new_ride_1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/micks_new_ride_2.jpg": {
 		"fileType": 16384,
@@ -16611,7 +16600,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_images1\/micks_new_ride_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/03.jpg": {
 		"fileType": 16384,
@@ -16622,7 +16611,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/04.jpg": {
 		"fileType": 16384,
@@ -16633,7 +16622,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/05.jpg": {
 		"fileType": 16384,
@@ -16644,7 +16633,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/05.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/06.jpg": {
 		"fileType": 16384,
@@ -16655,7 +16644,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/06.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/07.jpg": {
 		"fileType": 16384,
@@ -16666,7 +16655,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/07.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/08.jpg": {
 		"fileType": 16384,
@@ -16677,7 +16666,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/08.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/09.jpg": {
 		"fileType": 16384,
@@ -16688,7 +16677,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/09.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/micks_new_ride_1.jpg": {
 		"fileType": 16384,
@@ -16699,7 +16688,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/micks_new_ride_1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/micks_new_ride_2.jpg": {
 		"fileType": 16384,
@@ -16710,7 +16699,7 @@
 		"outputAbbreviatedPath": "\/riders\/mick-jordan\/voyager\/index_files\/vlb_thumbnails1\/micks_new_ride_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/mike-nicholaus\/index.html": {
 		"fileType": 8192,
@@ -16865,7 +16854,7 @@
 		"outputAbbreviatedPath": "\/riders\/paul-gracey\/coroplast-drag-racing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/paul-gracey\/index.html": {
 		"fileType": 8192,
@@ -17393,16 +17382,25 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/riders\/scott-macri\/with Scott Macri.jpg": {
+	"\/riders\/scott-macri\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/scott-macri\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/scott-macri\/Scott-Macri.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 381691,
-		"inputAbbreviatedPath": "\/riders\/scott-macri\/with Scott Macri.jpg",
-		"outputAbbreviatedPath": "\/riders\/scott-macri\/with Scott Macri.jpg",
+		"inputAbbreviatedPath": "\/riders\/scott-macri\/Scott-Macri.jpg",
+		"outputAbbreviatedPath": "\/riders\/scott-macri\/Scott-Macri.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/sheryl-johnson\/delivery-day.jpg": {
 		"fileType": 16384,
@@ -17705,7 +17703,7 @@
 		"outputAbbreviatedPath": "\/riders\/wally-kiehler\/fully-dressed.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/wally-kiehler\/index.html": {
 		"fileType": 8192,
@@ -17725,7 +17723,7 @@
 		"outputAbbreviatedPath": "\/riders\/wally-kiehler\/partially-undressed.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/wally-kiehler\/Wally-at-Ford-next-to-streamliner.jpg": {
 		"fileType": 16384,
@@ -17736,7 +17734,7 @@
 		"outputAbbreviatedPath": "\/riders\/wally-kiehler\/Wally-at-Ford-next-to-streamliner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/wally-kiehler\/Wally-Kiehler-new-r84.jpg": {
 		"fileType": 16384,
@@ -17747,7 +17745,7 @@
 		"outputAbbreviatedPath": "\/riders\/wally-kiehler\/Wally-Kiehler-new-r84.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/wally-kiehler\/Wally-Kiehler-next-to-carbon-low-racer.jpg": {
 		"fileType": 16384,
@@ -17758,7 +17756,7 @@
 		"outputAbbreviatedPath": "\/riders\/wally-kiehler\/Wally-Kiehler-next-to-carbon-low-racer.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/wally-kiehler\/Wally-Kiehler.jpg": {
 		"fileType": 16384,
@@ -17769,7 +17767,7 @@
 		"outputAbbreviatedPath": "\/riders\/wally-kiehler\/Wally-Kiehler.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/wendy-sparks\/index.html": {
 		"fileType": 8192,
@@ -17829,7 +17827,7 @@
 		"outputAbbreviatedPath": "\/riders\/william-kaenel\/William-Kaenel.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/riders\/william-petrie\/index.html": {
 		"fileType": 8192,
