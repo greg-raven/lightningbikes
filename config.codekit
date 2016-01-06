@@ -11535,6 +11535,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/bartolo-anatra\/Bartolo Anatra.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80108,
+		"inputAbbreviatedPath": "\/riders\/bartolo-anatra\/Bartolo Anatra.jpg",
+		"outputAbbreviatedPath": "\/riders\/bartolo-anatra\/Bartolo Anatra.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/ben-fox\/ben-fox-early-vintage.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11545,6 +11556,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/ben-fox\/Ben-Fox-tailsock.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63405,
+		"inputAbbreviatedPath": "\/riders\/ben-fox\/Ben-Fox-tailsock.jpg",
+		"outputAbbreviatedPath": "\/riders\/ben-fox\/Ben-Fox-tailsock.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/ben-fox\/Ben-Fox-vintage-frame-minus-paint.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131909,
+		"inputAbbreviatedPath": "\/riders\/ben-fox\/Ben-Fox-vintage-frame-minus-paint.jpg",
+		"outputAbbreviatedPath": "\/riders\/ben-fox\/Ben-Fox-vintage-frame-minus-paint.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/ben-fox\/Ben-Fox-vintage-frame-with-new-red-paint.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106067,
+		"inputAbbreviatedPath": "\/riders\/ben-fox\/Ben-Fox-vintage-frame-with-new-red-paint.jpg",
+		"outputAbbreviatedPath": "\/riders\/ben-fox\/Ben-Fox-vintage-frame-with-new-red-paint.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/ben-fox\/Ben-Fox-with-shockster.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60523,
+		"inputAbbreviatedPath": "\/riders\/ben-fox\/Ben-Fox-with-shockster.jpg",
+		"outputAbbreviatedPath": "\/riders\/ben-fox\/Ben-Fox-with-shockster.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/ben-fox\/index.html": {
 		"fileType": 8192,
@@ -11732,6 +11787,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/chris-broome\/coloplast-homebrew.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24277,
+		"inputAbbreviatedPath": "\/riders\/chris-broome\/coloplast-homebrew.jpg",
+		"outputAbbreviatedPath": "\/riders\/chris-broome\/coloplast-homebrew.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/chris-broome\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -11888,6 +11954,59 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/dan-hansen-jr\/lake-georgetown.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77272,
+		"inputAbbreviatedPath": "\/riders\/dan-hansen-jr\/lake-georgetown.jpg",
+		"outputAbbreviatedPath": "\/riders\/dan-hansen-jr\/lake-georgetown.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/del-cross\/front-section.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83112,
+		"inputAbbreviatedPath": "\/riders\/del-cross\/front-section.jpg",
+		"outputAbbreviatedPath": "\/riders\/del-cross\/front-section.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/del-cross\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/del-cross\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/del-cross\/p-38.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68941,
+		"inputAbbreviatedPath": "\/riders\/del-cross\/p-38.jpg",
+		"outputAbbreviatedPath": "\/riders\/del-cross\/p-38.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/del-cross\/rear-section.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98011,
+		"inputAbbreviatedPath": "\/riders\/del-cross\/rear-section.jpg",
+		"outputAbbreviatedPath": "\/riders\/del-cross\/rear-section.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/f40-racing.html": {
 		"fileType": 8192,
@@ -13347,6 +13466,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/hari-iyer\/Hari-Iyer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57124,
+		"inputAbbreviatedPath": "\/riders\/hari-iyer\/Hari-Iyer.jpg",
+		"outputAbbreviatedPath": "\/riders\/hari-iyer\/Hari-Iyer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/hari-iyer\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/hari-iyer\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/holz-goulet\/holz-goulet.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13366,6 +13505,37 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/howard-gilbert\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/howard-gilbert\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/howard-gilbert\/modified-front-brake-noodle.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89737,
+		"inputAbbreviatedPath": "\/riders\/howard-gilbert\/modified-front-brake-noodle.jpg",
+		"outputAbbreviatedPath": "\/riders\/howard-gilbert\/modified-front-brake-noodle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/howard-gilbert\/swoopy-handlebars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 190766,
+		"inputAbbreviatedPath": "\/riders\/howard-gilbert\/swoopy-handlebars.jpg",
+		"outputAbbreviatedPath": "\/riders\/howard-gilbert\/swoopy-handlebars.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/index.html": {
 		"fileType": 8192,
@@ -13447,6 +13617,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/jeff-wills\/Easy-Racer-ish-seat.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70135,
+		"inputAbbreviatedPath": "\/riders\/jeff-wills\/Easy-Racer-ish-seat.jpg",
+		"outputAbbreviatedPath": "\/riders\/jeff-wills\/Easy-Racer-ish-seat.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/jeff-wills\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -13475,6 +13656,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/joe-imm\/in-south-korea.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112669,
+		"inputAbbreviatedPath": "\/riders\/joe-imm\/in-south-korea.jpg",
+		"outputAbbreviatedPath": "\/riders\/joe-imm\/in-south-korea.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/joe-imm\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/joe-imm\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/riders\/john-oneal\/delivery-day.jpg": {
 		"fileType": 16384,
@@ -13516,6 +13717,68 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/juarez-petterie\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/juarez-petterie\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/juarez-petterie\/Juarez-Petterle-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75218,
+		"inputAbbreviatedPath": "\/riders\/juarez-petterie\/Juarez-Petterle-1.jpg",
+		"outputAbbreviatedPath": "\/riders\/juarez-petterie\/Juarez-Petterle-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/juarez-petterie\/Juarez-Petterle-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80786,
+		"inputAbbreviatedPath": "\/riders\/juarez-petterie\/Juarez-Petterle-2.jpg",
+		"outputAbbreviatedPath": "\/riders\/juarez-petterie\/Juarez-Petterle-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/juarez-petterie\/Juarez-Petterle-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83866,
+		"inputAbbreviatedPath": "\/riders\/juarez-petterie\/Juarez-Petterle-3.jpg",
+		"outputAbbreviatedPath": "\/riders\/juarez-petterie\/Juarez-Petterle-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/julia-zhu\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/julia-zhu\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/julia-zhu\/julia-zhu.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92997,
+		"inputAbbreviatedPath": "\/riders\/julia-zhu\/julia-zhu.jpg",
+		"outputAbbreviatedPath": "\/riders\/julia-zhu\/julia-zhu.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/ken-leibold\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -13535,6 +13798,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/ken-leibold\/winter-ride.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71719,
+		"inputAbbreviatedPath": "\/riders\/ken-leibold\/winter-ride.jpg",
+		"outputAbbreviatedPath": "\/riders\/ken-leibold\/winter-ride.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/lee-emmett\/index.html": {
 		"fileType": 8192,
@@ -15401,6 +15675,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/michael-kapala\/thunderbolt.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.64688e+06,
+		"inputAbbreviatedPath": "\/riders\/michael-kapala\/thunderbolt.jpg",
+		"outputAbbreviatedPath": "\/riders\/michael-kapala\/thunderbolt.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/michael-smith\/cannondale.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16176,6 +16461,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/riders\/mick-jordan\/r84\/Mick Jordan.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160001,
+		"inputAbbreviatedPath": "\/riders\/mick-jordan\/r84\/Mick Jordan.jpg",
+		"outputAbbreviatedPath": "\/riders\/mick-jordan\/r84\/Mick Jordan.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/mick-jordan\/r84\/r84-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16559,6 +16855,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/paul-gracey\/coroplast-drag-racing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52127,
+		"inputAbbreviatedPath": "\/riders\/paul-gracey\/coroplast-drag-racing.jpg",
+		"outputAbbreviatedPath": "\/riders\/paul-gracey\/coroplast-drag-racing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/paul-gracey\/index.html": {
 		"fileType": 8192,
@@ -17086,6 +17393,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/scott-macri\/with Scott Macri.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 381691,
+		"inputAbbreviatedPath": "\/riders\/scott-macri\/with Scott Macri.jpg",
+		"outputAbbreviatedPath": "\/riders\/scott-macri\/with Scott Macri.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/sheryl-johnson\/delivery-day.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -17378,6 +17696,81 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/wally-kiehler\/fully-dressed.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 219641,
+		"inputAbbreviatedPath": "\/riders\/wally-kiehler\/fully-dressed.jpg",
+		"outputAbbreviatedPath": "\/riders\/wally-kiehler\/fully-dressed.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/wally-kiehler\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/wally-kiehler\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/wally-kiehler\/partially-undressed.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15258,
+		"inputAbbreviatedPath": "\/riders\/wally-kiehler\/partially-undressed.jpg",
+		"outputAbbreviatedPath": "\/riders\/wally-kiehler\/partially-undressed.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/wally-kiehler\/Wally-at-Ford-next-to-streamliner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43954,
+		"inputAbbreviatedPath": "\/riders\/wally-kiehler\/Wally-at-Ford-next-to-streamliner.jpg",
+		"outputAbbreviatedPath": "\/riders\/wally-kiehler\/Wally-at-Ford-next-to-streamliner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/wally-kiehler\/Wally-Kiehler-new-r84.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61574,
+		"inputAbbreviatedPath": "\/riders\/wally-kiehler\/Wally-Kiehler-new-r84.jpg",
+		"outputAbbreviatedPath": "\/riders\/wally-kiehler\/Wally-Kiehler-new-r84.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/wally-kiehler\/Wally-Kiehler-next-to-carbon-low-racer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29999,
+		"inputAbbreviatedPath": "\/riders\/wally-kiehler\/Wally-Kiehler-next-to-carbon-low-racer.jpg",
+		"outputAbbreviatedPath": "\/riders\/wally-kiehler\/Wally-Kiehler-next-to-carbon-low-racer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/wally-kiehler\/Wally-Kiehler.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37897,
+		"inputAbbreviatedPath": "\/riders\/wally-kiehler\/Wally-Kiehler.jpg",
+		"outputAbbreviatedPath": "\/riders\/wally-kiehler\/Wally-Kiehler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/wendy-sparks\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -17417,6 +17810,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/william-kaenel\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/william-kaenel\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/william-kaenel\/William-Kaenel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111509,
+		"inputAbbreviatedPath": "\/riders\/william-kaenel\/William-Kaenel.jpg",
+		"outputAbbreviatedPath": "\/riders\/william-kaenel\/William-Kaenel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/william-petrie\/index.html": {
 		"fileType": 8192,
