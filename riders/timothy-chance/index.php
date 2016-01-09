@@ -33,28 +33,34 @@
 
 <!-- end riders.incl -->
 <!-- end bbinclude -->
-	<h1>
-		Timothy Chance
-	</h1>
-	<p>
-		From a <a href="/voyager/index.html">Lightning Voyager</a> rider in Scotland:
-	</p>
-	<p>
-		&ldquo;No photos of me, but here is my P-38 standing next to the 4,500-year-old recumbent stone circle that overlooks my house.
-	</p>
-	<p>
-		&ldquo;I want to add how enjoyable the bike has been &mdash; it still puts a surprise grin on my face when I hit a patch of smooth tarmac. I&rsquo;m still overtaking my chums both up and down most hills, and it&rsquo;s only when it gets really steep that they can get their revenge.&rdquo;
-	</p>
-	<figure>
-		<img src="/riders/timothy-chance/Voyager-Timothy-Chance-at-Loanhead.jpg" width="800" height="508" alt="Timothy Chance&rsquo;s Lightning P-38 Voyager at Loanhead" class="img-thumbnail" />
-	</figure>
-	<p>
-		&ldquo;#65 out of 131 in a recent Regent-of-the-Mountain climb that included slopes of 20%. With some inexpert manipulation of statistics, is that not proof (sic) that the P-38 is a better climber than most diamond frames?&rdquo;
-	</p>
-	<figure>
-		<img src="/riders/timothy-chance/Voyager-Timothy-Chance-climbing.jpg" width="800" height="684" alt="Timothy Chance climbing like crazy aboard his Lightning P-38 Voyager" class="img-thumbnail" />
-	</figure>
+			<h1>
+				Timothy Chance
+			</h1>
+			<p>
+				From a <a href="/voyager/index.html">Lightning Voyager</a> rider in Scotland:
+			</p>
+			<p>
+				&ldquo;No photos of me, but here is my P-38 standing next to the 4,500-year-old recumbent stone circle that overlooks my house.
+			</p>
+			<p>
+				&ldquo;I want to add how enjoyable the bike has been &mdash; it still puts a surprise grin on my face when I hit a patch of smooth tarmac. I&rsquo;m still overtaking my chums both up and down most hills, and it&rsquo;s only when it gets really steep that they can get their revenge.&rdquo;
+			</p>
+			<figure>
+				<img src="/riders/timothy-chance/Voyager-Timothy-Chance-at-Loanhead.jpg" width="800" height="508" alt="Timothy Chance&rsquo;s Lightning P-38 Voyager at Loanhead" class="img-thumbnail" />
+			</figure>
+			<p>
+				&ldquo;#65 out of 131 in a recent Regent-of-the-Mountain climb that included slopes of 20%. With some inexpert manipulation of statistics, is that not proof (sic) that the P-38 is a better climber than most diamond frames?&rdquo;
+			</p>
+			<figure>
+				<img src="/riders/timothy-chance/Voyager-Timothy-Chance-climbing.jpg" width="800" height="684" alt="Timothy Chance climbing like crazy aboard his Lightning P-38 Voyager" class="img-thumbnail" />
+			</figure>
 
+<!-- #bbinclude "lightningriders.incl" -->
+			<p class="well">
+				For more Lightning photos and a forum for questions and sharing ideas, visit Joel Dickman&rsquo;s <a href="http://www.lightningriders.com/" title="Lightning Riders forum">LightningRiders.com</a>.
+			</p>
+
+<!-- end lightningriders.incl -->
 <!-- #bbinclude "sidebar.incl" -->
 		</article>
 		<div class="col-sm-2 col-sm-pull-10">
@@ -89,7 +95,7 @@
 <!-- end address.incl -->
 <!-- end bbinclude -->
 <!-- #bbinclude "analytics.incl" -->
-	<script type="text/javascript">var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-37984504-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
+<script type="text/javascript">var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-37984504-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
 <!-- end analytics.incl -->
 <!-- end bbinclude -->
 </body>
