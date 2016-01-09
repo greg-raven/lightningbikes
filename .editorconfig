@@ -1,0 +1,26 @@
+# EditorConfig is awesome: http://EditorConfig.org
+# and so is BBEdit: http://www.barebones.com
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+# Matches multiple files with brace expansion notation
+[*]
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Set default charset
+charset = utf-8
+
+# Tab indentation (no size specified)
+indent_style = tab
+
+# Personal preferences
+
+make-backup-files = true
+x-font-name = "Hack Regular"
+x-font-size = 14
+x-soft-wrap-text = true
+x-soft-wrap-mode = WindowWidth
