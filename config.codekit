@@ -11776,6 +11776,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/charles-dibella\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/charles-dibella\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/charles-dibella\/touring-stealth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71436,
+		"inputAbbreviatedPath": "\/riders\/charles-dibella\/touring-stealth.jpg",
+		"outputAbbreviatedPath": "\/riders\/charles-dibella\/touring-stealth.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/chris-broome\/coloplast-homebrew.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13799,6 +13819,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/larry-guevara\/Blue-Angel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56113,
+		"inputAbbreviatedPath": "\/riders\/larry-guevara\/Blue-Angel.jpg",
+		"outputAbbreviatedPath": "\/riders\/larry-guevara\/Blue-Angel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/larry-guevara\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/larry-guevara\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/lee-emmett\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -13957,6 +13997,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/marius-sullwald\/200mm-cranks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65480,
+		"inputAbbreviatedPath": "\/riders\/marius-sullwald\/200mm-cranks.jpg",
+		"outputAbbreviatedPath": "\/riders\/marius-sullwald\/200mm-cranks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/marius-sullwald\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/marius-sullwald\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/riders\/mark-textor\/index.html": {
 		"fileType": 8192,
@@ -17023,28 +17083,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/riders\/rob\/lightning-stealth.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 18978,
-		"inputAbbreviatedPath": "\/riders\/rob\/lightning-stealth.jpg",
-		"outputAbbreviatedPath": "\/riders\/rob\/lightning-stealth.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/riders\/rob\/lightning_stealth.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 16150,
-		"inputAbbreviatedPath": "\/riders\/rob\/lightning_stealth.jpg",
-		"outputAbbreviatedPath": "\/riders\/rob\/lightning_stealth.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
 	"\/riders\/roland-stuck\/032.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -17501,6 +17539,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/susan-reed\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/susan-reed\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/susan-reed\/voyager.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29452,
+		"inputAbbreviatedPath": "\/riders\/susan-reed\/voyager.jpg",
+		"outputAbbreviatedPath": "\/riders\/susan-reed\/voyager.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/timothy-chance\/index.php": {
 		"fileType": 8192,
