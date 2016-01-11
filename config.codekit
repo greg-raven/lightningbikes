@@ -11524,16 +11524,25 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/riders\/bartolo-anatra\/Bartolo Anatra.jpg": {
+	"\/riders\/bartolo-anatra\/Bartolo-Anatra.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 80108,
-		"inputAbbreviatedPath": "\/riders\/bartolo-anatra\/Bartolo Anatra.jpg",
-		"outputAbbreviatedPath": "\/riders\/bartolo-anatra\/Bartolo Anatra.jpg",
+		"inputAbbreviatedPath": "\/riders\/bartolo-anatra\/Bartolo-Anatra.jpg",
+		"outputAbbreviatedPath": "\/riders\/bartolo-anatra\/Bartolo-Anatra.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/bartolo-anatra\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/bartolo-anatra\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/riders\/ben-fox\/ben-fox-early-vintage.jpg": {
 		"fileType": 16384,
