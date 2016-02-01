@@ -11446,6 +11446,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/alec-proudfoot\/f40.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56435,
+		"inputAbbreviatedPath": "\/riders\/alec-proudfoot\/f40.jpg",
+		"outputAbbreviatedPath": "\/riders\/alec-proudfoot\/f40.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/alec-proudfoot\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/alec-proudfoot\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/andreas-weigel\/f90-andreas-weigel.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11983,6 +12003,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/dash-pa\/dash-pa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45530,
+		"inputAbbreviatedPath": "\/riders\/dash-pa\/dash-pa.jpg",
+		"outputAbbreviatedPath": "\/riders\/dash-pa\/dash-pa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/dash-pa\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/dash-pa\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/riders\/del-cross\/front-section.jpg": {
 		"fileType": 16384,
@@ -17091,6 +17131,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/rob\/lightning-stealth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18978,
+		"inputAbbreviatedPath": "\/riders\/rob\/lightning-stealth.jpg",
+		"outputAbbreviatedPath": "\/riders\/rob\/lightning-stealth.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/rob\/lightning_stealth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16150,
+		"inputAbbreviatedPath": "\/riders\/rob\/lightning_stealth.jpg",
+		"outputAbbreviatedPath": "\/riders\/rob\/lightning_stealth.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/roland-stuck\/032.jpg": {
 		"fileType": 16384,

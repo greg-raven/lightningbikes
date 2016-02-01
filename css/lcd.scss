@@ -5,6 +5,7 @@ body
 {
 	font-family: Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 16px;
+	background-color: #edf0f5;
 }
 
 blockquote { font-size: 16px; }
@@ -61,20 +62,26 @@ nav.inside a
 
 nav.inside a:link, nav.inside a:visited
 {
+/*
 	background: black;
 	color: #bba3cd;
+ */
+	background: #3a5795;
+	color: #edf0f5;
 	display: block;
 }
 
 nav.inside a:hover
 {
-	background: black;
+// 	background: black;
+	background: #009cde;
 	color: white;
 }
 
 nav.inside a:active, nav.inside a.active
 {
-	background: black;
+// 	background: black;
+	background: #009cde;
 	color: white;
 }
 
