@@ -12024,6 +12024,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/david-knightly\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/david-knightly\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/david-knightly\/p-38-1989.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 469804,
+		"inputAbbreviatedPath": "\/riders\/david-knightly\/p-38-1989.jpg",
+		"outputAbbreviatedPath": "\/riders\/david-knightly\/p-38-1989.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/del-cross\/front-section.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
