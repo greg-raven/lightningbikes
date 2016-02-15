@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19102",
+"creatorBuild": "19115",
 "files": {
 	"\/accessories\/fenders.html": {
 		"fileType": 8192,
@@ -12136,6 +12136,116 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/frank-raineri\/frank-raineri-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41000,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-01.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/frank-raineri\/frank-raineri-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90329,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-02.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/frank-raineri\/frank-raineri-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73315,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-03.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/frank-raineri\/frank-raineri-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96384,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-04.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/frank-raineri\/frank-raineri-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85661,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-05.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/frank-raineri\/frank-raineri-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57986,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-06.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/frank-raineri\/frank-raineri-07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71868,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-07.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/frank-raineri\/frank-raineri-08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65576,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-08.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/frank-raineri\/frank-raineri-09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62838,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-09.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/frank-raineri\/frank-raineri-10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101585,
+		"inputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-10.jpg",
+		"outputAbbreviatedPath": "\/riders\/frank-raineri\/frank-raineri-10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/frank-raineri\/ice-path.jpg": {
 		"fileType": 16384,
