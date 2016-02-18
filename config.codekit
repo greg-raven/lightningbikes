@@ -14279,15 +14279,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/riders\/martin-krieg\/recumbent-history\/gr\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/riders\/martin-krieg\/recumbent-history\/gr\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/riders\/martin-krieg\/recumbent-history\/img\/history-001.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14457,9 +14448,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 56912,
+		"initialSize": 108440,
 		"inputAbbreviatedPath": "\/riders\/martin-krieg\/recumbent-history\/img\/history-017.jpg",
 		"outputAbbreviatedPath": "\/riders\/martin-krieg\/recumbent-history\/img\/history-017.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/martin-krieg\/recumbent-history\/img\/history-017b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 598064,
+		"inputAbbreviatedPath": "\/riders\/martin-krieg\/recumbent-history\/img\/history-017b.jpg",
+		"outputAbbreviatedPath": "\/riders\/martin-krieg\/recumbent-history\/img\/history-017b.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14512,7 +14514,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 10252,
+		"initialSize": 95619,
 		"inputAbbreviatedPath": "\/riders\/martin-krieg\/recumbent-history\/img\/history-020.jpg",
 		"outputAbbreviatedPath": "\/riders\/martin-krieg\/recumbent-history\/img\/history-020.jpg",
 		"outputPathIsOutsideProject": 0,
