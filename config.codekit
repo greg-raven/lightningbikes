@@ -17612,6 +17612,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/Scripts\/vlb\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Scripts\/vlb\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/Scripts\/vlb\/js\/jquery.min.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -17644,6 +17653,50 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/Scripts\/vlb\/vlb_engine\/jquery.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Scripts\/vlb\/vlb_engine\/jquery.min.js",
+		"outputAbbreviatedPath": "\/Scripts\/vlb\/vlb_engine\/min\/jquery.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Scripts\/vlb\/vlb_engine\/visuallightbox.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Scripts\/vlb\/vlb_engine\/visuallightbox.js",
+		"outputAbbreviatedPath": "\/Scripts\/vlb\/vlb_engine\/min\/visuallightbox-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Scripts\/vlb\/vlb_engine\/vlbdata1.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Scripts\/vlb\/vlb_engine\/vlbdata1.js",
+		"outputAbbreviatedPath": "\/Scripts\/vlb\/vlb_engine\/min\/vlbdata1-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Scripts\/vlb\/vlb_images1\/064vb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19048,
+		"inputAbbreviatedPath": "\/Scripts\/vlb\/vlb_images1\/064vb.jpg",
+		"outputAbbreviatedPath": "\/Scripts\/vlb\/vlb_images1\/064vb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/search.html": {
 		"fileType": 8192,
