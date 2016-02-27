@@ -17484,219 +17484,166 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Scripts\/vlb\/css\/visuallightbox.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/css\/visuallightbox.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Scripts\/vlb\/css\/vlightbox1.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/css\/vlightbox1.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Scripts\/vlb\/images\/borderBottomCenter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 189,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderBottomCenter.png",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderBottomCenter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Scripts\/vlb\/images\/borderBottomLeft.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 323,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderBottomLeft.png",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderBottomLeft.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Scripts\/vlb\/images\/borderBottomRight.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 335,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderBottomRight.png",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderBottomRight.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Scripts\/vlb\/images\/borderMiddleLeft.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 183,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderMiddleLeft.png",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderMiddleLeft.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Scripts\/vlb\/images\/borderMiddleRight.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 183,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderMiddleRight.png",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderMiddleRight.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Scripts\/vlb\/images\/borderTopCenter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 187,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderTopCenter.png",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderTopCenter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Scripts\/vlb\/images\/borderTopLeft.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 299,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderTopLeft.png",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderTopLeft.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Scripts\/vlb\/images\/borderTopRight.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 340,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderTopRight.png",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/images\/borderTopRight.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Scripts\/vlb\/images\/next.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2657,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/images\/next.png",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/images\/next.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Scripts\/vlb\/images\/prev.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2710,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/images\/prev.png",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/images\/prev.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Scripts\/vlb\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Scripts\/vlb\/js\/jquery.min.js": {
+	"\/Scripts\/vlb_engine\/jquery.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/js\/jquery.min.js",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/js\/min\/jquery.min-min.js",
+		"inputAbbreviatedPath": "\/Scripts\/vlb_engine\/jquery.min.js",
+		"outputAbbreviatedPath": "\/Scripts\/vlb_engine\/min\/jquery.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Scripts\/vlb\/js\/visuallightbox.js": {
+	"\/Scripts\/vlb_engine\/visuallightbox.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/js\/visuallightbox.js",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/js\/min\/visuallightbox-min.js",
+		"inputAbbreviatedPath": "\/Scripts\/vlb_engine\/visuallightbox.js",
+		"outputAbbreviatedPath": "\/Scripts\/vlb_engine\/min\/visuallightbox-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Scripts\/vlb\/js\/vlbdata1.js": {
+	"\/Scripts\/vlb_engine\/vlbdata1.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/js\/vlbdata1.js",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/js\/min\/vlbdata1-min.js",
+		"inputAbbreviatedPath": "\/Scripts\/vlb_engine\/vlbdata1.js",
+		"outputAbbreviatedPath": "\/Scripts\/vlb_engine\/min\/vlbdata1-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Scripts\/vlb\/vlb_engine\/jquery.min.js": {
-		"fileType": 64,
+	"\/Scripts\/vlb_files1\/borderBottomCenter.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/vlb_engine\/jquery.min.js",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/vlb_engine\/min\/jquery.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/Scripts\/vlb\/vlb_engine\/visuallightbox.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/vlb_engine\/visuallightbox.js",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/vlb_engine\/min\/visuallightbox-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/Scripts\/vlb\/vlb_engine\/vlbdata1.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/vlb_engine\/vlbdata1.js",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/vlb_engine\/min\/vlbdata1-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/Scripts\/vlb\/vlb_images1\/064vb.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 19048,
-		"inputAbbreviatedPath": "\/Scripts\/vlb\/vlb_images1\/064vb.jpg",
-		"outputAbbreviatedPath": "\/Scripts\/vlb\/vlb_images1\/064vb.jpg",
+		"initialSize": 222,
+		"inputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderBottomCenter.png",
+		"outputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderBottomCenter.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/Scripts\/vlb_files1\/borderBottomLeft.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 640,
+		"inputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderBottomLeft.png",
+		"outputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderBottomLeft.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Scripts\/vlb_files1\/borderBottomRight.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 605,
+		"inputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderBottomRight.png",
+		"outputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderBottomRight.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Scripts\/vlb_files1\/borderMiddleLeft.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212,
+		"inputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderMiddleLeft.png",
+		"outputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderMiddleLeft.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Scripts\/vlb_files1\/borderMiddleRight.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213,
+		"inputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderMiddleRight.png",
+		"outputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderMiddleRight.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Scripts\/vlb_files1\/borderTopCenter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 217,
+		"inputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderTopCenter.png",
+		"outputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderTopCenter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Scripts\/vlb_files1\/borderTopLeft.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 606,
+		"inputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderTopLeft.png",
+		"outputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderTopLeft.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Scripts\/vlb_files1\/borderTopRight.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 715,
+		"inputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderTopRight.png",
+		"outputAbbreviatedPath": "\/Scripts\/vlb_files1\/borderTopRight.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Scripts\/vlb_files1\/next.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4333,
+		"inputAbbreviatedPath": "\/Scripts\/vlb_files1\/next.png",
+		"outputAbbreviatedPath": "\/Scripts\/vlb_files1\/next.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Scripts\/vlb_files1\/prev.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4337,
+		"inputAbbreviatedPath": "\/Scripts\/vlb_files1\/prev.png",
+		"outputAbbreviatedPath": "\/Scripts\/vlb_files1\/prev.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Scripts\/vlb_files1\/visuallightbox.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Scripts\/vlb_files1\/visuallightbox.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Scripts\/vlb_files1\/vlightbox1.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Scripts\/vlb_files1\/vlightbox1.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/search.html": {
 		"fileType": 8192,
@@ -18481,6 +18428,81 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/vlb\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vlb\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vlb\/index_files\/vlb_images1\/064vb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19048,
+		"inputAbbreviatedPath": "\/vlb\/index_files\/vlb_images1\/064vb.jpg",
+		"outputAbbreviatedPath": "\/vlb\/index_files\/vlb_images1\/064vb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/vlb\/index_files\/vlb_images1\/132.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44998,
+		"inputAbbreviatedPath": "\/vlb\/index_files\/vlb_images1\/132.jpg",
+		"outputAbbreviatedPath": "\/vlb\/index_files\/vlb_images1\/132.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/vlb\/index_files\/vlb_images1\/voyagercouplers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88303,
+		"inputAbbreviatedPath": "\/vlb\/index_files\/vlb_images1\/voyagercouplers.jpg",
+		"outputAbbreviatedPath": "\/vlb\/index_files\/vlb_images1\/voyagercouplers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/vlb\/index_files\/vlb_thumbnails1\/064vb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7897,
+		"inputAbbreviatedPath": "\/vlb\/index_files\/vlb_thumbnails1\/064vb.jpg",
+		"outputAbbreviatedPath": "\/vlb\/index_files\/vlb_thumbnails1\/064vb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/vlb\/index_files\/vlb_thumbnails1\/132.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8130,
+		"inputAbbreviatedPath": "\/vlb\/index_files\/vlb_thumbnails1\/132.jpg",
+		"outputAbbreviatedPath": "\/vlb\/index_files\/vlb_thumbnails1\/132.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/vlb\/index_files\/vlb_thumbnails1\/voyagercouplers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10113,
+		"inputAbbreviatedPath": "\/vlb\/index_files\/vlb_thumbnails1\/voyagercouplers.jpg",
+		"outputAbbreviatedPath": "\/vlb\/index_files\/vlb_thumbnails1\/voyagercouplers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/voyager\/gallery\/data\/images1\/in_blue.jpg": {
 		"fileType": 16384,
