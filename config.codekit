@@ -119,6 +119,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/accessories\/suspended-fork-s-1.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/accessories\/suspended-fork-s-1.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/accessories\/tilt-steering.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3279,6 +3288,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/accessories\/suspended-fork-s-1-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18019,
+		"inputAbbreviatedPath": "\/images\/accessories\/suspended-fork-s-1-tn.jpg",
+		"outputAbbreviatedPath": "\/images\/accessories\/suspended-fork-s-1-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/accessories\/suspended-fork-s-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23435,
+		"inputAbbreviatedPath": "\/images\/accessories\/suspended-fork-s-1.jpg",
+		"outputAbbreviatedPath": "\/images\/accessories\/suspended-fork-s-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/accessories\/Tensioner-600.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3316,12 +3347,12 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 14636,
+		"initialSize": 45766,
 		"inputAbbreviatedPath": "\/images\/accessories\/tilt-steering.jpg",
 		"outputAbbreviatedPath": "\/images\/accessories\/tilt-steering.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/accessories\/trunk-closed.jpg": {
 		"fileType": 16384,
