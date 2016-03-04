@@ -4,12 +4,42 @@
 
 	<url>
 		<loc>https://www.lightningbikes.com</loc>
-		<lastmod>2016-02-18</lastmod>
+		<lastmod>2016-03-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/index.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/accessories/index.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/recumbents.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/handcycles/index.html</loc>
+		<lastmod>2016-02-26</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/products.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/howtobuy.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
@@ -21,44 +51,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/recumbents.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/products.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/introduction.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/handcycles/index.html</loc>
-		<lastmod>2016-02-26</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/howtobuy.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/accessories/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/pricelist.html</loc>
-		<lastmod>2016-02-26</lastmod>
+		<lastmod>2016-03-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -94,7 +94,7 @@
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/riders/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
+		<lastmod>2016-03-04</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -112,13 +112,114 @@
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/search.html</loc>
-		<lastmod>2016-02-18</lastmod>
+		<lastmod>2016-03-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/cranks/gallery/index.html</loc>
-		<lastmod>2016-02-27</lastmod>
+		<loc>https://www.lightningbikes.com/accessories/seat-bag.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/accessories/handlebar-bag.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/accessories/panniers.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/accessories/mirror.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/accessories/zzipper-fairing.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/accessories/fenders.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/accessories/lightning-t-shirt.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/accessories/quick-adjust-kit.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/accessories/lightning-shorts.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/accessories/shockster.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_REAR_RACK</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_RACK_MOUNTS</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_26_TOOTH_CHAINRING</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_CYCLECOMPUTER_WITH_</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_KICKSTAND</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_PEDAL_EXTENDERS</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/accessories/tilt-steering.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_BALLISTIC_FORK</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/riders/racing.html</loc>
+		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -129,13 +230,126 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/cranks/buy-now.html</loc>
+		<loc>https://www.lightningbikes.com/media/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_SEAT_MESH_KIT</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/gallery/index.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/videos/index.html</loc>
+		<lastmod>2016-03-04</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/videos/model-lineup.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/phantom/index.html</loc>
+		<lastmod>2016-03-04</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/midracers/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/p38/index.html</loc>
+		<lastmod>2016-03-04</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/framesets.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/patents/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/voyager/index.html</loc>
+		<lastmod>2016-03-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/f40/index.html</loc>
+		<lastmod>2016-02-26</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/f90/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/r84/index.html</loc>
+		<lastmod>2016-02-26</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/r84/di2.html</loc>
+		<lastmod>2016-02-26</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/riders/f90-racing.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/bikefit.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/colors.html</loc>
+		<lastmod>2016-02-26</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/bike-measurements.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/cranks/gallery/index.html</loc>
+		<lastmod>2016-02-27</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/cranks/buy-now.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -171,108 +385,6 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/racing.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/videos/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/videos/model-lineup.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/gallery/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/media/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/phantom/index.html</loc>
-		<lastmod>2016-02-26</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/midracers/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/p38/index.html</loc>
-		<lastmod>2016-02-26</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/framesets.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/voyager/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/f40/index.html</loc>
-		<lastmod>2016-02-26</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/r84/index.html</loc>
-		<lastmod>2016-02-26</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/r84/di2.html</loc>
-		<lastmod>2016-02-26</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/f90/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/riders/f90-racing.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/bikefit.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/colors.html</loc>
-		<lastmod>2016-02-26</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/media/1991-petes-sf-to-la.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
@@ -303,120 +415,8 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/bike-measurements.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/accessories/tilt-steering.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/accessories/shockster.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/accessories/panniers.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/accessories/seat-bag.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/accessories/handlebar-bag.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/accessories/zzipper-fairing.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/accessories/mirror.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/accessories/fenders.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/accessories/quick-adjust-kit.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/accessories/lightning-t-shirt.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/accessories/lightning-shorts.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_REAR_RACK</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_RACK_MOUNTS</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_CYCLECOMPUTER_WITH_</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_26_TOOTH_CHAINRING</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_KICKSTAND</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/dealers/0-midwest.html</loc>
 		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_BALLISTIC_FORK</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_PEDAL_EXTENDERS</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_SEAT_MESH_KIT</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -445,13 +445,13 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/dealers/6-california.html</loc>
+		<loc>https://www.lightningbikes.com/dealers/5-south-central.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/dealers/5-south-central.html</loc>
+		<loc>https://www.lightningbikes.com/dealers/6-california.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -481,14 +481,14 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/dealers/cranks-only.html</loc>
-		<lastmod>2016-02-26</lastmod>
+		<loc>https://www.lightningbikes.com/dealers/dealer.html</loc>
+		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/dealers/dealer.html</loc>
-		<lastmod>2016-02-18</lastmod>
+		<loc>https://www.lightningbikes.com/dealers/cranks-only.html</loc>
+		<lastmod>2016-02-26</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -523,13 +523,13 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/tips/seat-cord.html</loc>
+		<loc>https://www.lightningbikes.com/tips/disc-brake-adjustment.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/tips/disc-brake-adjustment.html</loc>
+		<loc>https://www.lightningbikes.com/tips/seat-cord.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -559,13 +559,13 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/tips/phantom-headset.html</loc>
+		<loc>https://www.lightningbikes.com/tips/700c-phantom.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/tips/700c-phantom.html</loc>
+		<loc>https://www.lightningbikes.com/tips/phantom-headset.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -589,13 +589,13 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/andreas-weigel/index.html</loc>
+		<loc>https://www.lightningbikes.com/tips/heirloom.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/tips/heirloom.html</loc>
+		<loc>https://www.lightningbikes.com/riders/andreas-weigel/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -625,13 +625,13 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/barclay-brown/index.html</loc>
+		<loc>https://www.lightningbikes.com/riders/carl-murdock/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/carl-murdock/index.html</loc>
+		<loc>https://www.lightningbikes.com/riders/barclay-brown/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -685,7 +685,19 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
+		<loc>https://www.lightningbikes.com/riders/dan-petkunas/index.html</loc>
+		<lastmod>2016-03-04</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
 		<loc>https://www.lightningbikes.com/riders/dash-pa/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/riders/david-knightly/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -709,7 +721,7 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/david-knightly/index.html</loc>
+		<loc>https://www.lightningbikes.com/riders/holz-goulet/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -722,12 +734,6 @@
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/riders/greg-raven/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/riders/holz-goulet/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -751,13 +757,13 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/james-allen-troost/index.html</loc>
+		<loc>https://www.lightningbikes.com/riders/jason-wolfe/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/jason-wolfe/index.html</loc>
+		<loc>https://www.lightningbikes.com/riders/james-allen-troost/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -781,13 +787,13 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/josh-young/index.html</loc>
+		<loc>https://www.lightningbikes.com/riders/joe-imm/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/joe-imm/index.html</loc>
+		<loc>https://www.lightningbikes.com/riders/josh-young/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -817,13 +823,19 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/lee-emmett/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
+		<loc>https://www.lightningbikes.com/riders/jurgen-giesen/index.html</loc>
+		<lastmod>2016-03-04</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/riders/len-zawodniak/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/riders/lee-emmett/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -847,13 +859,13 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/michael-kapala/index.html</loc>
+		<loc>https://www.lightningbikes.com/riders/martin-krieg/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/martin-krieg/index.html</loc>
+		<loc>https://www.lightningbikes.com/riders/michael-kapala/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -865,13 +877,13 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/michael-smith/index.html</loc>
+		<loc>https://www.lightningbikes.com/riders/mike-nicholaus/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/mike-nicholaus/index.html</loc>
+		<loc>https://www.lightningbikes.com/riders/michael-smith/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -883,13 +895,13 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/paul-carew/index.html</loc>
+		<loc>https://www.lightningbikes.com/riders/ray-boyer/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/ray-boyer/index.html</loc>
+		<loc>https://www.lightningbikes.com/riders/paul-carew/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -897,6 +909,12 @@
 	<url>
 		<loc>https://www.lightningbikes.com/riders/paul-gracey/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/riders/paul-worden/index.html</loc>
+		<lastmod>2016-03-04</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -913,25 +931,7 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/rich-kara/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/riders/rick-landers/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/riders/sheryl-johnson/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/riders/scott-garwick/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -943,8 +943,26 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
+		<loc>https://www.lightningbikes.com/riders/rich-kara/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/riders/sheryl-johnson/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
 		<loc>https://www.lightningbikes.com/riders/sandro-bollina/index.html</loc>
 		<lastmod>2016-02-27</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/riders/scott-garwick/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -972,14 +990,14 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/steve-friedlander/index.html</loc>
-		<lastmod>2016-02-26</lastmod>
+		<loc>https://www.lightningbikes.com/riders/susan-reed/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/susan-reed/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
+		<loc>https://www.lightningbikes.com/riders/steve-friedlander/index.html</loc>
+		<lastmod>2016-02-26</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -1002,25 +1020,25 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/william-kaenel/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/riders/will-pederson/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/strava.html</loc>
+		<loc>https://www.lightningbikes.com/riders/william-kaenel/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/riders/william-petrie/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/riders/strava.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -1038,6 +1056,12 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
+		<loc>https://www.lightningbikes.com/accessories/rack.html</loc>
+		<lastmod>2016-03-01</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
 		<loc>https://www.lightningbikes.com/phantom/manual.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
@@ -1050,32 +1074,20 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/accessories/rack.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/accessories/trunk.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/accessories/shockster-rack.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/videos/e-lightning-assembly.html</loc>
-		<lastmod>2016-02-18</lastmod>
+		<lastmod>2016-03-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/cranks/spyder-mod.html</loc>
 		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/accessories/hydrapack-bladder.html</loc>
+		<lastmod>2016-03-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -1098,13 +1110,19 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
+		<loc>https://www.lightningbikes.com/cranks/reversible-spyder-details.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
 		<loc>https://www.lightningbikes.com/cranks/spyder-installation.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/cranks/reversible-spyder-details.html</loc>
+		<loc>https://www.lightningbikes.com/cranks/lightning-tandem-crankset.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -1122,19 +1140,13 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/cranks/lightning-tandem-crankset.html</loc>
-		<lastmod>2016-02-18</lastmod>
+		<loc>https://www.lightningbikes.com/accessories/shockster-rack.html</loc>
+		<lastmod>2016-03-01</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/accessories/hydrapack-bladder.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/phantom/quotes.html</loc>
+		<loc>https://www.lightningbikes.com/media/19910728-daily-breeze.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -1146,7 +1158,7 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/media/19910728-daily-breeze.html</loc>
+		<loc>https://www.lightningbikes.com/phantom/quotes.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -1170,8 +1182,8 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/videos/e-lightning.html</loc>
-		<lastmod>2016-02-18</lastmod>
+		<loc>https://www.lightningbikes.com/riders/martin-krieg/recumbent-history/index.html</loc>
+		<lastmod>2016-03-04</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -1206,12 +1218,6 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/videos/lnl-demo-video.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/videos/f40-strava-kom.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
@@ -1224,7 +1230,19 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
+		<loc>https://www.lightningbikes.com/videos/lnl-demo-video.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
 		<loc>https://www.lightningbikes.com/gallery/lcd/index.html</loc>
+		<lastmod>2016-02-27</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/f40/gallery/index.html</loc>
 		<lastmod>2016-02-27</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -1236,7 +1254,7 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/f40/gallery/index.html</loc>
+		<loc>https://www.lightningbikes.com/handcycles/gallery/index.html</loc>
 		<lastmod>2016-02-27</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -1248,8 +1266,14 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/handcycles/gallery/index.html</loc>
+		<loc>https://www.lightningbikes.com/midracers/gallery/index.html</loc>
 		<lastmod>2016-02-27</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/p38/order-bike.html</loc>
+		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -1266,26 +1290,20 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/midracers/gallery/index.html</loc>
-		<lastmod>2016-02-27</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/media/199304-rcm-p38-design.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/p38/order-bike.html</loc>
-		<lastmod>2016-02-18</lastmod>
+		<loc>https://www.lightningbikes.com/p38/gallery/index.html</loc>
+		<lastmod>2016-02-27</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/voyager/gallery/index.html</loc>
-		<lastmod>2016-02-27</lastmod>
+		<loc>https://www.lightningbikes.com/videos/jeff-wills-p38-testimonial.html</loc>
+		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -1296,8 +1314,8 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/videos/jeff-wills-p38-testimonial.html</loc>
-		<lastmod>2016-02-18</lastmod>
+		<loc>https://www.lightningbikes.com/voyager/gallery/index.html</loc>
+		<lastmod>2016-02-27</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -1315,12 +1333,6 @@
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/r84/gallery/index.html</loc>
-		<lastmod>2016-02-27</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/p38/gallery/index.html</loc>
 		<lastmod>2016-02-27</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -1344,14 +1356,20 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
+		<loc>https://www.lightningbikes.com/videos/stealth.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
 		<loc>https://www.lightningbikes.com/t38/gallery/index.html</loc>
 		<lastmod>2016-02-27</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/videos/stealth.html</loc>
-		<lastmod>2016-02-18</lastmod>
+		<loc>https://www.lightningbikes.com/thunderbolt/gallery/index.html</loc>
+		<lastmod>2016-02-27</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -1364,12 +1382,6 @@
 	<url>
 		<loc>https://www.lightningbikes.com/t38/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/thunderbolt/gallery/index.html</loc>
-		<lastmod>2016-02-27</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -1392,12 +1404,6 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/x2/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/videos/lcd-x2.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
@@ -1406,6 +1412,12 @@
 	<url>
 		<loc>https://www.lightningbikes.com/x2/gallery/index.html</loc>
 		<lastmod>2016-02-27</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/x2/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -1434,13 +1446,19 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/barclay-brown/2000-fc508-barclay-brown-f40.html</loc>
-		<lastmod>2016-02-18</lastmod>
+		<loc>https://www.lightningbikes.com/css/bootstrap3_player/tests/tests.html</loc>
+		<lastmod>2016-12-31</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/riders/2006-fc508.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/riders/barclay-brown/2000-fc508-barclay-brown-f40.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -1470,13 +1488,13 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/1999-pbp.html</loc>
+		<loc>https://www.lightningbikes.com/media/1983-autoweek.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/media/1983-autoweek.html</loc>
+		<loc>https://www.lightningbikes.com/riders/1999-pbp.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -1512,18 +1530,6 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/media/1984-winning.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/media/1989-raam-pbaa2.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/riders/1998-raam.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
@@ -1536,7 +1542,19 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
+		<loc>https://www.lightningbikes.com/media/1984-winning.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
 		<loc>https://www.lightningbikes.com/media/1988-argus_race.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/media/1989-raam-pbaa2.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -1560,12 +1578,6 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/media/20031118-brol.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/media/20110109-brol.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
@@ -1578,13 +1590,19 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/media/20110727-brol.html</loc>
+		<loc>https://www.lightningbikes.com/media/20031118-brol.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/media/brol-thunderbolt.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/media/20110727-brol.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -1614,13 +1632,37 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/riders/cranks.html</loc>
+		<loc>https://www.lightningbikes.com/riders/mick-jordan/index.html</loc>
+		<lastmod>2016-02-27</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/riders/charles-dibella/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/riders/greg-raven/p38/index.html</loc>
+		<lastmod>2016-02-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/riders/larry-guevara/index.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/riders/paul-links/index.html</loc>
+		<lastmod>2016-03-04</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/riders/cranks.html</loc>
 		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -1656,7 +1698,35 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
+		<loc>https://www.lightningbikes.com/e-lightning/gallery/index.html</loc>
+		<lastmod>2016-02-27</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/videos/rose-city-p-38-walkaround.html</loc>
+		<lastmod>2016-03-04</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/videos/rose-city-phantom-build.html</loc>
+		<lastmod>2016-03-04</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_PHANTOM</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
 		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_ROAD_CRANKS</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_CERAMIC_BEARINGS</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -1666,7 +1736,7 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_CERAMIC_BEARINGS</loc>
+		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_CRANKARMS_MTB</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -1681,34 +1751,6 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_CRANKARMS_MTB</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/e-lightning/gallery/index.html</loc>
-		<lastmod>2016-02-27</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_PHANTOM</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/riders/greg-raven/p38/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/riders/martin-krieg/recumbent-history/index.html</loc>
-		<lastmod>2016-02-19</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_ROAD_BEARINGS_AND_C</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
@@ -1719,12 +1761,12 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_ALUM_CRANK_SPYDER</loc>
+		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_LOCKRING_TOOL</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_LOCKRING_TOOL</loc>
+		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_ALUM_CRANK_SPYDER</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -1740,12 +1782,6 @@
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_TA_MTB_DOUBLE_CHAIN</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/e-lightning/index.html</loc>
-		<lastmod>2016-02-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
