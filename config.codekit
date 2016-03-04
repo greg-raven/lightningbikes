@@ -6940,6 +6940,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/voyager\/voyager-couplers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52340,
+		"inputAbbreviatedPath": "\/images\/voyager\/voyager-couplers.jpg",
+		"outputAbbreviatedPath": "\/images\/voyager\/voyager-couplers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/voyager\/voyager-thumbnail.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11927,6 +11938,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/dan-petkunas\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/dan-petkunas\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/dash-pa\/dash-pa.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16242,6 +16262,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/riders\/paul-links\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/paul-worden\/index-PreviewTemp-38DBA304-DCA0-480E-98A8-0B5F77281B56.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/paul-worden\/index-PreviewTemp-38DBA304-DCA0-480E-98A8-0B5F77281B56.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/paul-worden\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/paul-worden\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
