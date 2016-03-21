@@ -6,6 +6,13 @@ AddDefaultCharset UTF-8
 DefaultLanguage en-US
 
 # ----------------------------------------------------------------------
+# Interpret/execute HTML files as PHP
+# ----------------------------------------------------------------------
+
+# AddHandler php5-script .html
+# AddType application/x-httpd-php .html
+
+# ----------------------------------------------------------------------
 # Gzip compression
 # ----------------------------------------------------------------------
 
