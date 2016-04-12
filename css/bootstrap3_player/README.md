@@ -1,5 +1,4 @@
-bootstrap3_player
-================
+# bootstrap3_player
 
 An HTML5 Audio Player Skin For Twitter Bootstrap 3
 
@@ -10,9 +9,9 @@ An HTML5 Audio Player Skin For Twitter Bootstrap 3
 
 #### How to use
 
-Clone or download this repo; then open the included [`index.html`](index.html) file: 
--  with **your browser** to:  
-    -  see a live demo on your local machine 
+Clone or download this repo; then open the included [`index.html`](index.html) file:
+-  with **your browser** to:
+    -  see a live demo on your local machine
     -  compare it with the [screenshots or live demo](#screenshots) below
 - with your [text editor](index.html) to:
     -  see all the css and js files you need to link to
@@ -20,12 +19,12 @@ Clone or download this repo; then open the included [`index.html`](index.html) f
 
 #### Styling caveat
 
-Works best when the player is not enclosed in too narrow a container in your page otherwise the player controls can appear jumbled. Both the seek and volume sliders are hidden on narrow (xs) viewports. A good strategy is to start "mobile-first" as usual by enclosing your audio block in a row that uses all twelve grid colums of the page's outer container in an xs viewport. Then, on wider viewports, the player can occupy fewer of the page's grid columns. See the example row widths in  [`index.html`](index.html) and the corresponding [live demo](http://playerdemo.iainhouston.com).   
+Works best when the player is not enclosed in too narrow a container in your page otherwise the player controls can appear jumbled. Both the seek and volume sliders are hidden on narrow (xs) viewports. A good strategy is to start "mobile-first" as usual by enclosing your audio block in a row that uses all twelve grid colums of the page's outer container in an xs viewport. Then, on wider viewports, the player can occupy fewer of the page's grid columns. See the example row widths in  [`index.html`](index.html) and the corresponding [live demo](http://playerdemo.iainhouston.com).
 
 ##### Forked from William Randol's [bootstrap-player](https://github.com/WilliamRandol/bootstrap-player)
 
  -  `bootstrap-player` is great for Bootstrap 2
- -  All the functionality of William Randol's player is preserved   
+ -  All the functionality of William Randol's player is preserved
  (QUnit / FuncUnit test suite in progress :waxing_crescent_moon:)
  -  `bootstrap3_player` updates the styling of `bootstrap-player`; has fewer dependencies; uses Bootstrap 3
 
