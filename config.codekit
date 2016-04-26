@@ -4113,6 +4113,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/cranks\/spyder-lockring-tool.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2132,
+		"inputAbbreviatedPath": "\/images\/cranks\/spyder-lockring-tool.jpg",
+		"outputAbbreviatedPath": "\/images\/cranks\/spyder-lockring-tool.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/cranks\/SRAM-XX1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
