@@ -11958,6 +11958,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/dan-sosa\/dan-sosa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74426,
+		"inputAbbreviatedPath": "\/riders\/dan-sosa\/dan-sosa.jpg",
+		"outputAbbreviatedPath": "\/riders\/dan-sosa\/dan-sosa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/dan-sosa\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/dan-sosa\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/dash-pa\/dash-pa.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13588,6 +13608,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/guido-holenstein\/guido-f40.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42381,
+		"inputAbbreviatedPath": "\/riders\/guido-holenstein\/guido-f40.jpg",
+		"outputAbbreviatedPath": "\/riders\/guido-holenstein\/guido-f40.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/guido-holenstein\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -13596,6 +13627,39 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/guido-holenstein\/p-38.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32007,
+		"inputAbbreviatedPath": "\/riders\/guido-holenstein\/p-38.jpg",
+		"outputAbbreviatedPath": "\/riders\/guido-holenstein\/p-38.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/guido-holenstein\/rear-view.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43775,
+		"inputAbbreviatedPath": "\/riders\/guido-holenstein\/rear-view.jpg",
+		"outputAbbreviatedPath": "\/riders\/guido-holenstein\/rear-view.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/guido-holenstein\/sans-textiles.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41477,
+		"inputAbbreviatedPath": "\/riders\/guido-holenstein\/sans-textiles.jpg",
+		"outputAbbreviatedPath": "\/riders\/guido-holenstein\/sans-textiles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/guido-holenstein\/swiss-f40.jpg": {
 		"fileType": 16384,
@@ -16295,6 +16359,48 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/peder-torgensen\/coroplast-fairing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29494,
+		"inputAbbreviatedPath": "\/riders\/peder-torgensen\/coroplast-fairing.jpg",
+		"outputAbbreviatedPath": "\/riders\/peder-torgensen\/coroplast-fairing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/peder-torgensen\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/peder-torgensen\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/peder-torgensen\/streamer-front-fairing-and-bodysock.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30584,
+		"inputAbbreviatedPath": "\/riders\/peder-torgensen\/streamer-front-fairing-and-bodysock.jpg",
+		"outputAbbreviatedPath": "\/riders\/peder-torgensen\/streamer-front-fairing-and-bodysock.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/peder-torgensen\/streamer-front-fairing-and-tailsock.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21961,
+		"inputAbbreviatedPath": "\/riders\/peder-torgensen\/streamer-front-fairing-and-tailsock.jpg",
+		"outputAbbreviatedPath": "\/riders\/peder-torgensen\/streamer-front-fairing-and-tailsock.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/pete-penseyres\/1985-petes-seattle-to-portland.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -16350,6 +16456,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/raymond-leikes\/garage-bound.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41121,
+		"inputAbbreviatedPath": "\/riders\/raymond-leikes\/garage-bound.jpg",
+		"outputAbbreviatedPath": "\/riders\/raymond-leikes\/garage-bound.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/raymond-leikes\/index.html": {
 		"fileType": 8192,
