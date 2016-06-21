@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19115",
+"creatorBuild": "19127",
 "files": {
 	"\/accessories\/fenders.html": {
 		"fileType": 8192,
@@ -3849,6 +3849,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/colors\/2016-P-38-color-chart.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36889,
+		"inputAbbreviatedPath": "\/images\/colors\/2016-P-38-color-chart.jpg",
+		"outputAbbreviatedPath": "\/images\/colors\/2016-P-38-color-chart.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/comfort-chart.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4278,13 +4289,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/images\/exseam.JPG": {
+	"\/images\/exseam-sm.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 8996,
-		"inputAbbreviatedPath": "\/images\/exseam.JPG",
-		"outputAbbreviatedPath": "\/images\/exseam.JPG",
+		"inputAbbreviatedPath": "\/images\/exseam-sm.JPG",
+		"outputAbbreviatedPath": "\/images\/exseam-sm.JPG",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -5520,6 +5531,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/images\/p38\/p-38-sizing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12243,
+		"inputAbbreviatedPath": "\/images\/p38\/p-38-sizing.jpg",
+		"outputAbbreviatedPath": "\/images\/p38\/p-38-sizing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/images\/p38\/P-38-XT-for-2013.jpg": {
 		"fileType": 16384,
@@ -11713,6 +11735,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/bill-cline\/monarch-crest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46530,
+		"inputAbbreviatedPath": "\/riders\/bill-cline\/monarch-crest.jpg",
+		"outputAbbreviatedPath": "\/riders\/bill-cline\/monarch-crest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/bill-cline\/packing.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11734,6 +11767,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/bill-cline\/with-trailer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99474,
+		"inputAbbreviatedPath": "\/riders\/bill-cline\/with-trailer.jpg",
+		"outputAbbreviatedPath": "\/riders\/bill-cline\/with-trailer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/carl-murdock\/index.html": {
 		"fileType": 8192,
@@ -12006,6 +12050,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/corbett-rowell\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/corbett-rowell\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/corbett-rowell\/kazakhstan.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52612,
+		"inputAbbreviatedPath": "\/riders\/corbett-rowell\/kazakhstan.jpg",
+		"outputAbbreviatedPath": "\/riders\/corbett-rowell\/kazakhstan.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/cranks.html": {
 		"fileType": 8192,
@@ -14794,6 +14858,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/riders\/martin-krieg\/20160523-arpmr.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43421,
+		"inputAbbreviatedPath": "\/riders\/martin-krieg\/20160523-arpmr.jpg",
+		"outputAbbreviatedPath": "\/riders\/martin-krieg\/20160523-arpmr.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/martin-krieg\/20160530-krieg-and-warp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 619474,
+		"inputAbbreviatedPath": "\/riders\/martin-krieg\/20160530-krieg-and-warp.jpg",
+		"outputAbbreviatedPath": "\/riders\/martin-krieg\/20160530-krieg-and-warp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/martin-krieg\/30-mph.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15993,6 +16079,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/mick-jordan\/20160605-la-honda.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71062,
+		"inputAbbreviatedPath": "\/riders\/mick-jordan\/20160605-la-honda.jpg",
+		"outputAbbreviatedPath": "\/riders\/mick-jordan\/20160605-la-honda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/mick-jordan\/index.html": {
 		"fileType": 8192,
