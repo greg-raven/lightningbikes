@@ -3431,6 +3431,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/american-flag-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50872,
+		"inputAbbreviatedPath": "\/images\/american-flag-bg.jpg",
+		"outputAbbreviatedPath": "\/images\/american-flag-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/bbcups\/bb386.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11779,6 +11790,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/riders\/bob-steele\/all-repaired.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115566,
+		"inputAbbreviatedPath": "\/riders\/bob-steele\/all-repaired.jpg",
+		"outputAbbreviatedPath": "\/riders\/bob-steele\/all-repaired.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/bob-steele\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/bob-steele\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/carl-murdock\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14668,94 +14699,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/riders\/len-zawodniak\/201311-len-z-01.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 46397,
-		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-01.jpg",
-		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-01.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/riders\/len-zawodniak\/201311-len-z-02.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 28208,
-		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-02.jpg",
-		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-02.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/riders\/len-zawodniak\/201311-len-z-03.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 29972,
-		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-03.jpg",
-		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-03.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/riders\/len-zawodniak\/201311-len-z-04.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 42608,
-		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-04.jpg",
-		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-04.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/riders\/len-zawodniak\/201311-len-z-05.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 31656,
-		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-05.jpg",
-		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-05.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/riders\/len-zawodniak\/201311-len-z-06.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 41717,
-		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-06.jpg",
-		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-06.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/riders\/len-zawodniak\/201311-len-z-07.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 22319,
-		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-07.jpg",
-		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z-07.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/riders\/len-zawodniak\/201311-len-z.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 8891,
-		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z.jpg",
-		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/201311-len-z.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
 	"\/riders\/len-zawodniak\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14764,6 +14707,145 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/len-zawodniak\/peru\/201311-len-z-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46397,
+		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-01.jpg",
+		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/len-zawodniak\/peru\/201311-len-z-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28208,
+		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-02.jpg",
+		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/len-zawodniak\/peru\/201311-len-z-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29972,
+		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-03.jpg",
+		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/len-zawodniak\/peru\/201311-len-z-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42608,
+		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-04.jpg",
+		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/len-zawodniak\/peru\/201311-len-z-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31656,
+		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-05.jpg",
+		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/len-zawodniak\/peru\/201311-len-z-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41717,
+		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-06.jpg",
+		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/len-zawodniak\/peru\/201311-len-z-07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22319,
+		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-07.jpg",
+		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z-07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/len-zawodniak\/peru\/201311-len-z.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8891,
+		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z.jpg",
+		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/201311-len-z.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/riders\/len-zawodniak\/peru\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/peru\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/len-zawodniak\/route-66\/continental-divide.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71304,
+		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/route-66\/continental-divide.jpg",
+		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/route-66\/continental-divide.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/len-zawodniak\/route-66\/dirt-road.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59885,
+		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/route-66\/dirt-road.jpg",
+		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/route-66\/dirt-road.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/len-zawodniak\/route-66\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/route-66\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/len-zawodniak\/route-66\/sitgreaves-pass.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64186,
+		"inputAbbreviatedPath": "\/riders\/len-zawodniak\/route-66\/sitgreaves-pass.jpg",
+		"outputAbbreviatedPath": "\/riders\/len-zawodniak\/route-66\/sitgreaves-pass.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/lynn-miller\/f-90.jpg": {
 		"fileType": 16384,
@@ -14812,6 +14894,37 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/riders\/marius-sullwald\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/mark-snovell\/bike.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50181,
+		"inputAbbreviatedPath": "\/riders\/mark-snovell\/bike.jpg",
+		"outputAbbreviatedPath": "\/riders\/mark-snovell\/bike.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/mark-snovell\/cranks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52583,
+		"inputAbbreviatedPath": "\/riders\/mark-snovell\/cranks.jpg",
+		"outputAbbreviatedPath": "\/riders\/mark-snovell\/cranks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/mark-snovell\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/mark-snovell\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -16606,6 +16719,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/mick-jordan\/miscellaneous.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/mick-jordan\/miscellaneous.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/mick-jordan\/r84\/build.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16616,6 +16738,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/mick-jordan\/r84\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/mick-jordan\/r84\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/riders\/mick-jordan\/r84\/Mick Jordan.jpg": {
 		"fileType": 16384,
@@ -18150,6 +18281,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/sale.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sale.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/Scripts\/fancyBox\/source\/fancybox_overlay.png": {
 		"fileType": 32768,
