@@ -11954,6 +11954,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/riders\/chere-athey\/gap-trail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81919,
+		"inputAbbreviatedPath": "\/riders\/chere-athey\/gap-trail.jpg",
+		"outputAbbreviatedPath": "\/riders\/chere-athey\/gap-trail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/chere-athey\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/chere-athey\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/riders\/chris-broome\/coloplast-homebrew.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
