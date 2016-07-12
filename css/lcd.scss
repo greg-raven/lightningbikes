@@ -29,7 +29,13 @@ h2,h3
 	color: #666;
 }
 
-hr { color: #fff; }
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #fff;
+}
+
 
 legend
 {
