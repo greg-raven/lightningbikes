@@ -29,6 +29,8 @@ h2,h3
 	color: #666;
 }
 
+hr { color: #fff; }
+
 legend
 {
 	font-weight: bold;
@@ -62,7 +64,7 @@ nav.inside a
 
 nav.inside a:link, nav.inside a:visited
 {
-/*
+	/*
 	background: black;
 	color: #bba3cd;
  */
@@ -73,14 +75,14 @@ nav.inside a:link, nav.inside a:visited
 
 nav.inside a:hover
 {
-// 	background: black;
+	// background: black;
 	background: #009cde;
 	color: white;
 }
 
 nav.inside a:active, nav.inside a.active
 {
-// 	background: black;
+	// background: black;
 	background: #009cde;
 	color: white;
 }

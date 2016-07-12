@@ -16017,6 +16017,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/martin-krieg\/winters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70553,
+		"inputAbbreviatedPath": "\/riders\/martin-krieg\/winters.jpg",
+		"outputAbbreviatedPath": "\/riders\/martin-krieg\/winters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/michael-kapala\/bottle-holder.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
