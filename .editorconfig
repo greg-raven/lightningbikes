@@ -19,7 +19,7 @@ indent_style = tab
 
 # Personal preferences
 
-# make-backup-files = true
+make-backup-files = true
 x-font-name = "Hack Regular"
 x-font-size = 14
 x-soft-wrap-text = true
