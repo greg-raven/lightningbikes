@@ -4047,17 +4047,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/images\/cranks\/RBA-Project-Gravel.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 48668,
-		"inputAbbreviatedPath": "\/images\/cranks\/RBA-Project-Gravel.jpg",
-		"outputAbbreviatedPath": "\/images\/cranks\/RBA-Project-Gravel.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
 	"\/images\/cranks\/road-110-spyder-with-7075-chainrings.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5352,6 +5341,17 @@
 		"initialSize": 135741,
 		"inputAbbreviatedPath": "\/images\/media\/20120326-rbatech-crank-review-614.jpg",
 		"outputAbbreviatedPath": "\/images\/media\/20120326-rbatech-crank-review-614.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/media\/201207-RBA-Project-Gravel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48668,
+		"inputAbbreviatedPath": "\/images\/media\/201207-RBA-Project-Gravel.jpg",
+		"outputAbbreviatedPath": "\/images\/media\/201207-RBA-Project-Gravel.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -7652,11 +7652,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/media\/199811bicycling.html": {
+	"\/media\/199811-bicycling.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/media\/199811bicycling.html",
+		"inputAbbreviatedPath": "\/media\/199811-bicycling.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -7693,15 +7693,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/media\/20060518-brol.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/media\/2010-becky-taylor-p38-review.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/media\/2010-becky-taylor-p38-review.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -7756,6 +7747,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/media\/20120326-rbatech-crank-review.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/media\/201207-RBA-Project-Gravel-Bike-Calfee-Dragonfly-and-Race-Report.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/media\/201207-RBA-Project-Gravel-Bike-Calfee-Dragonfly-and-Race-Report.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -11757,6 +11757,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/riders\/bartolo-anatra\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/becky-taylor\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/becky-taylor\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
