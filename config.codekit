@@ -7688,6 +7688,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/media\/200603-RCN_093.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/media\/200603-RCN_093.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/media\/20060518-brol.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -18327,6 +18336,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/wally-kiehler\/index-PreviewTemp-A5D8C7AC-4FF2-4152-84D9-ADFD9D37188D.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/wally-kiehler\/index-PreviewTemp-A5D8C7AC-4FF2-4152-84D9-ADFD9D37188D.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/riders\/wally-kiehler\/index.html": {
 		"fileType": 8192,
