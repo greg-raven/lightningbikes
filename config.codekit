@@ -5323,6 +5323,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/media\/201202-rtr-lightning-r-84.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 181206,
+		"inputAbbreviatedPath": "\/images\/media\/201202-rtr-lightning-r-84.jpg",
+		"outputAbbreviatedPath": "\/images\/media\/201202-rtr-lightning-r-84.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/media\/20120326-rbatech-crank-review-153.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
