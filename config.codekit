@@ -15028,17 +15028,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/riders\/larry-guevara\/Blue-Angel.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 56113,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/Blue-Angel.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/Blue-Angel.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
 	"\/riders\/larry-guevara\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -15048,17 +15037,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/riders\/larry-guevara\/phantom\/011608a1-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 13250,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a1-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a1-tn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/riders\/larry-guevara\/phantom\/011608a1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15066,17 +15044,6 @@
 		"initialSize": 138390,
 		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a1.jpg",
 		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/riders\/larry-guevara\/phantom\/011608a2-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 14895,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a2-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a2-tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15092,17 +15059,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/riders\/larry-guevara\/phantom\/011608a3-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 16457,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a3-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a3-tn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/riders\/larry-guevara\/phantom\/011608a3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15110,17 +15066,6 @@
 		"initialSize": 205084,
 		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a3.jpg",
 		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/riders\/larry-guevara\/phantom\/011608a4-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 20504,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a4-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a4-tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15136,17 +15081,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/riders\/larry-guevara\/phantom\/011608a5-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 12159,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a5-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a5-tn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/riders\/larry-guevara\/phantom\/011608a5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15154,17 +15088,6 @@
 		"initialSize": 139464,
 		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a5.jpg",
 		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a5.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/riders\/larry-guevara\/phantom\/011608a6-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 21283,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a6-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/011608a6-tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15180,17 +15103,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/riders\/larry-guevara\/phantom\/052707a1-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 9370,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/052707a1-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/052707a1-tn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/riders\/larry-guevara\/phantom\/052707a1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15198,17 +15110,6 @@
 		"initialSize": 112291,
 		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/052707a1.jpg",
 		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/052707a1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/riders\/larry-guevara\/phantom\/052707a2-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7824,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/052707a2-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/052707a2-tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15224,17 +15125,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/riders\/larry-guevara\/phantom\/052707a3-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10291,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/052707a3-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/052707a3-tn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/riders\/larry-guevara\/phantom\/052707a3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15242,17 +15132,6 @@
 		"initialSize": 157684,
 		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/052707a3.jpg",
 		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/052707a3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/riders\/larry-guevara\/phantom\/052707a4-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10040,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/052707a4-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/052707a4-tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15277,26 +15156,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/riders\/larry-guevara\/phantom\/index2.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/index2.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/riders\/larry-guevara\/phantom\/phantom.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 125996,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/phantom.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/phantom\/phantom.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/riders\/larry-guevara\/voyager\/081608a-main.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15319,17 +15178,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/riders\/larry-guevara\/voyager\/081608a1-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 11698,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/voyager\/081608a1-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/voyager\/081608a1-tn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/riders\/larry-guevara\/voyager\/081608a1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15337,17 +15185,6 @@
 		"initialSize": 333168,
 		"inputAbbreviatedPath": "\/riders\/larry-guevara\/voyager\/081608a1.jpg",
 		"outputAbbreviatedPath": "\/riders\/larry-guevara\/voyager\/081608a1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/riders\/larry-guevara\/voyager\/081608a2-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7860,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/voyager\/081608a2-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/voyager\/081608a2-tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15363,17 +15200,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/riders\/larry-guevara\/voyager\/081608a3-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 8853,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/voyager\/081608a3-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/voyager\/081608a3-tn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/riders\/larry-guevara\/voyager\/081608a3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15381,17 +15207,6 @@
 		"initialSize": 231789,
 		"inputAbbreviatedPath": "\/riders\/larry-guevara\/voyager\/081608a3.jpg",
 		"outputAbbreviatedPath": "\/riders\/larry-guevara\/voyager\/081608a3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/riders\/larry-guevara\/voyager\/081608a4-tn.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 8346,
-		"inputAbbreviatedPath": "\/riders\/larry-guevara\/voyager\/081608a4-tn.jpg",
-		"outputAbbreviatedPath": "\/riders\/larry-guevara\/voyager\/081608a4-tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
