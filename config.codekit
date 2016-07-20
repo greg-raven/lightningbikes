@@ -14135,6 +14135,125 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/gerard\/20080806-p38\/080608c-main.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148047,
+		"inputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/080608c-main.jpg",
+		"outputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/080608c-main.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/gerard\/20080806-p38\/081608a-main.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111489,
+		"inputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/081608a-main.jpg",
+		"outputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/081608a-main.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/gerard\/20080806-p38\/081608a-main2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 133855,
+		"inputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/081608a-main2.jpg",
+		"outputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/081608a-main2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/gerard\/20080806-p38\/081608a1-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11698,
+		"inputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/081608a1-tn.jpg",
+		"outputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/081608a1-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/gerard\/20080806-p38\/081608a2-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7860,
+		"inputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/081608a2-tn.jpg",
+		"outputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/081608a2-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/gerard\/20080806-p38\/081608a3-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8853,
+		"inputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/081608a3-tn.jpg",
+		"outputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/081608a3-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/gerard\/20080806-p38\/081608a4-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8346,
+		"inputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/081608a4-tn.jpg",
+		"outputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/081608a4-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/gerard\/20080806-p38\/EcoVelo » Blog Archive » Gallery: Gérard’s Lightning P38.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/gerard\/20080806-p38\/EcoVelo » Blog Archive » Gallery: Gérard’s Lightning P38.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/gerard\/20080816-voyager\/080608c1-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6309,
+		"inputAbbreviatedPath": "\/riders\/gerard\/20080816-voyager\/080608c1-tn.jpg",
+		"outputAbbreviatedPath": "\/riders\/gerard\/20080816-voyager\/080608c1-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/gerard\/20080816-voyager\/080608c2-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6439,
+		"inputAbbreviatedPath": "\/riders\/gerard\/20080816-voyager\/080608c2-tn.jpg",
+		"outputAbbreviatedPath": "\/riders\/gerard\/20080816-voyager\/080608c2-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/gerard\/20080816-voyager\/080608c3-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7980,
+		"inputAbbreviatedPath": "\/riders\/gerard\/20080816-voyager\/080608c3-tn.jpg",
+		"outputAbbreviatedPath": "\/riders\/gerard\/20080816-voyager\/080608c3-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/greg-raven\/2013-solvang.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
