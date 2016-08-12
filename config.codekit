@@ -12268,6 +12268,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/chere-thrasher-athey\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/chere-thrasher-athey\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/chere-thrasher-athey\/niagara-falls.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68049,
+		"inputAbbreviatedPath": "\/riders\/chere-thrasher-athey\/niagara-falls.jpg",
+		"outputAbbreviatedPath": "\/riders\/chere-thrasher-athey\/niagara-falls.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/chris-broome\/coloplast-homebrew.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -18359,6 +18379,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/scott-mccullough\/bike-rack-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40133,
+		"inputAbbreviatedPath": "\/riders\/scott-mccullough\/bike-rack-1.jpg",
+		"outputAbbreviatedPath": "\/riders\/scott-mccullough\/bike-rack-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/scott-mccullough\/bike-rack-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38084,
+		"inputAbbreviatedPath": "\/riders\/scott-mccullough\/bike-rack-2.jpg",
+		"outputAbbreviatedPath": "\/riders\/scott-mccullough\/bike-rack-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/scott-mccullough\/bike-rack-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38166,
+		"inputAbbreviatedPath": "\/riders\/scott-mccullough\/bike-rack-3.jpg",
+		"outputAbbreviatedPath": "\/riders\/scott-mccullough\/bike-rack-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/scott-mccullough\/index.html": {
 		"fileType": 8192,
