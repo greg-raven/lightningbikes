@@ -12268,22 +12268,13 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/riders\/chere-thrasher-athey\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/riders\/chere-thrasher-athey\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/riders\/chere-thrasher-athey\/niagara-falls.jpg": {
+	"\/riders\/chere-athey\/niagara-falls.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 68049,
-		"inputAbbreviatedPath": "\/riders\/chere-thrasher-athey\/niagara-falls.jpg",
-		"outputAbbreviatedPath": "\/riders\/chere-thrasher-athey\/niagara-falls.jpg",
+		"inputAbbreviatedPath": "\/riders\/chere-athey\/niagara-falls.jpg",
+		"outputAbbreviatedPath": "\/riders\/chere-athey\/niagara-falls.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
