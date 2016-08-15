@@ -6619,6 +6619,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/racing\/raam_1998-800.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38245,
+		"inputAbbreviatedPath": "\/images\/racing\/raam_1998-800.jpg",
+		"outputAbbreviatedPath": "\/images\/racing\/raam_1998-800.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/racing\/raam_1998.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -12103,6 +12114,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/bob-fourney\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/riders\/bob-fourney\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/riders\/bob-steele\/all-repaired.jpg": {
 		"fileType": 16384,
