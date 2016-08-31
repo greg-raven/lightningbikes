@@ -11838,6 +11838,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/riders\/alexander-hatziyannis\/aero-wheel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83499,
+		"inputAbbreviatedPath": "\/riders\/alexander-hatziyannis\/aero-wheel.jpg",
+		"outputAbbreviatedPath": "\/riders\/alexander-hatziyannis\/aero-wheel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/alexander-hatziyannis\/by-steps.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11848,6 +11859,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/alexander-hatziyannis\/f40-and-toyota.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40573,
+		"inputAbbreviatedPath": "\/riders\/alexander-hatziyannis\/f40-and-toyota.jpg",
+		"outputAbbreviatedPath": "\/riders\/alexander-hatziyannis\/f40-and-toyota.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/alexander-hatziyannis\/f40-front-quarter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55468,
+		"inputAbbreviatedPath": "\/riders\/alexander-hatziyannis\/f40-front-quarter.jpg",
+		"outputAbbreviatedPath": "\/riders\/alexander-hatziyannis\/f40-front-quarter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/alexander-hatziyannis\/f40-nosecone.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51592,
+		"inputAbbreviatedPath": "\/riders\/alexander-hatziyannis\/f40-nosecone.jpg",
+		"outputAbbreviatedPath": "\/riders\/alexander-hatziyannis\/f40-nosecone.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/alexander-hatziyannis\/icy.jpg": {
 		"fileType": 16384,
@@ -11868,6 +11912,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/alexander-hatziyannis\/transformation.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78864,
+		"inputAbbreviatedPath": "\/riders\/alexander-hatziyannis\/transformation.jpg",
+		"outputAbbreviatedPath": "\/riders\/alexander-hatziyannis\/transformation.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/andreas-weigel\/f90-andreas-weigel.jpg": {
 		"fileType": 16384,
