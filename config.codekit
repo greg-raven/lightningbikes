@@ -12351,6 +12351,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/bill-cline\/touring-2011.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99324,
+		"inputAbbreviatedPath": "\/riders\/bill-cline\/touring-2011.jpg",
+		"outputAbbreviatedPath": "\/riders\/bill-cline\/touring-2011.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/bill-cline\/with-trailer.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -12362,6 +12373,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/bob-fourney\/58-chainring.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13719,
+		"inputAbbreviatedPath": "\/riders\/bob-fourney\/58-chainring.jpg",
+		"outputAbbreviatedPath": "\/riders\/bob-fourney\/58-chainring.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/riders\/bob-fourney\/choices.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57176,
+		"inputAbbreviatedPath": "\/riders\/bob-fourney\/choices.jpg",
+		"outputAbbreviatedPath": "\/riders\/bob-fourney\/choices.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/bob-fourney\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -12370,6 +12403,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/bob-fourney\/roswell.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17414,
+		"inputAbbreviatedPath": "\/riders\/bob-fourney\/roswell.jpg",
+		"outputAbbreviatedPath": "\/riders\/bob-fourney\/roswell.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/bob-steele\/all-repaired.jpg": {
 		"fileType": 16384,
@@ -14909,6 +14953,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/riders\/guido-holenstein\/f40-w-minivan.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19833,
+		"inputAbbreviatedPath": "\/riders\/guido-holenstein\/f40-w-minivan.jpg",
+		"outputAbbreviatedPath": "\/riders\/guido-holenstein\/f40-w-minivan.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/riders\/guido-holenstein\/guido-f40.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14972,6 +15027,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/riders\/guido-holenstein\/swiss-railway.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26355,
+		"inputAbbreviatedPath": "\/riders\/guido-holenstein\/swiss-railway.jpg",
+		"outputAbbreviatedPath": "\/riders\/guido-holenstein\/swiss-railway.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/hari-iyer\/Hari-Iyer.jpg": {
 		"fileType": 16384,
@@ -15829,6 +15895,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/riders\/mark-textor\/r84-on-tesla.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93326,
+		"inputAbbreviatedPath": "\/riders\/mark-textor\/r84-on-tesla.jpg",
+		"outputAbbreviatedPath": "\/riders\/mark-textor\/r84-on-tesla.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/riders\/mark-textor\/textor-p38.jpg": {
 		"fileType": 16384,
