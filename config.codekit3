@@ -1836,6 +1836,12 @@
 		"oAP": "\/framesets.html",
 		"oF": 0
 		},
+	"\/free-shipping.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/free-shipping.html",
+		"oF": 0
+		},
 	"\/gallery\/index.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -3777,6 +3783,14 @@
 		"iS": 96689,
 		"oA": 0,
 		"oAP": "\/images\/handcycle\/handcycle.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/holiday-bg.jpg": {
+		"ft": 16384,
+		"iS": 100142,
+		"oA": 0,
+		"oAP": "\/images\/holiday-bg.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -9654,6 +9668,36 @@
 		"oAP": "\/riders\/dan-sosa\/index.html",
 		"oF": 0
 		},
+	"\/riders\/dash-pa\/20161111-dash-update.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/riders\/dash-pa\/20161111-dash-update.html",
+		"oF": 0
+		},
+	"\/riders\/dash-pa\/20161111-lightning-carbon-cranks.jpg": {
+		"ft": 16384,
+		"iS": 52772,
+		"oA": 0,
+		"oAP": "\/riders\/dash-pa\/20161111-lightning-carbon-cranks.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/riders\/dash-pa\/20161111-lightning-decal-1.jpg": {
+		"ft": 16384,
+		"iS": 55715,
+		"oA": 0,
+		"oAP": "\/riders\/dash-pa\/20161111-lightning-decal-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/riders\/dash-pa\/20161111-lightning-decal-2.jpg": {
+		"ft": 16384,
+		"iS": 49053,
+		"oA": 0,
+		"oAP": "\/riders\/dash-pa\/20161111-lightning-decal-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/riders\/dash-pa\/dash-pa.jpg": {
 		"ft": 16384,
 		"iS": 45530,
@@ -10911,6 +10955,14 @@
 		"iS": 88989,
 		"oA": 0,
 		"oAP": "\/riders\/greg-raven\/2013-solvang.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/riders\/greg-raven\/2016-vvbt.jpg": {
+		"ft": 16384,
+		"iS": 23318,
+		"oA": 0,
+		"oAP": "\/riders\/greg-raven\/2016-vvbt.jpg",
 		"oF": 0,
 		"opt": 0
 		},
