@@ -2368,11 +2368,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/accessories\/Lightning-T-shirt.jpg": {
+	"\/images\/accessories\/lightning-t-shirt.jpg": {
 		"ft": 16384,
 		"iS": 10177,
 		"oA": 0,
-		"oAP": "\/images\/accessories\/Lightning-T-shirt.jpg",
+		"oAP": "\/images\/accessories\/lightning-t-shirt.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -6152,6 +6152,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/media\/20100106-brol.html",
+		"oF": 0
+		},
+	"\/media\/20100706-recumbent-journal.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/media\/20100706-recumbent-journal.html",
 		"oF": 0
 		},
 	"\/media\/20110109-brol.html": {
