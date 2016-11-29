@@ -39,10 +39,22 @@
 		"oAP": "\/accessories\/hydrapack-bladder.html",
 		"oF": 0
 		},
+	"\/accessories\/index-new.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/accessories\/index-new.html",
+		"oF": 0
+		},
 	"\/accessories\/index.html": {
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/accessories\/index.html",
+		"oF": 0
+		},
+	"\/accessories\/index.html~": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/accessories\/index.html~",
 		"oF": 0
 		},
 	"\/accessories\/lightning-shorts.html": {
@@ -2284,6 +2296,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/accessories\/handlebar-bag-400.jpg": {
+		"ft": 16384,
+		"iS": 50713,
+		"oA": 0,
+		"oAP": "\/images\/accessories\/handlebar-bag-400.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/accessories\/Handlebar_bag-600.jpg": {
 		"ft": 16384,
 		"iS": 19134,
@@ -2353,6 +2373,14 @@
 		"iS": 10177,
 		"oA": 0,
 		"oAP": "\/images\/accessories\/Lightning-T-shirt.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/accessories\/mirror-600-tn.jpg": {
+		"ft": 16384,
+		"iS": 2314,
+		"oA": 0,
+		"oAP": "\/images\/accessories\/mirror-600-tn.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -2428,11 +2456,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/accessories\/seat-bag-400.jpg": {
+		"ft": 16384,
+		"iS": 66631,
+		"oA": 0,
+		"oAP": "\/images\/accessories\/seat-bag-400.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/accessories\/seat-bag-tn.jpg": {
 		"ft": 16384,
 		"iS": 5540,
 		"oA": 0,
 		"oAP": "\/images\/accessories\/seat-bag-tn.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/accessories\/seat-bag.jpg": {
+		"ft": 16384,
+		"iS": 113490,
+		"oA": 0,
+		"oAP": "\/images\/accessories\/seat-bag.jpg",
 		"oF": 0,
 		"opt": 0
 		},
