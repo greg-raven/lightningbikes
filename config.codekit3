@@ -9862,6 +9862,20 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/riders\/ed-gillette\/green-flash.jpg": {
+		"ft": 16384,
+		"iS": 46434,
+		"oA": 0,
+		"oAP": "\/riders\/ed-gillette\/green-flash.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/riders\/ed-gillette\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/riders\/ed-gillette\/index.html",
+		"oF": 0
+		},
 	"\/riders\/eric-warp\/fairings\/197721335_2351451_n.jpg": {
 		"ft": 16384,
 		"iS": 20393,
