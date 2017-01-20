@@ -12304,7 +12304,7 @@
 		"oA": 0,
 		"oAP": "\/riders\/martin-krieg\/recumbent-history\/img\/history-021a.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/riders\/martin-krieg\/recumbent-history\/img\/history-021b.png": {
 		"ft": 32768,
@@ -12312,7 +12312,7 @@
 		"oA": 0,
 		"oAP": "\/riders\/martin-krieg\/recumbent-history\/img\/history-021b.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/riders\/martin-krieg\/recumbent-history\/img\/history-021c.png": {
 		"ft": 32768,
@@ -12320,7 +12320,7 @@
 		"oA": 0,
 		"oAP": "\/riders\/martin-krieg\/recumbent-history\/img\/history-021c.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/riders\/martin-krieg\/recumbent-history\/img\/history-021d.png": {
 		"ft": 32768,
@@ -12328,7 +12328,7 @@
 		"oA": 0,
 		"oAP": "\/riders\/martin-krieg\/recumbent-history\/img\/history-021d.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/riders\/martin-krieg\/recumbent-history\/img\/history-022.jpg": {
 		"ft": 16384,
