@@ -2662,7 +2662,7 @@
 		"oA": 0,
 		"oAP": "\/images\/accessories\/widepac-technology.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/images\/accessories\/zzipper-fairing-tn.jpg": {
 		"ft": 16384,
@@ -9691,12 +9691,6 @@
 		"oAP": "\/riders\/dan-hansen-jr\/f40-nose.jpg",
 		"oF": 0,
 		"opt": 0
-		},
-	"\/riders\/dan-hansen-jr\/index-PreviewTemp-6A56B261-12A6-4E30-B3C3-7094D1666A6D.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/riders\/dan-hansen-jr\/index-PreviewTemp-6A56B261-12A6-4E30-B3C3-7094D1666A6D.html",
-		"oF": 0
 		},
 	"\/riders\/dan-hansen-jr\/index.html": {
 		"ft": 8192,
