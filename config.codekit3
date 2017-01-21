@@ -602,7 +602,7 @@
 		"oA": 0,
 		"oAP": "\/css\/bootstrap3_player\/screenshots\/bPlayer_demo_data_0.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/css\/bootstrap3_player\/screenshots\/bPlayer_demo_data_1.png": {
 		"ft": 32768,
@@ -610,7 +610,7 @@
 		"oA": 0,
 		"oAP": "\/css\/bootstrap3_player\/screenshots\/bPlayer_demo_data_1.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/css\/bootstrap3_player\/screenshots\/bPlayer_demo_data_no.png": {
 		"ft": 32768,
@@ -618,7 +618,7 @@
 		"oA": 0,
 		"oAP": "\/css\/bootstrap3_player\/screenshots\/bPlayer_demo_data_no.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/css\/bootstrap3_player\/tests\/.jshintrc": {
 		"ft": 8192,
