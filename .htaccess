@@ -167,7 +167,8 @@ Redirect 301 /faq.htm https://www.lightningbikes.com/faq.html
 Redirect 301 /feedback.htm https://www.lightningbikes.com/search.html
 Redirect 301 /first_over_55mph.htm https://www.lightningbikes.com/media/1979-first-over-55-mph.html
 Redirect 301 /gensales.pdf https://www.lightningbikes.com/dealers/index.html
-Redirect 301 /handcycles.htm https://www.lightningbikes.com/handcycles/index.html
+Redirect 301 /handcycles.htm https://www.lightningbikes.com/index.html
+Redirect 301 /handcycles.html https://www.lightningbikes.com/index.html
 Redirect 301 /heartlan.htm https://www.lightningbikes.com/dealers/index.html
 Redirect 301 /howtobuy.htm https://www.lightningbikes.com/howtobuy.html
 Redirect 301 /HPV%20RAAM%20Story.htm https://www.lightningbikes.com/riders/racing.html

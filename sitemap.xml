@@ -33,12 +33,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/handcycles/index.html</loc>
-		<lastmod>2016-07-19</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/cranks/index.html</loc>
 		<lastmod>2016-07-19</lastmod>
 		<changefreq>weekly</changefreq>
@@ -1430,12 +1424,6 @@
 	</url>
 	<url>
 		<loc>https://www.lightningbikes.com/u2/index.html</loc>
-		<lastmod>2016-07-19</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://www.lightningbikes.com/handcycles/gallery/index.html</loc>
 		<lastmod>2016-07-19</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
