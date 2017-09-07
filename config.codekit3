@@ -7,7 +7,7 @@
 		"uuidString": "4D3FA354-0CD3-4EE6-8261-AA81EAC201F7"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "25900",
 "files": {
 	"\/.editorconfig": {
 		"ft": 8192,
@@ -19,6 +19,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.htaccess",
+		"oF": 0
+		},
+	"\/accessories\/chain-idler.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/accessories\/chain-idler.html",
 		"oF": 0
 		},
 	"\/accessories\/fenders.html": {
@@ -618,6 +624,7 @@
 		},
 	"\/css\/bootstrap3_player\/js\/bootstrap3_player.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/css\/bootstrap3_player\/js\/min\/bootstrap3_player-min.js",
@@ -702,6 +709,7 @@
 		},
 	"\/css\/bootstrap3_player\/tests\/funcunit.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/css\/bootstrap3_player\/tests\/min\/funcunit-min.js",
@@ -729,6 +737,7 @@
 		},
 	"\/css\/bootstrap3_player\/tests\/runner.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/css\/bootstrap3_player\/tests\/min\/runner-min.js",
@@ -744,6 +753,7 @@
 		},
 	"\/css\/bootstrap3_player\/tests\/tests.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/css\/bootstrap3_player\/tests\/min\/tests-min.js",
@@ -3338,6 +3348,26 @@
 		"opt": 0,
 		"q": 80
 		},
+	"\/images\/chain-idler-tn.jpg": {
+		"ft": 16384,
+		"iS": 3212,
+		"oA": 0,
+		"oAP": "\/images\/chain-idler-tn.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/images\/chain-idler.jpg": {
+		"ft": 16384,
+		"iS": 5580,
+		"oA": 0,
+		"oAP": "\/images\/chain-idler.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"\/images\/chain-tensioner\/001-640.jpg": {
 		"ft": 16384,
 		"iS": 17442,
@@ -3514,6 +3544,26 @@
 		"iS": 12536,
 		"oA": 0,
 		"oAP": "\/images\/cranks\/94mm-600.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/images\/cranks\/adjusting-ring-detail.jpg": {
+		"ft": 16384,
+		"iS": 4525,
+		"oA": 0,
+		"oAP": "\/images\/cranks\/adjusting-ring-detail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/images\/cranks\/adjusting-ring-screw.jpg": {
+		"ft": 16384,
+		"iS": 1026,
+		"oA": 0,
+		"oAP": "\/images\/cranks\/adjusting-ring-screw.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10690,6 +10740,24 @@
 		"oAP": "\/r84\/index.html",
 		"oF": 0
 		},
+	"\/r84\/manual-2016-PreviewTemp-A7F5BBD3-1AFE-42AA-B93B-4EB070768660.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/r84\/manual-2016-PreviewTemp-A7F5BBD3-1AFE-42AA-B93B-4EB070768660.html",
+		"oF": 0
+		},
+	"\/r84\/manual-2016.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/r84\/manual-2016.html",
+		"oF": 0
+		},
+	"\/r84\/manual-2016.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/r84\/manual-2016.pdf",
+		"oF": 0
+		},
 	"\/racing\/1998-ihpva_racing.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -13777,6 +13845,16 @@
 		"oA": 0,
 		"oAP": "\/riders\/jason-wolfe\/index.html",
 		"oF": 0
+		},
+	"\/riders\/jeff-carter\/20170701-loveland-pass.jpg": {
+		"ft": 16384,
+		"iS": 186317,
+		"oA": 0,
+		"oAP": "\/riders\/jeff-carter\/20170701-loveland-pass.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
 		},
 	"\/riders\/jeff-carter\/index.html": {
 		"ft": 8192,
@@ -17486,6 +17564,7 @@
 		},
 	"\/Scripts\/fancyBox\/source\/helpers\/jquery.fancybox-buttons.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/Scripts\/fancyBox\/source\/helpers\/min\/jquery.fancybox-buttons-min.js",
@@ -17495,6 +17574,7 @@
 		},
 	"\/Scripts\/fancyBox\/source\/helpers\/jquery.fancybox-media.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/Scripts\/fancyBox\/source\/helpers\/min\/jquery.fancybox-media-min.js",
@@ -17514,6 +17594,7 @@
 		},
 	"\/Scripts\/fancyBox\/source\/helpers\/jquery.fancybox-thumbs.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/Scripts\/fancyBox\/source\/helpers\/min\/jquery.fancybox-thumbs-min.js",
@@ -17533,6 +17614,7 @@
 		},
 	"\/Scripts\/fancyBox\/source\/jquery.fancybox.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/Scripts\/fancyBox\/source\/min\/jquery.fancybox-min.js",
@@ -17542,6 +17624,7 @@
 		},
 	"\/Scripts\/fancyBox\/source\/jquery.fancybox.pack.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/Scripts\/fancyBox\/source\/min\/jquery.fancybox.pack-min.js",
@@ -17551,6 +17634,7 @@
 		},
 	"\/Scripts\/vlb_engine\/jquery.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/Scripts\/vlb_engine\/min\/jquery.min-min.js",
@@ -17560,6 +17644,7 @@
 		},
 	"\/Scripts\/vlb_engine\/visuallightbox.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/Scripts\/vlb_engine\/min\/visuallightbox-min.js",
@@ -17569,6 +17654,7 @@
 		},
 	"\/Scripts\/vlb_engine\/vlbdata1.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/Scripts\/vlb_engine\/min\/vlbdata1-min.js",
@@ -19199,6 +19285,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -19206,6 +19296,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -19303,6 +19397,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -19322,6 +19420,10 @@
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -19450,6 +19552,10 @@
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-caller": {
 			"active": 0,
@@ -19995,6 +20101,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -20063,6 +20173,10 @@
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
 			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
 		"sort-imports": {
 			"active": 0,
 			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
@@ -20102,6 +20216,10 @@
 		"strict": {
 			"active": 0,
 			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
 			},
 		"symbol-description": {
 			"active": 0,
@@ -20731,9 +20849,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
