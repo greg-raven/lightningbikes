@@ -10740,12 +10740,6 @@
 		"oAP": "\/r84\/index.html",
 		"oF": 0
 		},
-	"\/r84\/manual-2016-PreviewTemp-0CDFFB7B-850F-4F21-BAE3-AD7FBEA2A5CC.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/r84\/manual-2016-PreviewTemp-0CDFFB7B-850F-4F21-BAE3-AD7FBEA2A5CC.html",
-		"oF": 0
-		},
 	"\/r84\/manual-2016.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -10757,6 +10751,66 @@
 		"oA": 2,
 		"oAP": "\/r84\/manual-2016.pdf",
 		"oF": 0
+		},
+	"\/r84\/manual\/figure-2-1.jpg": {
+		"ft": 16384,
+		"iS": 60333,
+		"oA": 0,
+		"oAP": "\/r84\/manual\/figure-2-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/r84\/manual\/figure-2-2.jpg": {
+		"ft": 16384,
+		"iS": 34693,
+		"oA": 0,
+		"oAP": "\/r84\/manual\/figure-2-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/r84\/manual\/figure-2-3.jpg": {
+		"ft": 16384,
+		"iS": 195459,
+		"oA": 0,
+		"oAP": "\/r84\/manual\/figure-2-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/r84\/manual\/figure-3-1.jpg": {
+		"ft": 16384,
+		"iS": 56923,
+		"oA": 0,
+		"oAP": "\/r84\/manual\/figure-3-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/r84\/manual\/figure-4-1.jpg": {
+		"ft": 16384,
+		"iS": 45533,
+		"oA": 0,
+		"oAP": "\/r84\/manual\/figure-4-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/r84\/manual\/figure-4-2.jpg": {
+		"ft": 16384,
+		"iS": 52115,
+		"oA": 0,
+		"oAP": "\/r84\/manual\/figure-4-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
 		},
 	"\/r84\/manual\/figure-5-1.jpg": {
 		"ft": 16384,
