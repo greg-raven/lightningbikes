@@ -21,6 +21,12 @@
 		"oAP": "\/.htaccess",
 		"oF": 0
 		},
+	"\/20170906-DP-plaques-Dudick.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/20170906-DP-plaques-Dudick.txt",
+		"oF": 0
+		},
 	"\/accessories\/chain-idler.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -9678,6 +9684,12 @@
 		"oAP": "\/p38\/index.html",
 		"oF": 0
 		},
+	"\/p38\/manual-2011-PreviewTemp-B4061840-82BB-480A-8BED-D0934F3DE122.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/p38\/manual-2011-PreviewTemp-B4061840-82BB-480A-8BED-D0934F3DE122.html",
+		"oF": 0
+		},
 	"\/p38\/manual-2011.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -10220,6 +10232,12 @@
 		"oAP": "\/phantom\/index.html",
 		"oF": 0
 		},
+	"\/phantom\/manual-2007.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/phantom\/manual-2007.pdf",
+		"oF": 0
+		},
 	"\/phantom\/manual-2012.pdf": {
 		"ft": 8192,
 		"oA": 2,
@@ -10230,12 +10248,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/phantom\/manual.html",
-		"oF": 0
-		},
-	"\/phantom\/manual.pdf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/phantom\/manual.pdf",
 		"oF": 0
 		},
 	"\/phantom\/quotes.html": {
