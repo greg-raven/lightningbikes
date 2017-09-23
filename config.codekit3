@@ -7014,6 +7014,12 @@
 		"oAP": "\/media\/1989-raam-bicycling.html",
 		"oF": 0
 		},
+	"\/media\/1989-raam-california-bicyclist.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/media\/1989-raam-california-bicyclist.html",
+		"oF": 0
+		},
 	"\/media\/1989-raam-pbaa.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -10230,12 +10236,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/phantom\/manual-2012.pdf",
-		"oF": 0
-		},
-	"\/phantom\/manual-PreviewTemp-AA88CC5F-8C45-4F66-8F9D-EA00C672A60E.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/phantom\/manual-PreviewTemp-AA88CC5F-8C45-4F66-8F9D-EA00C672A60E.html",
 		"oF": 0
 		},
 	"\/phantom\/manual.html": {
