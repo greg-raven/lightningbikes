@@ -9810,6 +9810,26 @@
 		"opt": 0,
 		"q": 80
 		},
+	"\/p38\/manual\/figure-4-1.jpg": {
+		"ft": 16384,
+		"iS": 41670,
+		"oA": 0,
+		"oAP": "\/p38\/manual\/figure-4-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/p38\/manual\/figure-4-2.jpg": {
+		"ft": 16384,
+		"iS": 261586,
+		"oA": 0,
+		"oAP": "\/p38\/manual\/figure-4-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"\/p38\/order-bike.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -10964,17 +10984,17 @@
 		},
 	"\/r84\/manual\/figure-4-1.jpg": {
 		"ft": 16384,
-		"iS": 45533,
+		"iS": 41670,
 		"oA": 0,
 		"oAP": "\/r84\/manual\/figure-4-1.jpg",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 80
 		},
 	"\/r84\/manual\/figure-4-2.jpg": {
 		"ft": 16384,
-		"iS": 52115,
+		"iS": 64503,
 		"oA": 0,
 		"oAP": "\/r84\/manual\/figure-4-2.jpg",
 		"oF": 0,
