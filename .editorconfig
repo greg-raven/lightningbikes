@@ -19,7 +19,7 @@ indent_style = tab
 tab_width = 2
 
 # Backups
-make-backup-files = 1
+make-backup-files = 0
 
 # BBEdit-specific preferences
 
