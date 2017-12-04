@@ -196,12 +196,6 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://www.lightningbikes.com/accessories/tilt-steering.html</loc>
-		<lastmod>2016-07-19</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
 		<loc>https://www.lightningbikes.com/cgi-bin/commerce.cgi?preadd=action&amp;key=_SEAT_MESH_KIT</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
