@@ -17328,31 +17328,45 @@
 		"opt": 0,
 		"q": 80
 		},
-	"\/riders\/roland-stuck\/032.jpg": {
+	"\/riders\/roland-stuck\/2017-12-f90.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/riders\/roland-stuck\/2017-12-f90.html",
+		"oF": 0
+		},
+	"\/riders\/roland-stuck\/2017-12-phantom.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/riders\/roland-stuck\/2017-12-phantom.html",
+		"oF": 0
+		},
+	"\/riders\/roland-stuck\/image009.jpg": {
 		"ft": 16384,
-		"iS": 123410,
+		"iS": 163148,
 		"oA": 0,
-		"oAP": "\/riders\/roland-stuck\/032.jpg",
+		"oAP": "\/riders\/roland-stuck\/image009.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 80
 		},
-	"\/riders\/roland-stuck\/100.jpg": {
+	"\/riders\/roland-stuck\/image010.jpg": {
 		"ft": 16384,
-		"iS": 190606,
+		"iS": 113297,
 		"oA": 0,
-		"oAP": "\/riders\/roland-stuck\/100.jpg",
+		"oAP": "\/riders\/roland-stuck\/image010.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 80
 		},
-	"\/riders\/roland-stuck\/214.jpg": {
+	"\/riders\/roland-stuck\/image011.jpg": {
 		"ft": 16384,
-		"iS": 128248,
+		"iS": 81334,
 		"oA": 0,
-		"oAP": "\/riders\/roland-stuck\/214.jpg",
+		"oAP": "\/riders\/roland-stuck\/image011.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -17364,6 +17378,256 @@
 		"oA": 0,
 		"oAP": "\/riders\/roland-stuck\/index.html",
 		"oF": 0
+		},
+	"\/riders\/roland-stuck\/phantom\/032.jpg": {
+		"ft": 16384,
+		"iS": 123410,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/phantom\/032.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/phantom\/100.jpg": {
+		"ft": 16384,
+		"iS": 190606,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/phantom\/100.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/phantom\/214.jpg": {
+		"ft": 16384,
+		"iS": 128248,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/phantom\/214.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/phantom\/image019.jpg": {
+		"ft": 16384,
+		"iS": 80986,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/phantom\/image019.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/phantom\/image020.jpg": {
+		"ft": 16384,
+		"iS": 67247,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/phantom\/image020.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/phantom\/image021.jpg": {
+		"ft": 16384,
+		"iS": 67014,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/phantom\/image021.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image001.jpg": {
+		"ft": 16384,
+		"iS": 15106,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image001.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image002.jpg": {
+		"ft": 16384,
+		"iS": 39105,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image002.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image003.jpg": {
+		"ft": 16384,
+		"iS": 73553,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image003.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image004.jpg": {
+		"ft": 16384,
+		"iS": 42282,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image004.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image005.jpg": {
+		"ft": 16384,
+		"iS": 41264,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image005.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image006.jpg": {
+		"ft": 16384,
+		"iS": 134135,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image006.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image007.jpg": {
+		"ft": 16384,
+		"iS": 47379,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image007.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image008.jpg": {
+		"ft": 16384,
+		"iS": 62895,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image008.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image012.jpg": {
+		"ft": 16384,
+		"iS": 62697,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image012.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image013.jpg": {
+		"ft": 16384,
+		"iS": 60954,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image013.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image014.jpg": {
+		"ft": 16384,
+		"iS": 156542,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image014.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image015.jpg": {
+		"ft": 16384,
+		"iS": 106107,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image015.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image016.jpg": {
+		"ft": 16384,
+		"iS": 63246,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image016.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image017.jpg": {
+		"ft": 16384,
+		"iS": 54046,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image017.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image018.jpg": {
+		"ft": 16384,
+		"iS": 75141,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image018.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image022.jpg": {
+		"ft": 16384,
+		"iS": 67218,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image022.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image023.jpg": {
+		"ft": 16384,
+		"iS": 205663,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image023.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image024.jpg": {
+		"ft": 16384,
+		"iS": 56545,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image024.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/roland-stuck\/r84f90\/image025.jpg": {
+		"ft": 16384,
+		"iS": 51372,
+		"oA": 0,
+		"oAP": "\/riders\/roland-stuck\/r84f90\/image025.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
 		},
 	"\/riders\/sandro-bollina\/index.html": {
 		"cB": 0,
