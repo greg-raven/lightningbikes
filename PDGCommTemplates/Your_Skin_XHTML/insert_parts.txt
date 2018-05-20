@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="/css/lcd.css" type="text/css">
+<link rel="stylesheet" href="/_assets/css/lcd.css" type="text/css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Archivo+Narrow:700,700italic" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="/Scripts/fancyBox/source/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen">
+<link rel="stylesheet" href="/_assets/js/fancyBox/source/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen">

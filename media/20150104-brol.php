@@ -4,18 +4,17 @@
 	<title>Review: Lightning Phantom II (&rsquo;BentRider Online, 2015)</title>
 <!-- #bbinclude "meta.incl" -->
 	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Archivo+Narrow:700,700italic" rel="stylesheet" type="text/css">
-	<link rel="stylesheet" href="/css/lcd.css" type="text/css">
+	<link rel="stylesheet" href="/_assets/css/lcd.css" type="text/css">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37984504-1"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
 		gtag('js', new Date());
-
 		gtag('config', 'UA-37984504-1');
 	</script>
 <!-- end bbinclude -->
@@ -44,7 +43,7 @@
 				The frame is stronger and a bit lighter, the seat has been updated slightly and the tilting steering column is now standard. Wheels and components have also been brought up to date.
 			</p>
 			<figure>
-				<img src="/images/media/20150104-phantom-II.jpg" width="800" height="530" alt="20150104 Phantom II review" class="img-thumbnail">
+				<img src="/_assets/img/media/20150104-phantom-II.jpg" width="800" height="530" alt="20150104 Phantom II review" class="img-thumbnail">
 			</figure>
 			<p>
 				The 2015 Phantom II comes with a mostly Shimano Deore 27-speed drivetrain using a Sugino crankset and Tektro V-Brakes. The new 559 rear and 406 front rims are slightly aero-shaped ARDC units with 24 spokes in the front and 28 in the rear. The Phantom II rolls on Primo Comet tires. The total package weighs a very reasonable 28.5 pounds for the large frame and retails for $1,795.
@@ -104,7 +103,7 @@
 		</article>
 		<div class="col-sm-2 col-sm-pull-10">
 			<nav class="inside" id="menuInner"></nav>
-			<script type="text/Javascript" src="/Scripts/min/menuInner-min.js"></script>
+			<script type="text/Javascript" src="/_assets/js/menuInner-min.js"></script>
 			<noscript>You must enable JavaScript in your browser to view the menu.</noscript>
 		</div><!-- /.col-sm-2 col-sm-pull-10 -->
 	</div><!-- /.row -->
