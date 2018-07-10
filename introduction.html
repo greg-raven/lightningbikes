@@ -243,8 +243,6 @@
 		</article>
 		<div class="col-sm-2 col-sm-pull-10">
 			<nav class="inside" id="menuInner"></nav>
-			<script type="text/Javascript" src="/_assets/js/menuInner-min.js"></script>
-			<noscript>You must enable JavaScript in your browser to view the menu.</noscript>
 		</div><!-- /.col-sm-2 col-sm-pull-10 -->
 	</div><!-- /.row -->
 </div><!-- /.container-fluid -->
@@ -267,6 +265,11 @@
 <!-- /.container-fluid -->
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script>
+	$(document).ready(function() {
+		$("#menuInner").load( "/_assets/includes/menu-inner.htm" );
+	});
+</script>
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js does not work if you view the page via file:// -->
 <!--[if lt IE 9]>
