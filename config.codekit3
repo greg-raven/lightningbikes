@@ -5016,13 +5016,6 @@
 		"oT": 1,
 		"q": 80
 		},
-	"\/_assets\/includes\/menu-inner.htm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_assets\/includes\/menu-inner.htm",
-		"oF": 0
-		},
 	"\/_assets\/js\/fancyBox\/.gitattributes": {
 		"cB": 0,
 		"ft": 8192,
@@ -5197,11 +5190,11 @@
 		},
 	"\/_assets\/js\/menuInner.js": {
 		"ft": 64,
-		"ma": 1,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/_assets\/js\/menuInner-min.js",
-		"oF": 2,
+		"oAP": "\/_assets\/js\/min\/menuInner-min.js",
+		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
