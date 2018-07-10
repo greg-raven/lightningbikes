@@ -7939,13 +7939,6 @@
 		"oAP": "\/howtobuy.html",
 		"oF": 0
 		},
-	"\/index-PreviewTemp-26E300BA-22C5-483E-B6A9-9438199F6950.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/index-PreviewTemp-26E300BA-22C5-483E-B6A9-9438199F6950.html",
-		"oF": 0
-		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -11319,6 +11312,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/p38\/serial-numbers.html",
+		"oF": 0
+		},
+	"\/p38\/update.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/p38\/update.html",
 		"oF": 0
 		},
 	"\/patents\/index.html": {
