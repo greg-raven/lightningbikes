@@ -3189,6 +3189,17 @@
 		"opt": 0,
 		"q": 80
 		},
+	"\/_assets\/img\/p38\/2018-P-38-XT-carbon-forks-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 6934,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/img\/p38\/2018-P-38-XT-carbon-forks-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"\/_assets\/img\/p38\/2018-P-38-XT-carbon-forks.jpg": {
 		"ft": 16384,
 		"iS": 65380,
@@ -5026,6 +5037,13 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 80
+		},
+	"\/_assets\/includes\/menu-inner.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_assets\/includes\/menu-inner.htm",
+		"oF": 0
 		},
 	"\/_assets\/js\/fancyBox\/.gitattributes": {
 		"cB": 0,
@@ -11128,13 +11146,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 80
-		},
-	"\/p38\/index-PreviewTemp-9A3E3981-2AA3-4879-A56A-1AE06346E97A.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/p38\/index-PreviewTemp-9A3E3981-2AA3-4879-A56A-1AE06346E97A.html",
-		"oF": 0
 		},
 	"\/p38\/index.html": {
 		"cB": 0,
