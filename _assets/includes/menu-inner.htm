@@ -4,6 +4,9 @@
 // add active classes to active navbar item
 $(document).ready( function () {
   switch (true) {
+      case ((/introduction.html/).test(window.location.pathname)):
+         $("#intro").addClass("active");
+         break;
       case ((/f40/).test(window.location.pathname)):
       case ((/f90/).test(window.location.pathname)):
       case ((/p38/).test(window.location.pathname)):
@@ -18,11 +21,20 @@ $(document).ready( function () {
       case ((/cranks/).test(window.location.pathname)):
          $("#cranksets").addClass("active");
          break;
+      case ((/crank-nav.html/).test(window.location.pathname)):
+         $("#crankparts").addClass("active");
+         break;
+      case ((/accessories/).test(window.location.pathname)):
+         $("#accessories").addClass("active");
+         break;
+      case ((/pricelist.html/).test(window.location.pathname)):
+         $("#prices").addClass("active");
+         break;
       case ((/dealers/).test(window.location.pathname)):
          $("#dealers").addClass("active");
          break;
-      case ((/gallery/).test(window.location.pathname)):
-         $("#photos").addClass("active");
+      case ((/howtobuy.html/).test(window.location.pathname)):
+         $("#buying").addClass("active");
          break;
       case ((/media/).test(window.location.pathname)):
          $("#media").addClass("active");
@@ -37,8 +49,14 @@ $(document).ready( function () {
       case ((/riders/).test(window.location.pathname)):
          $("#riders").addClass("active");
          break;
+      case ((/gallery/).test(window.location.pathname)):
+         $("#photos").addClass("active");
+         break;
       case ((/videos/).test(window.location.pathname)):
          $("#videos").addClass("active");
+         break;
+      case ((/faq.html/).test(window.location.pathname)):
+         $("#faq").addClass("active");
          break;
       case ((/tips/).test(window.location.pathname)):
          $("#tips").addClass("active");
