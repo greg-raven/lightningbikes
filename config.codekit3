@@ -20567,6 +20567,20 @@
 		"oAP": "\/stealth\/index.html",
 		"oF": 0
 		},
+	"\/store\/bacon.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/store\/bacon.html",
+		"oF": 0
+		},
+	"\/store\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/store\/index.html",
+		"oF": 0
+		},
 	"\/support.html": {
 		"cB": 0,
 		"ft": 8192,
