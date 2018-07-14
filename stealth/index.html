@@ -102,23 +102,22 @@
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script>
-$(document).ready(function () {
-    "use strict";
-    // Optimalisation: Store the references outside the event handler:
-    var $window = $(window);
-    function checkWidth() {
-        var windowsize = $window.width();
-        if (windowsize < 768) {
-            //if the window is less than 768px wide then load mobile menu
-            $("#mobileNav").load("/_assets/includes/mobile-nav.htm");
-        }
-    }
-    // Execute on load
-    checkWidth();
-    // Bind event listener
-    $(window).resize(checkWidth);
-});
-
+	$(document).ready(function () {
+			"use strict";
+			// Optimalisation: Store the references outside the event handler:
+			var $window = $(window);
+			function checkWidth() {
+					var windowsize = $window.width();
+					if (windowsize < 768) {
+							//if the window is less than 768px wide then load mobile menu
+							$("#mobileNav").load("/_assets/includes/mobile-nav.htm");
+					}
+			}
+			// Execute on load
+			checkWidth();
+			// Bind event listener
+			$(window).resize(checkWidth);
+	});
 </script>
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js does not work if you view the page via file:// -->

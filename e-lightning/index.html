@@ -223,13 +223,13 @@
 					<form method="post" action="https://www.lightningbikes.com/cgi-bin/commerce.cgi">
 						<input type="hidden" name="key" value="_E-BIKE">
 <!-- #bbinclude "add-to-cart.incl" -->
-<input type="submit" class="btn btn-primary btn-xs" name="preadd" value="Buy now"> 
+<!-- <input type="submit" class="btn btn-primary btn-xs" name="preadd" value="Buy now">  -->
 <!-- end bbinclude -->
 					</form>
 					</td>
 					<td><!-- #bbinclude "view-cart.incl" -->
 <form method="post" action="https://www.lightningbikes.com/cgi-bin/commerce.cgi">
-	<button type="submit" class="btn btn-success btn-xs" name="display">View cart</button>
+	<!-- <button type="submit" class="btn btn-success btn-xs" name="display">View cart</button> -->
 </form>
 <!-- end bbinclude -->
 					</td>
@@ -241,13 +241,13 @@
 					<form method="post" action="https://www.lightningbikes.com/cgi-bin/commerce.cgi">
 						<input type="hidden" name="key" value="_E-BIKE_CHARGER">
 <!-- #bbinclude "add-to-cart.incl" -->
-<input type="submit" class="btn btn-primary btn-xs" name="preadd" value="Buy now"> 
+<!-- <input type="submit" class="btn btn-primary btn-xs" name="preadd" value="Buy now">  -->
 <!-- end bbinclude -->
 					</form>
 					</td>
 					<td><!-- #bbinclude "view-cart.incl" -->
 <form method="post" action="https://www.lightningbikes.com/cgi-bin/commerce.cgi">
-	<button type="submit" class="btn btn-success btn-xs" name="display">View cart</button>
+	<!-- <button type="submit" class="btn btn-success btn-xs" name="display">View cart</button> -->
 </form>
 <!-- end bbinclude -->
 					</td>
@@ -309,23 +309,22 @@
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script>
-$(document).ready(function () {
-    "use strict";
-    // Optimalisation: Store the references outside the event handler:
-    var $window = $(window);
-    function checkWidth() {
-        var windowsize = $window.width();
-        if (windowsize < 768) {
-            //if the window is less than 768px wide then load mobile menu
-            $("#mobileNav").load("/_assets/includes/mobile-nav.htm");
-        }
-    }
-    // Execute on load
-    checkWidth();
-    // Bind event listener
-    $(window).resize(checkWidth);
-});
-
+	$(document).ready(function () {
+			"use strict";
+			// Optimalisation: Store the references outside the event handler:
+			var $window = $(window);
+			function checkWidth() {
+					var windowsize = $window.width();
+					if (windowsize < 768) {
+							//if the window is less than 768px wide then load mobile menu
+							$("#mobileNav").load("/_assets/includes/mobile-nav.htm");
+					}
+			}
+			// Execute on load
+			checkWidth();
+			// Bind event listener
+			$(window).resize(checkWidth);
+	});
 </script>
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js does not work if you view the page via file:// -->
