@@ -21,7 +21,7 @@
 	<style>		/* front page only */
 		html { background-color: #edf0f8; }
 
-		body
+		article
 		{
 			/* ff3.6+,safari4+,chrome,safari5.1+,chrome10+,opera 11.10+,ie10+ */
 			background: linear-gradient(180deg, #3a5795 0%, #edf0f8 100%);
@@ -32,10 +32,11 @@
 			margin-top: 50px;
 		}
 
-		.navbar { background-color: #4060a5; }
-		a { color: white; }
-		.address { color: DeepSkyBlue; }
-		.address a { color: #4060a5; }
+		article a { color: white; font-weight: bold; }
+
+		.navbar-inverse { background-color: #4060a5; }
+		.navbar-inverse .navbar-nav>li>a { color: white; }
+		.navbar-inverse .navbar-nav>li>a:hover { background-color: #eee; color: #4060a5; }
 
 		.logo
 		{
@@ -50,7 +51,7 @@
 	<link rel="icon" href="favicon.ico">
 </head>
 <body>
-<nav class="navbar navbar-fixed-top">
+<nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span> Menu </button><a class="navbar-brand visible-xs" href="/index.html">Lightning Cycles</a>
@@ -91,7 +92,7 @@
 <!-- /.nav-collapse -->
 	</div>
 <!-- /.container -->
-</nav>
+</nav><article>
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12 logo">
@@ -129,6 +130,8 @@
 <!-- /.row -->
 </div>
 <!-- /.container-fluid -->
+</article>
+
 <!-- #bbinclude "footer.incl" -->
 <div class="container-fluid">
 	<div class="row">

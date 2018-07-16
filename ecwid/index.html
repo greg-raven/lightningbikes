@@ -25,15 +25,13 @@
 			margin-top: 50px;
 		}
 
-		.navbar { background-color: #4060a5; }
-		a { color: white; }
-		.address { color: DeepSkyBlue; }
-		.address a { color: #4060a5; }
-
+		.navbar-inverse { background-color: #4060a5; }
+		.navbar-inverse .navbar-nav>li>a { color: white; }
+		.navbar-inverse .navbar-nav>li>a:hover { background-color: #eee; color: #4060a5; }
 	</style>
 </head>
 <body>
-<nav class="navbar navbar-fixed-top">
+<nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span> Menu </button><a class="navbar-brand visible-xs" href="/index.html">Lightning Cycles</a>
@@ -138,15 +136,28 @@
 					Copyright &copy; <a href="/company.html">Lightning Cycle Dynamics</a>, 1977&ndash;2018
 				</p>
 			</footer>
-		</div>
-<!-- /.col-sm-12 -->
-	</div>
-<!-- /.row -->
-</div>
-<!-- /.container-fluid -->
-<script src="https://code.jquery.com/jquery-3.3.1.min.js">
-</script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
+		</div><!-- /.col-sm-12 -->
+	</div><!-- /.row -->
+</div><!-- /.container-fluid -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script>
+	$(document).ready(function () {
+			"use strict";
+			// Optimalisation: Store the references outside the event handler:
+			var $window = $(window);
+			function checkWidth() {
+					var windowsize = $window.width();
+					if (windowsize < 768) {
+							//if the window is less than 768px wide then load mobile menu
+							$("#mobileNav").load("/_assets/includes/mobile-nav.htm");
+					}
+			}
+			// Execute on load
+			checkWidth();
+			// Bind event listener
+			$(window).resize(checkWidth);
+	});
 </script>
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js does not work if you view the page via file:// -->
