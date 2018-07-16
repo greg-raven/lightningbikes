@@ -24,19 +24,21 @@
 		{
 			margin-top: 50px;
 		}
-
-		.address { color: DeepSkyBlue; }
-		.address a { color: #4060a5; }
+		.navbar { background-color: #4060a5; }
+		.navbar a { color: #ddd; }
+		.navbar a:hover { color: #4060a5; }
+		.navbar a.dropdown-toggle:active, .navbar a.dropdown-toggle:hover { color: #4060a5; }
 	</style>
 </head>
 <body>
-<nav class="navbar navbar-inverse navbar-fixed-top">
+<nav class="navbar navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span> Menu </button><a class="navbar-brand visible-xs" href="/index.html">Lightning Cycles</a>
 		</div>
 		<div id="navbar" class="collapse navbar-collapse">
 			<ul class="nav navbar-nav">
+				<li><a href="/index.html">Home</a></li>
 				<li class="dropdown"><a href="/products.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products <span class="caret"></span></a>
 				<ul class="dropdown-menu">
 					<li><a href="/introduction.html">Introduction</a></li>
@@ -47,7 +49,12 @@
 					<li><a href="/howtobuy.html">How to buy</a></li>
 				</ul>
 				</li>
-				<li><a href="/ecwid/index.html">Store</a></li>
+				<li class="dropdown"><a href="/ecwid/index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Buy <span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li><a href="/dealers/index.html">Dealers</a></li>
+					<li><a href="/ecwid/index.html">Online store</a></li>
+				</ul>
+				</li>
 				<li class="dropdown"><a href="/company.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Who we are <span class="caret"></span></a>
 				<ul class="dropdown-menu">
 					<li><a href="/company.html">About us</a></li>
@@ -65,7 +72,6 @@
 					<li><a href="http://www.lightningriders.com/">LightningRiders.com</a></li>
 				</ul>
 				</li>
-				<li><a href="/search.html">Search</a></li>
 			</ul>
 		</div>
 <!-- /.nav-collapse -->
@@ -92,16 +98,6 @@
 					xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-14422883");
 				</script>
 			</div>
-<!-- store categories -->
-			<div id="my-categories-14422883">
-			</div>
-			<div>
-				<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?14422883&amp;data_platform=code&amp;data_date=2018-07-15" charset="utf-8">
-				</script>
-				<script type="text/javascript">
-					xCategoriesV2("id=my-categories-14422883");
-				</script>
-			</div>
 		</article>
 		<aside class="col-sm-3">
 <!-- store search -->
@@ -114,17 +110,16 @@
 					xSearch("id=my-search-14422883");
 				</script>
 			</div>
-			&nbsp;
-<!-- store cart widget -->
-			<div class="ec-cart-widget"></div>
+<!-- store mini cart widget -->
+			<div class="ec-cart-widget">
+			</div>
 			<div>
-				<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?14422883&amp;data_platform=code&amp;data_date=2018-07-15" charset="utf-8">
+				<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?14422883&amp;data_platform=code&amp;data_date=2018-07-16" charset="utf-8">
 				</script>
 				<script type="text/javascript">
 					Ecwid.init();
 				</script>
 			</div>
-<!-- /store cart widget -->
 		</aside>
 <!-- /.col-sm-3 -->
 	</div>
