@@ -9,8 +9,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Archivo+Narrow:700,700italic" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="/_assets/css/lcd.css" type="text/css">
 <!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37984504-1">
-	</script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37984504-1"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
@@ -131,19 +130,22 @@
 			<footer class="address">
 				<hr>
 				<p class="text-center">
-					Copyright &copy; <a href="/company.html">Lightning Cycle Dynamics</a>, 1977&ndash;2018
+					Copyright &copy; <a href="/company.html">Lightning Cycle Dynamics</a>, 1977&ndash;<span id="currentyear"></span>
 				</p>
 			</footer>
-		</div>
-<!-- /.col-sm-12 -->
-	</div>
-<!-- /.row -->
-</div>
-<!-- /.container-fluid -->
-<script src="https://code.jquery.com/jquery-3.3.1.min.js">
-</script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-</script>
+			<script>
+				// Return today's date and time
+				var currentTime = new Date()
+				// returns the year (four digits)
+				var year = currentTime.getFullYear()
+				// insert current year into document
+				document.getElementById("currentyear").innerHTML = year;
+			</script>
+		</div><!-- /.col-sm-12 -->
+	</div><!-- /.row -->
+</div><!-- /.container-fluid -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script>
 	$(document).ready(function () {
 			"use strict";
