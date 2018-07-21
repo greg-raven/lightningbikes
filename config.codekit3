@@ -291,6 +291,16 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/_assets\/css\/navbar-inverse.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_assets\/css\/navbar-inverse-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/_assets\/css\/navbar-inverse.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -14387,6 +14397,24 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/riders\/dan-hansen-jr\/windy-r-84.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"\/riders\/dan-hurley\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/riders\/dan-hurley\/index.html",
+		"oF": 0
+		},
+	"\/riders\/dan-hurley\/S-Works-Tarmac.jpg": {
+		"ft": 16384,
+		"iS": 565931,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/riders\/dan-hurley\/S-Works-Tarmac.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
