@@ -8,6 +8,12 @@ body
 	background-color: #edf0f8;
 }
 
+article
+{
+	line-height: 1.5;
+	padding: 1em;
+}
+
 blockquote
 {
 	font-size: 16px;
@@ -46,14 +52,6 @@ legend
 {
 	font-weight: bold;
 	padding: 0 1em 0 1em;
-}
-
-table
-{
-	max-width: 100%;
-	background-color: transparent;
-	border-collapse: collapse;
-	border-spacing: 0;
 }
 
 nav.inside
@@ -104,10 +102,17 @@ nav.current
 	color: black;
 }
 
-article
+// for Ecwid online store
+span.form-control__button-text {
+	color: white;
+}
+
+table
 {
-	line-height: 1.5;
-	padding: 1em;
+	max-width: 100%;
+	background-color: transparent;
+	border-collapse: collapse;
+	border-spacing: 0;
 }
 
 .address { font-size: smaller; }
