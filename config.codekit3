@@ -6364,6 +6364,27 @@
 		"oAP": "\/bikefit.html",
 		"oF": 0
 		},
+	"\/cgi-bin\/lightningbikes_config.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/cgi-bin\/lightningbikes_config.xml",
+		"oF": 0
+		},
+	"\/cgi-bin\/sitemap_gen.py": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/cgi-bin\/sitemap_gen.py",
+		"oF": 0
+		},
+	"\/cgi-bin\/sitemap_gen.sh": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/cgi-bin\/sitemap_gen.sh",
+		"oF": 0
+		},
 	"\/climbing.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -12116,69 +12137,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/patents\/index.html",
-		"oF": 0
-		},
-	"\/PDGCommTemplates\/Your_Skin_XHTML\/Bottom_Nav.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/PDGCommTemplates\/Your_Skin_XHTML\/Bottom_Nav.html",
-		"oF": 0
-		},
-	"\/PDGCommTemplates\/Your_Skin_XHTML\/button.conf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/PDGCommTemplates\/Your_Skin_XHTML\/button.conf",
-		"oF": 0
-		},
-	"\/PDGCommTemplates\/Your_Skin_XHTML\/description.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/PDGCommTemplates\/Your_Skin_XHTML\/description.txt",
-		"oF": 0
-		},
-	"\/PDGCommTemplates\/Your_Skin_XHTML\/Head.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/PDGCommTemplates\/Your_Skin_XHTML\/Head.html",
-		"oF": 0
-		},
-	"\/PDGCommTemplates\/Your_Skin_XHTML\/insert_parts.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/PDGCommTemplates\/Your_Skin_XHTML\/insert_parts.txt",
-		"oF": 0
-		},
-	"\/PDGCommTemplates\/Your_Skin_XHTML\/Search_Submit.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/PDGCommTemplates\/Your_Skin_XHTML\/Search_Submit.html",
-		"oF": 0
-		},
-	"\/PDGCommTemplates\/Your_Skin_XHTML\/skinname.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/PDGCommTemplates\/Your_Skin_XHTML\/skinname.txt",
-		"oF": 0
-		},
-	"\/PDGCommTemplates\/Your_Skin_XHTML\/template.conf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/PDGCommTemplates\/Your_Skin_XHTML\/template.conf",
-		"oF": 0
-		},
-	"\/PDGCommTemplates\/Your_Skin_XHTML\/Top_Nav.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/PDGCommTemplates\/Your_Skin_XHTML\/Top_Nav.html",
 		"oF": 0
 		},
 	"\/phantom\/gallery\/data\/images1\/2014_large.jpg": {

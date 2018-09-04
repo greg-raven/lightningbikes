@@ -1,1 +1,0 @@
-Your Custom XHTML Template Set - uses templates located in the Header_Footer_XHTML folder to control storefront content layout of pages.
