@@ -21232,11 +21232,18 @@
 		"oAP": "/robots.txt",
 		"oF": 0
 		},
-	"/search.html": {
+	"/search.txt": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
-		"oAP": "/search.html",
+		"oA": 2,
+		"oAP": "/search.txt",
+		"oF": 0
+		},
+	"/sitemap.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/sitemap.txt",
 		"oF": 0
 		},
 	"/sitemap.xml": {

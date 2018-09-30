@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Disallow: /Templates
-Disallow: /Library
+Disallow: /cgi-bin/
 
 Sitemap: https://www.lightningbikes.com/sitemap.xml
+Sitemap: https://www.lightningbikes.com/sitemap.txt
