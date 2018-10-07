@@ -12658,6 +12658,13 @@
 		"oAP": "/phantom/manual.html",
 		"oF": 0
 		},
+	"/phantom/phantom-d.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/phantom/phantom-d.html",
+		"oF": 0
+		},
 	"/phantom/quotes.html": {
 		"cB": 0,
 		"ft": 8192,
