@@ -6475,6 +6475,13 @@
 		"oAP": "/contact.html",
 		"oF": 0
 		},
+	"/cranks/bearings-PreviewTemp-FB0B367C-6BF3-4485-B253-7CB031C935B6.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/cranks/bearings-PreviewTemp-FB0B367C-6BF3-4485-B253-7CB031C935B6.html",
+		"oF": 0
+		},
 	"/cranks/bearings.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -12690,13 +12697,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/phantom/gallery/index.html",
-		"oF": 0
-		},
-	"/phantom/index-PreviewTemp-85612B00-EEE9-48A1-96D0-822CAE1CE4E8.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/phantom/index-PreviewTemp-85612B00-EEE9-48A1-96D0-822CAE1CE4E8.html",
 		"oF": 0
 		},
 	"/phantom/index.html": {
