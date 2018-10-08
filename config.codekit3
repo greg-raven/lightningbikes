@@ -6380,6 +6380,13 @@
 		"oAP": "/accessories/suspended-fork-s-1.html",
 		"oF": 0
 		},
+	"/accessories/tilt-steering.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/accessories/tilt-steering.html",
+		"oF": 0
+		},
 	"/accessories/trunk.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -21294,11 +21301,11 @@
 		"oAP": "/robots.txt",
 		"oF": 0
 		},
-	"/search.txt": {
+	"/search.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/search.txt",
+		"oAP": "/search.html",
 		"oF": 0
 		},
 	"/sitemap.txt": {
