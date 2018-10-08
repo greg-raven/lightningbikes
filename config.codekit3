@@ -12692,6 +12692,13 @@
 		"oAP": "/phantom/gallery/index.html",
 		"oF": 0
 		},
+	"/phantom/index-PreviewTemp-85612B00-EEE9-48A1-96D0-822CAE1CE4E8.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/phantom/index-PreviewTemp-85612B00-EEE9-48A1-96D0-822CAE1CE4E8.html",
+		"oF": 0
+		},
 	"/phantom/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -12718,13 +12725,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/phantom/manual.html",
-		"oF": 0
-		},
-	"/phantom/phantom-d-PreviewTemp-9A5A8A25-08A7-4EAE-9AF7-721D0AAF3E52.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/phantom/phantom-d-PreviewTemp-9A5A8A25-08A7-4EAE-9AF7-721D0AAF3E52.html",
 		"oF": 0
 		},
 	"/phantom/phantom-d.html": {
