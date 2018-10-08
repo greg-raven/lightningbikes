@@ -8840,6 +8840,13 @@
 		"oAP": "/howtobuy.html",
 		"oF": 0
 		},
+	"/index-PreviewTemp-EB0C0D4E-A705-43A5-800A-2D7AA66DF99E.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/index-PreviewTemp-EB0C0D4E-A705-43A5-800A-2D7AA66DF99E.html",
+		"oF": 0
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -12746,13 +12753,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/phantom/manual.html",
-		"oF": 0
-		},
-	"/phantom/phantom-d-PreviewTemp-85F7DAD3-64AA-4AF0-98B5-128EE99D9BF9.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/phantom/phantom-d-PreviewTemp-85F7DAD3-64AA-4AF0-98B5-128EE99D9BF9.html",
 		"oF": 0
 		},
 	"/phantom/phantom-d.html": {
