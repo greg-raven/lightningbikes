@@ -6275,6 +6275,13 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/accessories/ballistic-fork.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/accessories/ballistic-fork.html",
+		"oF": 0
+		},
 	"/accessories/chain-idler.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -6310,6 +6317,13 @@
 		"oAP": "/accessories/index.html",
 		"oF": 0
 		},
+	"/accessories/kickstand.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/accessories/kickstand.html",
+		"oF": 0
+		},
 	"/accessories/lightning-shorts.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -6338,6 +6352,13 @@
 		"oAP": "/accessories/panniers.html",
 		"oF": 0
 		},
+	"/accessories/pedal-extenders.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/accessories/pedal-extenders.html",
+		"oF": 0
+		},
 	"/accessories/quick-adjust-kit.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -6357,6 +6378,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/accessories/seat-bag.html",
+		"oF": 0
+		},
+	"/accessories/seat-mesh-kit.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/accessories/seat-mesh-kit.html",
 		"oF": 0
 		},
 	"/accessories/shockster-rack.html": {
@@ -6473,13 +6501,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/contact.html",
-		"oF": 0
-		},
-	"/cranks/bearings-PreviewTemp-FB0B367C-6BF3-4485-B253-7CB031C935B6.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/cranks/bearings-PreviewTemp-FB0B367C-6BF3-4485-B253-7CB031C935B6.html",
 		"oF": 0
 		},
 	"/cranks/bearings.html": {
