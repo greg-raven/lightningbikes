@@ -19,7 +19,7 @@
 	</script>
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 	<meta name="generator" content="BBEdit">
-	<link rel="canonical" href="https//www.lightningbikes.com/media/20150104-brol.php">
+	<link rel="canonical" href="https://www.lightningbikes.com/media/20150104-brol.php">
 <!-- end bbinclude -->
 </head>
 <body>
