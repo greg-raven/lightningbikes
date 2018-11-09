@@ -7,7 +7,7 @@
 		"uuidString": "4D3FA354-0CD3-4EE6-8261-AA81EAC201F7"
 		}
 	],
-"creatorBuild": "28901",
+"creatorBuild": "28905",
 "files": {
 	"/.editorconfig": {
 		"cB": 0,
@@ -13589,6 +13589,13 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/recumbents-new.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/recumbents-new.html",
+		"oF": 0
 		},
 	"/recumbents.html": {
 		"cB": 0,
