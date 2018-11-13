@@ -248,3 +248,8 @@ Redirect 301 /riders/martin-krieg/recumbent-history/gr/index.html https://www.li
 # ErrorDocument 403 /403.shtml
 ErrorDocument 404 /search.html
 # ErrorDocument 500 /500.shtml
+
+# ----------------------------------------------------------------------
+# Force HTTPS
+# ----------------------------------------------------------------------
+# must use JavaScript with Network Solutions
