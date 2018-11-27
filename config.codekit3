@@ -1867,6 +1867,83 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/f22/0a90df421fa83425ce27bbec2c09a9c9_original.jpeg": {
+		"ft": 16384,
+		"iS": 82619,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/f22/0a90df421fa83425ce27bbec2c09a9c9_original.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 80
+		},
+	"/_assets/img/f22/0a90df421fa83425ce27bbec2c09a9c9_original.jpg": {
+		"ft": 16384,
+		"iS": 40824,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/f22/0a90df421fa83425ce27bbec2c09a9c9_original.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/f22/4527a683bdf79382cdbbe948e972f67e_original.jpeg": {
+		"ft": 16384,
+		"iS": 52366,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/f22/4527a683bdf79382cdbbe948e972f67e_original.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/f22/5ab62e80c9f762e358fda5a597888d40_original.jpeg": {
+		"ft": 16384,
+		"iS": 37603,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/f22/5ab62e80c9f762e358fda5a597888d40_original.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/f22/76bd2b63d3ae16348701783018dfe76b_original.jpeg": {
+		"ft": 16384,
+		"iS": 89067,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/f22/76bd2b63d3ae16348701783018dfe76b_original.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/f22/lightning-t-shirt.jpg": {
+		"ft": 16384,
+		"iS": 80078,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/f22/lightning-t-shirt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/f22/raam-crew.jpg": {
+		"ft": 16384,
+		"iS": 31595,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/f22/raam-crew.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/f40/19570020ed.jpg": {
 		"ft": 16384,
 		"iS": 45486,
@@ -7302,6 +7379,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/e-lightning/quotes.html",
+		"oF": 0
+		},
+	"/f22/index-PreviewTemp-CC1E3E1C-8FA2-4F4A-85A0-CC2153D97C83.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/f22/index-PreviewTemp-CC1E3E1C-8FA2-4F4A-85A0-CC2153D97C83.html",
+		"oF": 0
+		},
+	"/f22/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/f22/index.html",
 		"oF": 0
 		},
 	"/f40/gallery/data/images1/bill_hannons.jpg": {

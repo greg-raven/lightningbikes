@@ -20,7 +20,7 @@
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 	<meta name="generator" content="BBEdit">
 	<link rel="canonical" href="https://www.lightningbikes.com/media/20150104-brol.php">
-	<script language="javascript">
+	<script>
 		if (document.location.protocol != "https:")
 		{
 		document.location.href = "https://www.lightningbikes.com" + document.location.pathname;
