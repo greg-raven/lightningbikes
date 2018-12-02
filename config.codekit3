@@ -1922,6 +1922,17 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/f22/lightning-f22-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 4937,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/f22/lightning-f22-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/f22/lightning-t-shirt.jpg": {
 		"ft": 16384,
 		"iS": 80078,
@@ -2379,6 +2390,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/front/kickstarter-black-bg.jpg": {
+		"ft": 16384,
+		"iS": 64661,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/front/kickstarter-black-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/front/kickstarter-white-bg.jpg": {
+		"ft": 16384,
+		"iS": 63615,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/front/kickstarter-white-bg.jpg",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 80
 		},
 	"/_assets/img/front/lightningfb.png": {
