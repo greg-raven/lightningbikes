@@ -3813,6 +3813,72 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/phantom/2019-phantom-d-front-brake.jpg": {
+		"ft": 16384,
+		"iS": 121578,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/phantom/2019-phantom-d-front-brake.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/phantom/2019-phantom-d-quick-adjust.jpg": {
+		"ft": 16384,
+		"iS": 115872,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/phantom/2019-phantom-d-quick-adjust.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/phantom/2019-phantom-d-red.jpg": {
+		"ft": 16384,
+		"iS": 110211,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/phantom/2019-phantom-d-red.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/phantom/2019-phantom-d-seat-mesh.jpg": {
+		"ft": 16384,
+		"iS": 247879,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/phantom/2019-phantom-d-seat-mesh.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/phantom/2019-phantom-d-seat-mount.jpg": {
+		"ft": 16384,
+		"iS": 391273,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/phantom/2019-phantom-d-seat-mount.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/phantom/2019-phantom-d-tilt.jpg": {
+		"ft": 16384,
+		"iS": 94152,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/phantom/2019-phantom-d-tilt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/phantom/Kristen-Phantom.jpg": {
 		"ft": 16384,
 		"iS": 36189,
@@ -7412,13 +7478,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/e-lightning/quotes.html",
-		"oF": 0
-		},
-	"/f22/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/f22/index.html",
 		"oF": 0
 		},
 	"/f40/gallery/data/images1/bill_hannons.jpg": {
@@ -12367,6 +12426,20 @@
 		"oAP": "/patents/index.html",
 		"oF": 0
 		},
+	"/phantom/features.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/phantom/features.html",
+		"oF": 0
+		},
+	"/phantom/feedback.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/phantom/feedback.html",
+		"oF": 0
+		},
 	"/phantom/gallery/data/images1/2014_large.jpg": {
 		"ft": 16384,
 		"iS": 61399,
@@ -12886,18 +12959,11 @@
 		"oAP": "/phantom/manual.html",
 		"oF": 0
 		},
-	"/phantom/phantom-d.html": {
+	"/phantom/specs.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/phantom/phantom-d.html",
-		"oF": 0
-		},
-	"/phantom/quotes.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/phantom/quotes.html",
+		"oAP": "/phantom/specs.html",
 		"oF": 0
 		},
 	"/phantom/tensioner-assembly.html": {
