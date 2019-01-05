@@ -147,11 +147,12 @@ https://www.lightningbikes.com/p38/order-frame.html
 https://www.lightningbikes.com/p38/serial-numbers.html
 https://www.lightningbikes.com/p38/update.html
 https://www.lightningbikes.com/patents/index.html
+https://www.lightningbikes.com/phantom/features.html
+https://www.lightningbikes.com/phantom/feedback.html
 https://www.lightningbikes.com/phantom/gallery/index.html
 https://www.lightningbikes.com/phantom/index.html
 https://www.lightningbikes.com/phantom/manual.html
-https://www.lightningbikes.com/phantom/phantom-d.html
-https://www.lightningbikes.com/phantom/feedback.html
+https://www.lightningbikes.com/phantom/specs.html
 https://www.lightningbikes.com/phantom/tensioner-assembly.html
 https://www.lightningbikes.com/pricelist.html
 https://www.lightningbikes.com/products.html
@@ -170,6 +171,7 @@ https://www.lightningbikes.com/racing/2006-fc508.html
 https://www.lightningbikes.com/racing/f40-racing.html
 https://www.lightningbikes.com/racing/f90-racing.html
 https://www.lightningbikes.com/racing/index.html
+https://www.lightningbikes.com/recumbents-new.html
 https://www.lightningbikes.com/recumbents.html
 https://www.lightningbikes.com/riders/adam-hansen/index.html
 https://www.lightningbikes.com/riders/alec-proudfoot/index.html
