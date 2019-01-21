@@ -853,6 +853,17 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/accessories/vdo-cycle-computer.jpg": {
+		"ft": 16384,
+		"iS": 4977,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/accessories/vdo-cycle-computer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/accessories/widepac-hydration-bladder.jpg": {
 		"ft": 16384,
 		"iS": 25225,
@@ -6477,6 +6488,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/accessories/chain-idler.html",
+		"oF": 0
+		},
+	"/accessories/cycle-computer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/accessories/cycle-computer.html",
 		"oF": 0
 		},
 	"/accessories/fenders.html": {
