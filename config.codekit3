@@ -3824,6 +3824,17 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/phantom/2019-phantom-d-blue.jpg": {
+		"ft": 16384,
+		"iS": 106249,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/phantom/2019-phantom-d-blue.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/phantom/2019-phantom-d-front-brake.jpg": {
 		"ft": 16384,
 		"iS": 121578,
@@ -3874,6 +3885,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_assets/img/phantom/2019-phantom-d-seat-mount.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/phantom/2019-phantom-d-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 6395,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/phantom/2019-phantom-d-thumbnail.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
