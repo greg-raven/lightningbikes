@@ -191,7 +191,7 @@ Redirect 301 /phantom.htm https://www.lightningbikes.com/phantom/index.html
 Redirect 301 /Phantom%20Manual.pdf https://www.lightningbikes.com/phantom/manual.html
 Redirect 301 /Phantom%20quotes.htm https://www.lightningbikes.com/riders/index.html
 Redirect 301 /1995-pbp.html https://www.lightningbikes.com/riders/1995-pbp.html
-Redirect 301 /pricelist.htm https://www.lightningbikes.com/pricelist.html
+Redirect 301 /pricelist.htm https://www.lightningbikes.com/store/index.html
 Redirect 301 /Quad.htm https://www.lightningbikes.com/quad/index.html
 Redirect 301 /r84.htm https://www.lightningbikes.com/r84/index.html
 Redirect 301 /raam_2004.htm https://www.lightningbikes.com/riders/2004-raam.html
