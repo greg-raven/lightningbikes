@@ -1856,6 +1856,83 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/e-lightning/e-lightning-battery-rack.jpg": {
+		"ft": 16384,
+		"iS": 81789,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/e-lightning/e-lightning-battery-rack.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/e-lightning/e-lightning-close-up.jpg": {
+		"ft": 16384,
+		"iS": 629858,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/e-lightning/e-lightning-close-up.jpg",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
+		},
+	"/_assets/img/e-lightning/e-lightning-dashboard.jpg": {
+		"ft": 16384,
+		"iS": 73188,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/e-lightning/e-lightning-dashboard.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/e-lightning/e-lightning-logo.jpg": {
+		"ft": 16384,
+		"iS": 7006,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/e-lightning/e-lightning-logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/e-lightning/e-lightning-power-assist-ring.jpg": {
+		"ft": 16384,
+		"iS": 91921,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/e-lightning/e-lightning-power-assist-ring.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/e-lightning/e-lightning-side.jpg": {
+		"ft": 16384,
+		"iS": 81735,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/e-lightning/e-lightning-side.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/e-lightning/e-lightning-throttle.jpg": {
+		"ft": 16384,
+		"iS": 40052,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/e-lightning/e-lightning-throttle.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/exseam-sm.JPG": {
 		"ft": 16384,
 		"iS": 8996,
