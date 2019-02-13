@@ -1867,6 +1867,17 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/e-lightning/e-lightning-blue-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 16377,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/e-lightning/e-lightning-blue-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/e-lightning/e-lightning-close-up.jpg": {
 		"ft": 16384,
 		"iS": 629858,
@@ -3423,7 +3434,7 @@
 		},
 	"/_assets/img/p38/2018-P-38-XT-carbon-forks-thumbnail.jpg": {
 		"ft": 16384,
-		"iS": 6934,
+		"iS": 15614,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_assets/img/p38/2018-P-38-XT-carbon-forks-thumbnail.jpg",
@@ -3912,6 +3923,17 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/phantom/2019-phantom-d-blue-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 76349,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/phantom/2019-phantom-d-blue-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
+		},
 	"/_assets/img/phantom/2019-phantom-d-blue.jpg": {
 		"ft": 16384,
 		"iS": 106249,
@@ -3973,17 +3995,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_assets/img/phantom/2019-phantom-d-seat-mount.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 80
-		},
-	"/_assets/img/phantom/2019-phantom-d-thumbnail.jpg": {
-		"ft": 16384,
-		"iS": 6395,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_assets/img/phantom/2019-phantom-d-thumbnail.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4434,15 +4445,15 @@
 		"opt": 0,
 		"q": 80
 		},
-	"/_assets/img/r84/r-84-Performance-midracer-thumbnail.jpg": {
+	"/_assets/img/r84/r-84-performance-midracer-thumbnail.jpg": {
 		"ft": 16384,
-		"iS": 12407,
+		"iS": 61270,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/r84/r-84-Performance-midracer-thumbnail.jpg",
+		"oAP": "/_assets/img/r84/r-84-performance-midracer-thumbnail.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 80
 		},
 	"/_assets/img/r84/r-84-performance-midracer.jpg": {
@@ -5877,13 +5888,13 @@
 		},
 	"/_assets/img/voyager/voyager-thumbnail.jpg": {
 		"ft": 16384,
-		"iS": 6010,
+		"iS": 60113,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_assets/img/voyager/voyager-thumbnail.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 80
 		},
 	"/_assets/img/voyager/voycase.jpg": {
