@@ -8338,13 +8338,6 @@
 		"oAP": "/f40/gallery/index.html",
 		"oF": 0
 		},
-	"/f40/index-PreviewTemp-8A764BC2-B4C6-4FA8-AE53-96C98266317A.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/f40/index-PreviewTemp-8A764BC2-B4C6-4FA8-AE53-96C98266317A.html",
-		"oF": 0
-		},
 	"/f40/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -14005,6 +13998,17 @@
 		"oA": 0,
 		"oAP": "/riders/andreas-weigel/index.html",
 		"oF": 0
+		},
+	"/riders/andreas-weigel/Interlaken_Andreas.jpg": {
+		"ft": 16384,
+		"iS": 74007,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/riders/andreas-weigel/Interlaken_Andreas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
 		},
 	"/riders/barclay-brown/1999-fc508-barclay-brown.html": {
 		"cB": 0,
