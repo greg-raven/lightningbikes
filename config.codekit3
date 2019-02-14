@@ -2109,6 +2109,39 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/f40/f40-andreas-weigel-at-interlaken.jpg": {
+		"ft": 16384,
+		"iS": 52967,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/f40/f40-andreas-weigel-at-interlaken.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/_assets/img/f40/f40-peter-heish-by-shasta-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 68592,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/f40/f40-peter-heish-by-shasta-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
+		},
+	"/_assets/img/f40/f40-peter-heish-by-shasta.jpg": {
+		"ft": 16384,
+		"iS": 93554,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/f40/f40-peter-heish-by-shasta.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/f40/f40-red1.jpg": {
 		"ft": 16384,
 		"iS": 17755,
@@ -4447,13 +4480,13 @@
 		},
 	"/_assets/img/r84/r-84-performance-midracer-thumbnail.jpg": {
 		"ft": 16384,
-		"iS": 61270,
+		"iS": 12113,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_assets/img/r84/r-84-performance-midracer-thumbnail.jpg",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 80
 		},
 	"/_assets/img/r84/r-84-performance-midracer.jpg": {
@@ -4467,15 +4500,15 @@
 		"opt": 0,
 		"q": 80
 		},
-	"/_assets/img/r84/r-84-performance-midracer2.png": {
-		"ft": 32768,
-		"iS": 69023,
+	"/_assets/img/r84/r-84-performance-midracer2.jpg": {
+		"ft": 16384,
+		"iS": 83683,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/_assets/img/r84/r-84-performance-midracer2.png",
+		"oAP": "/_assets/img/r84/r-84-performance-midracer2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 80
 		},
 	"/_assets/img/r84/R-84-with-custom-paint.jpg": {
@@ -8303,6 +8336,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/f40/gallery/index.html",
+		"oF": 0
+		},
+	"/f40/index-PreviewTemp-8A764BC2-B4C6-4FA8-AE53-96C98266317A.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/f40/index-PreviewTemp-8A764BC2-B4C6-4FA8-AE53-96C98266317A.html",
 		"oF": 0
 		},
 	"/f40/index.html": {
@@ -13965,17 +14005,6 @@
 		"oA": 0,
 		"oAP": "/riders/andreas-weigel/index.html",
 		"oF": 0
-		},
-	"/riders/andreas-weigel/Interlaken_Andreas.jpg": {
-		"ft": 16384,
-		"iS": 52745,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/riders/andreas-weigel/Interlaken_Andreas.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 80
 		},
 	"/riders/barclay-brown/1999-fc508-barclay-brown.html": {
 		"cB": 0,
