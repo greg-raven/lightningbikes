@@ -45,7 +45,7 @@
 	margin:0 auto;
 	overflow:visible;
 	position:relative;
-	font-size:0;/* ie fix - big info bar*/
+	font-size:0;/* ie fix -- big info bar*/
 }
 
 #vlb1imageContainer{
@@ -55,7 +55,7 @@
 	overflow:hidden;
 	background-color:#fff;
 	position:relative;
-	font-size:0;/* ie fix - big info bar*/
+	font-size:0;/* ie fix -- big info bar*/
 }
 
 #vlb1loading{

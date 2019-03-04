@@ -7,11 +7,12 @@
 		"uuidString": "4D3FA354-0CD3-4EE6-8261-AA81EAC201F7"
 		}
 	],
-"creatorBuild": "28905",
+"creatorBuild": "29156",
 "files": {
 	"/.editorconfig": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/.editorconfig",
 		"oF": 0
@@ -19,6 +20,7 @@
 	"/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/.htaccess",
 		"oF": 0
@@ -26,6 +28,7 @@
 	"/_assets/audio/20141226-LightningWheelSize.mp3": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_assets/audio/20141226-LightningWheelSize.mp3",
 		"oF": 0
@@ -33,6 +36,7 @@
 	"/_assets/audio/20160731-tim-brummer-interview.mp3": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_assets/audio/20160731-tim-brummer-interview.mp3",
 		"oF": 0
@@ -40,6 +44,7 @@
 	"/_assets/audio/Penseyres-Podcast-Recumbent.mp3": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_assets/audio/Penseyres-Podcast-Recumbent.mp3",
 		"oF": 0
@@ -47,6 +52,7 @@
 	"/_assets/bootstrap3_player/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_assets/bootstrap3_player/.gitignore",
 		"oF": 0
@@ -59,6 +65,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/_assets/bootstrap3_player/CHANGES.html",
 		"oF": 0,
@@ -74,26 +81,29 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/_assets/bootstrap3_player/css/bootstrap3_player-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"/_assets/bootstrap3_player/index.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"hM": 0,
+		"oA": 2,
 		"oAP": "/_assets/bootstrap3_player/index.html",
 		"oF": 0
 		},
 	"/_assets/bootstrap3_player/js/.jshintrc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_assets/bootstrap3_player/js/.jshintrc",
 		"oF": 0
 		},
 	"/_assets/bootstrap3_player/js/bootstrap3_player.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -106,6 +116,7 @@
 	"/_assets/bootstrap3_player/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_assets/bootstrap3_player/LICENSE",
 		"oF": 0
@@ -118,6 +129,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/_assets/bootstrap3_player/README.html",
 		"oF": 0,
@@ -128,128 +140,10 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/_assets/bootstrap3_player/screenshots/bPlayer_demo_data_0.png": {
-		"ft": 32768,
-		"iS": 5506,
-		"oA": 0,
-		"oAP": "/_assets/bootstrap3_player/screenshots/bPlayer_demo_data_0.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 80
-		},
-	"/_assets/bootstrap3_player/screenshots/bPlayer_demo_data_1.png": {
-		"ft": 32768,
-		"iS": 623184,
-		"oA": 0,
-		"oAP": "/_assets/bootstrap3_player/screenshots/bPlayer_demo_data_1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 80
-		},
-	"/_assets/bootstrap3_player/screenshots/bPlayer_demo_data_no.png": {
-		"ft": 32768,
-		"iS": 5468,
-		"oA": 0,
-		"oAP": "/_assets/bootstrap3_player/screenshots/bPlayer_demo_data_no.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 80
-		},
-	"/_assets/bootstrap3_player/tests/.jshintrc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_assets/bootstrap3_player/tests/.jshintrc",
-		"oF": 0
-		},
-	"/_assets/bootstrap3_player/tests/BeBopAliens.mp3": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_assets/bootstrap3_player/tests/BeBopAliens.mp3",
-		"oF": 0
-		},
-	"/_assets/bootstrap3_player/tests/BeBopAliens.ogg": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_assets/bootstrap3_player/tests/BeBopAliens.ogg",
-		"oF": 0
-		},
-	"/_assets/bootstrap3_player/tests/funcunit.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/_assets/bootstrap3_player/tests/min/funcunit-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/_assets/bootstrap3_player/tests/min/funcunit-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/_assets/bootstrap3_player/tests/min/min/funcunit-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/_assets/bootstrap3_player/tests/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "/_assets/bootstrap3_player/tests/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/_assets/bootstrap3_player/tests/runner.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/_assets/bootstrap3_player/tests/min/runner-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/_assets/bootstrap3_player/tests/tests.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_assets/bootstrap3_player/tests/tests.html",
-		"oF": 0
-		},
-	"/_assets/bootstrap3_player/tests/tests.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/_assets/bootstrap3_player/tests/min/tests-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"/_assets/css/.sass-cache/2bc2a422cc95c0c21d814a2d473f3ce5aa7600f8/lcd.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_assets/css/.sass-cache/2bc2a422cc95c0c21d814a2d473f3ce5aa7600f8/lcd.scssc",
 		"oF": 0
@@ -257,6 +151,7 @@
 	"/_assets/css/_notes/dwsync.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_assets/css/_notes/dwsync.xml",
 		"oF": 0
@@ -274,6 +169,7 @@
 	"/_assets/css/lcd.css.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_assets/css/lcd.css.map",
 		"oF": 0
@@ -3498,6 +3394,17 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/p38/intermediate-sprocket.jpg": {
+		"ft": 16384,
+		"iS": 55770,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/p38/intermediate-sprocket.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/p38/Julia-p38-600.jpg": {
 		"ft": 16384,
 		"iS": 58104,
@@ -3641,12 +3548,16 @@
 		"opt": 0,
 		"q": 80
 		},
-	"/_assets/img/p38/p38-suspension": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_assets/img/p38/p38-suspension",
-		"oF": 0
+	"/_assets/img/p38/p38-suspension.jpg": {
+		"ft": 16384,
+		"iS": 8675,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/p38/p38-suspension.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
 		},
 	"/_assets/img/p38/sizing-chart-616.jpg": {
 		"ft": 16384,
@@ -6164,6 +6075,7 @@
 	"/_assets/includes/menu-inner.htm": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_assets/includes/menu-inner.htm",
 		"oF": 0
@@ -6171,11 +6083,13 @@
 	"/_assets/includes/mobile-nav.htm": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_assets/includes/mobile-nav.htm",
 		"oF": 0
 		},
 	"/_assets/js/currentyear-min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6188,11 +6102,13 @@
 	"/_assets/js/currentyear-min.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_assets/js/currentyear-min.js.map",
 		"oF": 0
 		},
 	"/_assets/js/currentyear.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
@@ -6202,162 +6118,8 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"/_assets/js/fancyBox/.gitattributes": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_assets/js/fancyBox/.gitattributes",
-		"oF": 0
-		},
-	"/_assets/js/fancyBox/source/blank.gif": {
-		"ft": 4194304,
-		"iS": 43,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/blank.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/_assets/js/fancyBox/source/fancybox_loading.gif": {
-		"ft": 4194304,
-		"iS": 4145,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/fancybox_loading.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/_assets/js/fancyBox/source/fancybox_loading@2x.gif": {
-		"ft": 4194304,
-		"iS": 9888,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/fancybox_loading@2x.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/_assets/js/fancyBox/source/fancybox_overlay.png": {
-		"ft": 32768,
-		"iS": 1003,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/fancybox_overlay.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 80
-		},
-	"/_assets/js/fancyBox/source/fancybox_sprite.png": {
-		"ft": 32768,
-		"iS": 1362,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/fancybox_sprite.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 80
-		},
-	"/_assets/js/fancyBox/source/fancybox_sprite@2x.png": {
-		"ft": 32768,
-		"iS": 6553,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/fancybox_sprite@2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 80
-		},
-	"/_assets/js/fancyBox/source/helpers/fancybox_buttons.png": {
-		"ft": 32768,
-		"iS": 1080,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/helpers/fancybox_buttons.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 80
-		},
-	"/_assets/js/fancyBox/source/helpers/jquery.fancybox-buttons.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/helpers/jquery.fancybox-buttons-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"/_assets/js/fancyBox/source/helpers/jquery.fancybox-buttons.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/helpers/min/jquery.fancybox-buttons-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/_assets/js/fancyBox/source/helpers/jquery.fancybox-media.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/helpers/min/jquery.fancybox-media-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/_assets/js/fancyBox/source/helpers/jquery.fancybox-thumbs.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/helpers/jquery.fancybox-thumbs-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"/_assets/js/fancyBox/source/helpers/jquery.fancybox-thumbs.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/helpers/min/jquery.fancybox-thumbs-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/_assets/js/fancyBox/source/jquery.fancybox.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/jquery.fancybox-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"/_assets/js/fancyBox/source/jquery.fancybox.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/min/jquery.fancybox-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/_assets/js/fancyBox/source/jquery.fancybox.pack.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/_assets/js/fancyBox/source/min/jquery.fancybox.pack-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"/_assets/js/menuInner-min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6370,11 +6132,13 @@
 	"/_assets/js/menuInner-min.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_assets/js/menuInner-min.js.map",
 		"oF": 0
 		},
 	"/_assets/js/menuInner.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6385,6 +6149,7 @@
 		"tS": 0
 		},
 	"/_assets/js/vlb_engine/jquery.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6395,6 +6160,7 @@
 		"tS": 0
 		},
 	"/_assets/js/vlb_engine/visuallightbox.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6405,6 +6171,7 @@
 		"tS": 0
 		},
 	"/_assets/js/vlb_engine/vlbdata1.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6596,6 +6363,16 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"/_assets/js/vlb_files1/visuallightbox-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/_assets/js/vlb_files1/visuallightbox-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/_assets/js/vlb_files1/visuallightbox.css": {
 		"aP": 0,
 		"bl": 0,
@@ -6619,6 +6396,7 @@
 	"/accessories/adjusting-ring-screw.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/accessories/adjusting-ring-screw.html",
 		"oF": 0
@@ -6626,6 +6404,7 @@
 	"/accessories/adjusting-ring.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/accessories/adjusting-ring.html",
 		"oF": 0
@@ -6633,6 +6412,7 @@
 	"/accessories/ballistic-fork.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/accessories/ballistic-fork.html",
 		"oF": 0
@@ -6640,6 +6420,7 @@
 	"/accessories/chain-idler.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/accessories/chain-idler.html",
 		"oF": 0
@@ -6647,6 +6428,7 @@
 	"/accessories/cycle-computer.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/accessories/cycle-computer.html",
 		"oF": 0
@@ -6654,6 +6436,7 @@
 	"/accessories/fenders.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/fenders.html",
 		"oF": 0
@@ -6661,6 +6444,7 @@
 	"/accessories/handlebar-bag.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/handlebar-bag.html",
 		"oF": 0
@@ -6668,6 +6452,7 @@
 	"/accessories/hydrapack-bladder.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/hydrapack-bladder.html",
 		"oF": 0
@@ -6675,6 +6460,7 @@
 	"/accessories/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/index.html",
 		"oF": 0
@@ -6682,6 +6468,7 @@
 	"/accessories/kickstand.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/accessories/kickstand.html",
 		"oF": 0
@@ -6689,6 +6476,7 @@
 	"/accessories/lightning-shorts.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/lightning-shorts.html",
 		"oF": 0
@@ -6696,6 +6484,7 @@
 	"/accessories/lightning-t-shirt.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/lightning-t-shirt.html",
 		"oF": 0
@@ -6703,6 +6492,7 @@
 	"/accessories/mirror.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/mirror.html",
 		"oF": 0
@@ -6710,6 +6500,7 @@
 	"/accessories/panniers.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/panniers.html",
 		"oF": 0
@@ -6717,6 +6508,7 @@
 	"/accessories/pedal-extenders.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/accessories/pedal-extenders.html",
 		"oF": 0
@@ -6724,6 +6516,7 @@
 	"/accessories/quick-adjust-kit.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/quick-adjust-kit.html",
 		"oF": 0
@@ -6731,6 +6524,7 @@
 	"/accessories/rack.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/rack.html",
 		"oF": 0
@@ -6738,6 +6532,7 @@
 	"/accessories/seat-bag.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/seat-bag.html",
 		"oF": 0
@@ -6745,6 +6540,7 @@
 	"/accessories/seat-mesh-kit.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/accessories/seat-mesh-kit.html",
 		"oF": 0
@@ -6752,6 +6548,7 @@
 	"/accessories/shockster-rack.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/shockster-rack.html",
 		"oF": 0
@@ -6759,6 +6556,7 @@
 	"/accessories/shockster.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/shockster.html",
 		"oF": 0
@@ -6766,6 +6564,7 @@
 	"/accessories/spyder-lockring-tool.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/accessories/spyder-lockring-tool.html",
 		"oF": 0
@@ -6773,6 +6572,7 @@
 	"/accessories/suspended-fork-s-1.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/suspended-fork-s-1.html",
 		"oF": 0
@@ -6780,6 +6580,7 @@
 	"/accessories/tilt-steering.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/accessories/tilt-steering.html",
 		"oF": 0
@@ -6787,6 +6588,7 @@
 	"/accessories/trunk.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/trunk.html",
 		"oF": 0
@@ -6794,6 +6596,7 @@
 	"/accessories/zzipper-fairing.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/accessories/zzipper-fairing.html",
 		"oF": 0
@@ -6812,6 +6615,7 @@
 	"/bike-measurements.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bike-measurements.html",
 		"oF": 0
@@ -6819,6 +6623,7 @@
 	"/bikefit.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bikefit.html",
 		"oF": 0
@@ -6826,6 +6631,7 @@
 	"/cgi-bin/lightningbikes_config.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/cgi-bin/lightningbikes_config.xml",
 		"oF": 0
@@ -6833,6 +6639,7 @@
 	"/cgi-bin/sitemap_gen.py": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/cgi-bin/sitemap_gen.py",
 		"oF": 0
@@ -6840,6 +6647,7 @@
 	"/cgi-bin/sitemap_gen.sh": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/cgi-bin/sitemap_gen.sh",
 		"oF": 0
@@ -6847,6 +6655,7 @@
 	"/climbing.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/climbing.html",
 		"oF": 0
@@ -6854,6 +6663,7 @@
 	"/colors.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/colors.html",
 		"oF": 0
@@ -6861,6 +6671,7 @@
 	"/company.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/company.html",
 		"oF": 0
@@ -6868,6 +6679,7 @@
 	"/contact.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/contact.html",
 		"oF": 0
@@ -6875,6 +6687,7 @@
 	"/cranks/bearings.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/bearings.html",
 		"oF": 0
@@ -6882,6 +6695,7 @@
 	"/cranks/bottom-bracket-cups.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/bottom-bracket-cups.html",
 		"oF": 0
@@ -6889,6 +6703,7 @@
 	"/cranks/bottom-bracket-shells.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/bottom-bracket-shells.html",
 		"oF": 0
@@ -6896,6 +6711,7 @@
 	"/cranks/buy-now.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/buy-now.html",
 		"oF": 0
@@ -6903,6 +6719,7 @@
 	"/cranks/chainrings.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/chainrings.html",
 		"oF": 0
@@ -6910,6 +6727,7 @@
 	"/cranks/comments.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/comments.html",
 		"oF": 0
@@ -6917,6 +6735,7 @@
 	"/cranks/crank-nav.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/crank-nav.html",
 		"oF": 0
@@ -7232,6 +7051,7 @@
 	"/cranks/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/gallery/index.html",
 		"oF": 0
@@ -7239,6 +7059,7 @@
 	"/cranks/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/index.html",
 		"oF": 0
@@ -7246,6 +7067,7 @@
 	"/cranks/installation-2010.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/cranks/installation-2010.pdf",
 		"oF": 0
@@ -7253,6 +7075,7 @@
 	"/cranks/installation.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/installation.html",
 		"oF": 0
@@ -7260,6 +7083,7 @@
 	"/cranks/installation.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/cranks/installation.pdf",
 		"oF": 0
@@ -7267,6 +7091,7 @@
 	"/cranks/lightning-tandem-crankset.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/lightning-tandem-crankset.html",
 		"oF": 0
@@ -7274,6 +7099,7 @@
 	"/cranks/reversible-spyder-details.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/reversible-spyder-details.html",
 		"oF": 0
@@ -7281,6 +7107,7 @@
 	"/cranks/spyder-installation.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/spyder-installation.html",
 		"oF": 0
@@ -7288,6 +7115,7 @@
 	"/cranks/spyder-mod.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/spyder-mod.html",
 		"oF": 0
@@ -7295,6 +7123,7 @@
 	"/cranks/spyders.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/spyders.html",
 		"oF": 0
@@ -7302,6 +7131,7 @@
 	"/cranks/XX-spyder-seals-and-spacer.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/cranks/XX-spyder-seals-and-spacer.html",
 		"oF": 0
@@ -7309,6 +7139,7 @@
 	"/dealers/0-midwest.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/0-midwest.html",
 		"oF": 0
@@ -7316,6 +7147,7 @@
 	"/dealers/1-new-england.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/1-new-england.html",
 		"oF": 0
@@ -7323,6 +7155,7 @@
 	"/dealers/2-ny-nj.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/2-ny-nj.html",
 		"oF": 0
@@ -7330,6 +7163,7 @@
 	"/dealers/3-mid-atlantic.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/3-mid-atlantic.html",
 		"oF": 0
@@ -7337,6 +7171,7 @@
 	"/dealers/4-southeast.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/4-southeast.html",
 		"oF": 0
@@ -7344,6 +7179,7 @@
 	"/dealers/5-south-central.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/5-south-central.html",
 		"oF": 0
@@ -7351,6 +7187,7 @@
 	"/dealers/6-california.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/6-california.html",
 		"oF": 0
@@ -7358,6 +7195,7 @@
 	"/dealers/7-west.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/7-west.html",
 		"oF": 0
@@ -7365,6 +7203,7 @@
 	"/dealers/8-great-lakes.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/8-great-lakes.html",
 		"oF": 0
@@ -7372,6 +7211,7 @@
 	"/dealers/9-central.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/9-central.html",
 		"oF": 0
@@ -7379,6 +7219,7 @@
 	"/dealers/cranks-only.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/cranks-only.html",
 		"oF": 0
@@ -7386,6 +7227,7 @@
 	"/dealers/dealer.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/dealer.html",
 		"oF": 0
@@ -7393,6 +7235,7 @@
 	"/dealers/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/index.html",
 		"oF": 0
@@ -7400,6 +7243,7 @@
 	"/dealers/international.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/international.html",
 		"oF": 0
@@ -7484,6 +7328,7 @@
 	"/dealers/rose-city-cycles/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/dealers/rose-city-cycles/index.html",
 		"oF": 0
@@ -7491,6 +7336,7 @@
 	"/e-lightning/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/e-lightning/index.html",
 		"oF": 0
@@ -8334,6 +8180,7 @@
 	"/f40/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/f40/gallery/index.html",
 		"oF": 0
@@ -8341,6 +8188,7 @@
 	"/f40/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/f40/index.html",
 		"oF": 0
@@ -8392,6 +8240,7 @@
 	"/f90/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/f90/gallery/index.html",
 		"oF": 0
@@ -8399,6 +8248,7 @@
 	"/f90/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/f90/index.html",
 		"oF": 0
@@ -8648,6 +8498,7 @@
 	"/fabrication/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fabrication/gallery/index.html",
 		"oF": 0
@@ -8655,6 +8506,7 @@
 	"/fabrication/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/fabrication/index.html",
 		"oF": 0
@@ -8662,6 +8514,7 @@
 	"/faq.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/faq.html",
 		"oF": 0
@@ -8669,6 +8522,7 @@
 	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/favicon.ico",
 		"oF": 0
@@ -8676,6 +8530,7 @@
 	"/framesets.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/framesets.html",
 		"oF": 0
@@ -8683,6 +8538,7 @@
 	"/free-shipping.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/free-shipping.html",
 		"oF": 0
@@ -8690,6 +8546,7 @@
 	"/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/gallery/index.html",
 		"oF": 0
@@ -9027,6 +8884,7 @@
 	"/gallery/lcd/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/gallery/lcd/index.html",
 		"oF": 0
@@ -9034,6 +8892,7 @@
 	"/google0b17df84cefe9338.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/google0b17df84cefe9338.html",
 		"oF": 0
@@ -9041,6 +8900,7 @@
 	"/google34b71f34446d4990.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/google34b71f34446d4990.html",
 		"oF": 0
@@ -9048,6 +8908,7 @@
 	"/howtobuy.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/howtobuy.html",
 		"oF": 0
@@ -9055,6 +8916,7 @@
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/index.html",
 		"oF": 0
@@ -9062,6 +8924,7 @@
 	"/introduction.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/introduction.html",
 		"oF": 0
@@ -9069,6 +8932,7 @@
 	"/manuals.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/manuals.html",
 		"oF": 0
@@ -9120,6 +8984,7 @@
 	"/media/19780522-sports-illustrated/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/19780522-sports-illustrated/index.html",
 		"oF": 0
@@ -9127,6 +8992,7 @@
 	"/media/19780522-sports-illustrated/power-from-the-people.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/19780522-sports-illustrated/power-from-the-people.pdf",
 		"oF": 0
@@ -9145,6 +9011,7 @@
 	"/media/1979-first-over-55-mph.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1979-first-over-55-mph.html",
 		"oF": 0
@@ -9152,6 +9019,7 @@
 	"/media/1979q2-Human-Power/broken-records.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/1979q2-Human-Power/broken-records.pdf",
 		"oF": 0
@@ -9159,6 +9027,7 @@
 	"/media/1979q2-Human-Power/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1979q2-Human-Power/index.html",
 		"oF": 0
@@ -9166,6 +9035,7 @@
 	"/media/1980q1-Human-Power/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1980q1-Human-Power/index.html",
 		"oF": 0
@@ -9173,6 +9043,7 @@
 	"/media/1980q1-Human-Power/wind-tunnel-testing.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/1980q1-Human-Power/wind-tunnel-testing.pdf",
 		"oF": 0
@@ -9180,6 +9051,7 @@
 	"/media/1983-autoweek.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1983-autoweek.html",
 		"oF": 0
@@ -9187,6 +9059,7 @@
 	"/media/1983-qtr-mile-drag.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1983-qtr-mile-drag.html",
 		"oF": 0
@@ -9194,6 +9067,7 @@
 	"/media/1984-winning.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1984-winning.html",
 		"oF": 0
@@ -9201,6 +9075,7 @@
 	"/media/1984q1-Human-Power-p19/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1984q1-Human-Power-p19/index.html",
 		"oF": 0
@@ -9208,6 +9083,7 @@
 	"/media/1984q1-Human-Power-p19/innovative-bicycles.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/1984q1-Human-Power-p19/innovative-bicycles.pdf",
 		"oF": 0
@@ -9215,6 +9091,7 @@
 	"/media/1984q1-Human-Power-p21/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1984q1-Human-Power-p21/index.html",
 		"oF": 0
@@ -9222,6 +9099,7 @@
 	"/media/1984q1-Human-Power-p21/x-2-development.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/1984q1-Human-Power-p21/x-2-development.pdf",
 		"oF": 0
@@ -9229,6 +9107,7 @@
 	"/media/198507-sports-nw.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/198507-sports-nw.html",
 		"oF": 0
@@ -9236,6 +9115,7 @@
 	"/media/198508-hpv-news.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/198508-hpv-news.html",
 		"oF": 0
@@ -9243,6 +9123,7 @@
 	"/media/198603-bicycle-guide.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/198603-bicycle-guide.html",
 		"oF": 0
@@ -9250,6 +9131,7 @@
 	"/media/1988-argus_race.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1988-argus_race.html",
 		"oF": 0
@@ -9257,6 +9139,7 @@
 	"/media/1989-raam-bicycle-guide.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1989-raam-bicycle-guide.html",
 		"oF": 0
@@ -9264,6 +9147,7 @@
 	"/media/1989-raam-bicycling.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1989-raam-bicycling.html",
 		"oF": 0
@@ -9271,6 +9155,7 @@
 	"/media/1989-raam-california-bicyclist.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/1989-raam-california-bicyclist.html",
 		"oF": 0
@@ -9278,6 +9163,7 @@
 	"/media/1989-raam-pbaa.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1989-raam-pbaa.html",
 		"oF": 0
@@ -9285,6 +9171,7 @@
 	"/media/1989-raam-pbaa2.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1989-raam-pbaa2.html",
 		"oF": 0
@@ -9292,6 +9179,7 @@
 	"/media/1989-raam-velonews.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1989-raam-velonews.html",
 		"oF": 0
@@ -9299,6 +9187,7 @@
 	"/media/1989q1-Human-Power/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1989q1-Human-Power/index.html",
 		"oF": 0
@@ -9306,6 +9195,7 @@
 	"/media/1989q1-Human-Power/recent-progress.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/1989q1-Human-Power/recent-progress.pdf",
 		"oF": 0
@@ -9313,6 +9203,7 @@
 	"/media/1991-petes-sf-to-la.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1991-petes-sf-to-la.html",
 		"oF": 0
@@ -9320,6 +9211,7 @@
 	"/media/199101-TRC_04-p05/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/199101-TRC_04-p05/index.html",
 		"oF": 0
@@ -9327,6 +9219,7 @@
 	"/media/199101-TRC_04-p05/outrageous-f-40.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/199101-TRC_04-p05/outrageous-f-40.pdf",
 		"oF": 0
@@ -9334,6 +9227,7 @@
 	"/media/199101-TRC_04-p08/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/199101-TRC_04-p08/index.html",
 		"oF": 0
@@ -9341,6 +9235,7 @@
 	"/media/199101-TRC_04-p08/readers-write.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/199101-TRC_04-p08/readers-write.pdf",
 		"oF": 0
@@ -9348,6 +9243,7 @@
 	"/media/199105-TRC_06-p09/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/199105-TRC_06-p09/index.html",
 		"oF": 0
@@ -9355,6 +9251,7 @@
 	"/media/199105-TRC_06-p09/sf-to-la-lightning-fast.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/199105-TRC_06-p09/sf-to-la-lightning-fast.pdf",
 		"oF": 0
@@ -9362,6 +9259,7 @@
 	"/media/199105-TRC_06-p16/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/199105-TRC_06-p16/index.html",
 		"oF": 0
@@ -9369,6 +9267,7 @@
 	"/media/199105-TRC_06-p16/next-generation-bike.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/199105-TRC_06-p16/next-generation-bike.pdf",
 		"oF": 0
@@ -9376,6 +9275,7 @@
 	"/media/19910728-daily-breeze.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/19910728-daily-breeze.html",
 		"oF": 0
@@ -9383,6 +9283,7 @@
 	"/media/199108-TRC_07/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/199108-TRC_07/index.html",
 		"oF": 0
@@ -9390,6 +9291,7 @@
 	"/media/199108-TRC_07/the-p-38-recumbent.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/199108-TRC_07/the-p-38-recumbent.pdf",
 		"oF": 0
@@ -9397,6 +9299,7 @@
 	"/media/19920529-new-breed.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/19920529-new-breed.html",
 		"oF": 0
@@ -9404,6 +9307,7 @@
 	"/media/199304-RCN_15/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/199304-RCN_15/index.html",
 		"oF": 0
@@ -9411,6 +9315,7 @@
 	"/media/199304-RCN_15/p-38-design-history.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/199304-RCN_15/p-38-design-history.pdf",
 		"oF": 0
@@ -9418,6 +9323,7 @@
 	"/media/1994-petes-24-hour.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1994-petes-24-hour.html",
 		"oF": 0
@@ -9425,6 +9331,7 @@
 	"/media/199404-RCN_24-p18/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/199404-RCN_24-p18/index.html",
 		"oF": 0
@@ -9432,6 +9339,7 @@
 	"/media/199404-RCN_24-p18/road-test.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/199404-RCN_24-p18/road-test.pdf",
 		"oF": 0
@@ -9439,6 +9347,7 @@
 	"/media/199404-RCN_24-p23/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/199404-RCN_24-p23/index.html",
 		"oF": 0
@@ -9446,6 +9355,7 @@
 	"/media/199404-RCN_24-p23/reader-commentary.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/199404-RCN_24-p23/reader-commentary.pdf",
 		"oF": 0
@@ -9453,6 +9363,7 @@
 	"/media/1995-HPV/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/1995-HPV/index.html",
 		"oF": 0
@@ -9460,6 +9371,7 @@
 	"/media/1995-HPV/lightning-progress.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/1995-HPV/lightning-progress.pdf",
 		"oF": 0
@@ -9467,6 +9379,7 @@
 	"/media/199606-RCN_34/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/199606-RCN_34/index.html",
 		"oF": 0
@@ -9474,6 +9387,7 @@
 	"/media/199606-RCN_34/stealth-review.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/199606-RCN_34/stealth-review.pdf",
 		"oF": 0
@@ -9481,6 +9395,7 @@
 	"/media/19960916-so-inclined.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/19960916-so-inclined.html",
 		"oF": 0
@@ -9488,6 +9403,7 @@
 	"/media/199610-RCN_36/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/199610-RCN_36/index.html",
 		"oF": 0
@@ -9495,6 +9411,7 @@
 	"/media/199610-RCN_36/p-38-review.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/199610-RCN_36/p-38-review.pdf",
 		"oF": 0
@@ -9502,6 +9419,7 @@
 	"/media/199811-bicycling.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/199811-bicycling.html",
 		"oF": 0
@@ -9509,6 +9427,7 @@
 	"/media/200003-langley-r84.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/200003-langley-r84.html",
 		"oF": 0
@@ -9516,6 +9435,7 @@
 	"/media/20031118-brol.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/20031118-brol.html",
 		"oF": 0
@@ -9523,6 +9443,7 @@
 	"/media/2005q3-JHP/Gerry_Pease-Aerodynamics_Vs_Weight.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/2005q3-JHP/Gerry_Pease-Aerodynamics_Vs_Weight.pdf",
 		"oF": 0
@@ -9530,6 +9451,7 @@
 	"/media/2005q3-JHP/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/2005q3-JHP/index.html",
 		"oF": 0
@@ -9537,6 +9459,7 @@
 	"/media/20060218-brol.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/20060218-brol.html",
 		"oF": 0
@@ -9544,6 +9467,7 @@
 	"/media/200603-RCN_93/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/200603-RCN_93/index.html",
 		"oF": 0
@@ -9551,6 +9475,7 @@
 	"/media/200603-RCN_93/my-f-40.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/200603-RCN_93/my-f-40.pdf",
 		"oF": 0
@@ -9558,6 +9483,7 @@
 	"/media/20060518-brol.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/20060518-brol.html",
 		"oF": 0
@@ -9565,6 +9491,7 @@
 	"/media/20100106-brol.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/20100106-brol.html",
 		"oF": 0
@@ -9572,6 +9499,7 @@
 	"/media/20100706-recumbent-journal.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/20100706-recumbent-journal.html",
 		"oF": 0
@@ -9579,6 +9507,7 @@
 	"/media/20110109-brol.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/20110109-brol.html",
 		"oF": 0
@@ -9586,6 +9515,7 @@
 	"/media/20110223-tririg-crank-review.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/20110223-tririg-crank-review.html",
 		"oF": 0
@@ -9593,6 +9523,7 @@
 	"/media/20110727-brol.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/20110727-brol.html",
 		"oF": 0
@@ -9600,6 +9531,7 @@
 	"/media/201202-rtr-lightning-r-84.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/201202-rtr-lightning-r-84.html",
 		"oF": 0
@@ -9607,6 +9539,7 @@
 	"/media/20120215-rbr-crank-review.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/20120215-rbr-crank-review.html",
 		"oF": 0
@@ -9614,6 +9547,7 @@
 	"/media/20120326-RBA/carbon-crank-review.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/20120326-RBA/carbon-crank-review.pdf",
 		"oF": 0
@@ -9621,6 +9555,7 @@
 	"/media/20120326-RBA/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/20120326-RBA/index.html",
 		"oF": 0
@@ -9628,6 +9563,7 @@
 	"/media/201207-RBA/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/201207-RBA/index.html",
 		"oF": 0
@@ -9635,6 +9571,7 @@
 	"/media/201207-RBA/project-gravel-bike.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/201207-RBA/project-gravel-bike.pdf",
 		"oF": 0
@@ -9642,6 +9579,7 @@
 	"/media/20141226-bike-route-interview.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/20141226-bike-route-interview.html",
 		"oF": 0
@@ -9649,13 +9587,31 @@
 	"/media/20150104-brol.php": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/20150104-brol.php",
+		"oF": 0
+		},
+	"/media/201804-RTR_64/201804-RTR-review.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/media/201804-RTR_64/201804-RTR-review.pdf",
+		"oF": 0
+		},
+	"/media/201804-RTR_64/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/media/201804-RTR_64/index.html",
 		"oF": 0
 		},
 	"/media/_notes/dwsync.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/media/_notes/dwsync.xml",
 		"oF": 0
@@ -9663,6 +9619,7 @@
 	"/media/bicycle-retailer.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/bicycle-retailer.html",
 		"oF": 0
@@ -9670,6 +9627,7 @@
 	"/media/brol-thunderbolt.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/brol-thunderbolt.html",
 		"oF": 0
@@ -9677,6 +9635,7 @@
 	"/media/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/media/index.html",
 		"oF": 0
@@ -9926,6 +9885,7 @@
 	"/midracers/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/midracers/gallery/index.html",
 		"oF": 0
@@ -9933,6 +9893,7 @@
 	"/midracers/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/midracers/index.html",
 		"oF": 0
@@ -9940,6 +9901,7 @@
 	"/midracers/modifying_midracer-seat-stays.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/midracers/modifying_midracer-seat-stays.html",
 		"oF": 0
@@ -9947,13 +9909,23 @@
 	"/p38/anniversary.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/p38/anniversary.html",
+		"oF": 0
+		},
+	"/p38/belt-drive.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/p38/belt-drive.html",
 		"oF": 0
 		},
 	"/p38/comments.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/p38/comments.html",
 		"oF": 0
@@ -9961,6 +9933,7 @@
 	"/p38/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/p38/gallery/index.html",
 		"oF": 0
@@ -12234,6 +12207,7 @@
 	"/p38/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/p38/index.html",
 		"oF": 0
@@ -12241,6 +12215,7 @@
 	"/p38/manual-2011.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/p38/manual-2011.html",
 		"oF": 0
@@ -12248,6 +12223,7 @@
 	"/p38/manual-2011.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/p38/manual-2011.pdf",
 		"oF": 0
@@ -12409,6 +12385,7 @@
 	"/p38/order-bike.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/p38/order-bike.html",
 		"oF": 0
@@ -12416,6 +12393,7 @@
 	"/p38/order-frame.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/p38/order-frame.html",
 		"oF": 0
@@ -12423,6 +12401,7 @@
 	"/p38/rox.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/p38/rox.html",
 		"oF": 0
@@ -12430,6 +12409,7 @@
 	"/p38/serial-numbers.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/p38/serial-numbers.html",
 		"oF": 0
@@ -12437,6 +12417,7 @@
 	"/patents/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/patents/index.html",
 		"oF": 0
@@ -12444,6 +12425,7 @@
 	"/phantom/features.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/phantom/features.html",
 		"oF": 0
@@ -12451,6 +12433,7 @@
 	"/phantom/feedback.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/phantom/feedback.html",
 		"oF": 0
@@ -12942,6 +12925,7 @@
 	"/phantom/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/phantom/gallery/index.html",
 		"oF": 0
@@ -12949,6 +12933,7 @@
 	"/phantom/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/phantom/index.html",
 		"oF": 0
@@ -12956,6 +12941,7 @@
 	"/phantom/manual-2007.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/phantom/manual-2007.pdf",
 		"oF": 0
@@ -12963,6 +12949,7 @@
 	"/phantom/manual-2012.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/phantom/manual-2012.pdf",
 		"oF": 0
@@ -12970,6 +12957,7 @@
 	"/phantom/manual.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/phantom/manual.html",
 		"oF": 0
@@ -12977,6 +12965,7 @@
 	"/phantom/specs.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/phantom/specs.html",
 		"oF": 0
@@ -12984,6 +12973,7 @@
 	"/phantom/tensioner-assembly.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/phantom/tensioner-assembly.html",
 		"oF": 0
@@ -12991,6 +12981,7 @@
 	"/products.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/products.html",
 		"oF": 0
@@ -12998,6 +12989,7 @@
 	"/r84/di2.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/r84/di2.html",
 		"oF": 0
@@ -13511,6 +13503,7 @@
 	"/r84/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/r84/gallery/index.html",
 		"oF": 0
@@ -13518,6 +13511,7 @@
 	"/r84/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/r84/index.html",
 		"oF": 0
@@ -13525,6 +13519,7 @@
 	"/r84/manual-2016.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/r84/manual-2016.html",
 		"oF": 0
@@ -13532,6 +13527,7 @@
 	"/r84/manual-2016.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/r84/manual-2016.pdf",
 		"oF": 0
@@ -13682,6 +13678,7 @@
 	"/racing/1989-raam-splits.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/racing/1989-raam-splits.html",
 		"oF": 0
@@ -13689,6 +13686,7 @@
 	"/racing/1998-ihpva_racing.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/racing/1998-ihpva_racing.html",
 		"oF": 0
@@ -13696,6 +13694,7 @@
 	"/racing/1998-raam.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/racing/1998-raam.html",
 		"oF": 0
@@ -13703,6 +13702,7 @@
 	"/racing/1999-pbp.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/racing/1999-pbp.html",
 		"oF": 0
@@ -13710,6 +13710,7 @@
 	"/racing/2004-raam-splits.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/racing/2004-raam-splits.html",
 		"oF": 0
@@ -13717,6 +13718,7 @@
 	"/racing/2004-raam.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/racing/2004-raam.html",
 		"oF": 0
@@ -13724,6 +13726,7 @@
 	"/racing/2005-u2-uscf.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/racing/2005-u2-uscf.html",
 		"oF": 0
@@ -13731,6 +13734,7 @@
 	"/racing/2006-fc508.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/racing/2006-fc508.html",
 		"oF": 0
@@ -13738,6 +13742,7 @@
 	"/racing/f40-racing.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/racing/f40-racing.html",
 		"oF": 0
@@ -13745,6 +13750,7 @@
 	"/racing/f90-racing.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/racing/f90-racing.html",
 		"oF": 0
@@ -13752,6 +13758,7 @@
 	"/racing/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/racing/index.html",
 		"oF": 0
@@ -13759,6 +13766,7 @@
 	"/README.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/README.html",
 		"oF": 0
@@ -13771,6 +13779,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/README.html",
 		"oF": 0,
@@ -13784,6 +13793,7 @@
 	"/recumbents-new.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/recumbents-new.html",
 		"oF": 0
@@ -13791,6 +13801,7 @@
 	"/recumbents.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/recumbents.html",
 		"oF": 0
@@ -13875,6 +13886,7 @@
 	"/riders/adam-hansen/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/riders/adam-hansen/index.html",
 		"oF": 0
@@ -13893,6 +13905,7 @@
 	"/riders/alec-proudfoot/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/alec-proudfoot/index.html",
 		"oF": 0
@@ -13966,6 +13979,7 @@
 	"/riders/alexander-hatziyannis/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/alexander-hatziyannis/index.html",
 		"oF": 0
@@ -13995,6 +14009,7 @@
 	"/riders/andreas-weigel/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/andreas-weigel/index.html",
 		"oF": 0
@@ -14013,6 +14028,7 @@
 	"/riders/barclay-brown/1999-fc508-barclay-brown.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/barclay-brown/1999-fc508-barclay-brown.html",
 		"oF": 0
@@ -14020,6 +14036,7 @@
 	"/riders/barclay-brown/2000-fc508-barclay-brown-f40.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/barclay-brown/2000-fc508-barclay-brown-f40.html",
 		"oF": 0
@@ -14027,6 +14044,7 @@
 	"/riders/barclay-brown/2000-fc508-brown-smith.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/barclay-brown/2000-fc508-brown-smith.html",
 		"oF": 0
@@ -14034,6 +14052,7 @@
 	"/riders/barclay-brown/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/barclay-brown/index.html",
 		"oF": 0
@@ -14074,6 +14093,7 @@
 	"/riders/barry-branham/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/barry-branham/index.html",
 		"oF": 0
@@ -14114,6 +14134,7 @@
 	"/riders/bartolo-anatra/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/bartolo-anatra/index.html",
 		"oF": 0
@@ -14143,6 +14164,7 @@
 	"/riders/becky-taylor/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/becky-taylor/index.html",
 		"oF": 0
@@ -14150,6 +14172,7 @@
 	"/riders/becky-taylor/review.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/becky-taylor/review.html",
 		"oF": 0
@@ -14212,6 +14235,7 @@
 	"/riders/ben-fox/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/ben-fox/index.html",
 		"oF": 0
@@ -14241,6 +14265,7 @@
 	"/riders/bill-cline/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/bill-cline/index.html",
 		"oF": 0
@@ -14325,6 +14350,7 @@
 	"/riders/bob-fourney/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/bob-fourney/index.html",
 		"oF": 0
@@ -14354,6 +14380,7 @@
 	"/riders/bob-steele/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/bob-steele/index.html",
 		"oF": 0
@@ -14361,6 +14388,7 @@
 	"/riders/carl-murdock/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/carl-murdock/index.html",
 		"oF": 0
@@ -14368,6 +14396,7 @@
 	"/riders/carl-patty/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/carl-patty/index.html",
 		"oF": 0
@@ -14397,6 +14426,7 @@
 	"/riders/carolyn-trimble/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/carolyn-trimble/index.html",
 		"oF": 0
@@ -14459,6 +14489,7 @@
 	"/riders/ceb-blankenship/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/ceb-blankenship/index.html",
 		"oF": 0
@@ -14477,6 +14508,7 @@
 	"/riders/charles-dibella/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/charles-dibella/index.html",
 		"oF": 0
@@ -14528,6 +14560,7 @@
 	"/riders/chere-athey/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/chere-athey/index.html",
 		"oF": 0
@@ -14557,6 +14590,7 @@
 	"/riders/chris-broome/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/chris-broome/index.html",
 		"oF": 0
@@ -14652,6 +14686,7 @@
 	"/riders/clive-mcilrath/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/clive-mcilrath/index.html",
 		"oF": 0
@@ -14670,6 +14705,7 @@
 	"/riders/corbett-rowell/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/corbett-rowell/index.html",
 		"oF": 0
@@ -14710,6 +14746,7 @@
 	"/riders/dan-hansen-jr/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/dan-hansen-jr/index.html",
 		"oF": 0
@@ -14750,6 +14787,7 @@
 	"/riders/dan-hurley/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/riders/dan-hurley/index.html",
 		"oF": 0
@@ -14768,6 +14806,7 @@
 	"/riders/dan-petkunas/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/dan-petkunas/index.html",
 		"oF": 0
@@ -14786,6 +14825,7 @@
 	"/riders/dan-sosa/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/dan-sosa/index.html",
 		"oF": 0
@@ -14793,6 +14833,7 @@
 	"/riders/dash-pa/20161111-dash-update.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/riders/dash-pa/20161111-dash-update.html",
 		"oF": 0
@@ -14833,6 +14874,7 @@
 	"/riders/dash-pa/20161217-dash-update.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/riders/dash-pa/20161217-dash-update.html",
 		"oF": 0
@@ -14851,6 +14893,7 @@
 	"/riders/dash-pa/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/dash-pa/index.html",
 		"oF": 0
@@ -14858,6 +14901,7 @@
 	"/riders/david-caplan/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/david-caplan/index.html",
 		"oF": 0
@@ -14887,6 +14931,7 @@
 	"/riders/david-knightly/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/david-knightly/index.html",
 		"oF": 0
@@ -14905,6 +14950,7 @@
 	"/riders/david-schwartz/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/david-schwartz/index.html",
 		"oF": 0
@@ -14934,6 +14980,7 @@
 	"/riders/del-cross/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/del-cross/index.html",
 		"oF": 0
@@ -14963,6 +15010,7 @@
 	"/riders/devin-ford/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/devin-ford/index.html",
 		"oF": 0
@@ -14992,6 +15040,7 @@
 	"/riders/ed-gillette/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/riders/ed-gillette/index.html",
 		"oF": 0
@@ -15219,6 +15268,7 @@
 	"/riders/eric-warp/fairings/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/eric-warp/fairings/index.html",
 		"oF": 0
@@ -15226,6 +15276,7 @@
 	"/riders/eric-warp/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/eric-warp/index.html",
 		"oF": 0
@@ -15365,6 +15416,7 @@
 	"/riders/eric-warp/warp-drive/warp_drive.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/eric-warp/warp-drive/warp_drive.html",
 		"oF": 0
@@ -15526,6 +15578,7 @@
 	"/riders/frank-raineri/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/frank-raineri/index.html",
 		"oF": 0
@@ -15621,6 +15674,7 @@
 	"/riders/gary-bernstein/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/gary-bernstein/index.html",
 		"oF": 0
@@ -15650,6 +15704,7 @@
 	"/riders/gary-souza/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/gary-souza/index.html",
 		"oF": 0
@@ -15657,6 +15712,7 @@
 	"/riders/georg-gruetter/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/georg-gruetter/index.html",
 		"oF": 0
@@ -16566,6 +16622,7 @@
 	"/riders/gerard/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/gerard/index.html",
 		"oF": 0
@@ -16595,6 +16652,7 @@
 	"/riders/greg-raven/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/greg-raven/index.html",
 		"oF": 0
@@ -16965,6 +17023,7 @@
 	"/riders/greg-raven/p38/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/greg-raven/p38/index.html",
 		"oF": 0
@@ -17016,6 +17075,7 @@
 	"/riders/guido-holenstein/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/guido-holenstein/index.html",
 		"oF": 0
@@ -17089,6 +17149,7 @@
 	"/riders/hari-iyer/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/hari-iyer/index.html",
 		"oF": 0
@@ -17118,6 +17179,7 @@
 	"/riders/heidi-pinkham/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/riders/heidi-pinkham/index.html",
 		"oF": 0
@@ -17136,6 +17198,7 @@
 	"/riders/holz-goulet/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/holz-goulet/index.html",
 		"oF": 0
@@ -17143,6 +17206,7 @@
 	"/riders/howard-gilbert/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/howard-gilbert/index.html",
 		"oF": 0
@@ -17172,6 +17236,7 @@
 	"/riders/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/index.html",
 		"oF": 0
@@ -17179,6 +17244,7 @@
 	"/riders/james-allen-troost/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/james-allen-troost/index.html",
 		"oF": 0
@@ -17219,6 +17285,7 @@
 	"/riders/jason-wolfe/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/jason-wolfe/index.html",
 		"oF": 0
@@ -17237,6 +17304,7 @@
 	"/riders/jeff-carter/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/jeff-carter/index.html",
 		"oF": 0
@@ -17277,6 +17345,7 @@
 	"/riders/jeff-wills/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/jeff-wills/index.html",
 		"oF": 0
@@ -17284,6 +17353,7 @@
 	"/riders/jim-foerster/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/jim-foerster/index.html",
 		"oF": 0
@@ -17313,6 +17383,7 @@
 	"/riders/joe-imm/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/joe-imm/index.html",
 		"oF": 0
@@ -17331,6 +17402,7 @@
 	"/riders/john-oneal/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/john-oneal/index.html",
 		"oF": 0
@@ -17349,6 +17421,7 @@
 	"/riders/josh-young/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/josh-young/index.html",
 		"oF": 0
@@ -17356,6 +17429,7 @@
 	"/riders/juarez-petterie/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/juarez-petterie/index.html",
 		"oF": 0
@@ -17396,6 +17470,7 @@
 	"/riders/julia-zhu/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/julia-zhu/index.html",
 		"oF": 0
@@ -17414,6 +17489,7 @@
 	"/riders/jurgen-giesen/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/jurgen-giesen/index.html",
 		"oF": 0
@@ -17421,6 +17497,7 @@
 	"/riders/kelly-iniguez/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/riders/kelly-iniguez/index.html",
 		"oF": 0
@@ -17450,6 +17527,7 @@
 	"/riders/ken-leibold/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/ken-leibold/index.html",
 		"oF": 0
@@ -17479,6 +17557,7 @@
 	"/riders/kenneth-huff/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/kenneth-huff/index.html",
 		"oF": 0
@@ -17497,6 +17576,7 @@
 	"/riders/larry-guevara/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/larry-guevara/index.html",
 		"oF": 0
@@ -17614,6 +17694,7 @@
 	"/riders/larry-guevara/phantom/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/larry-guevara/phantom/index.html",
 		"oF": 0
@@ -17687,6 +17768,7 @@
 	"/riders/larry-guevara/voyager/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/larry-guevara/voyager/index.html",
 		"oF": 0
@@ -17694,6 +17776,7 @@
 	"/riders/lee-emmett/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/lee-emmett/index.html",
 		"oF": 0
@@ -17723,6 +17806,7 @@
 	"/riders/len-zawodniak/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/len-zawodniak/index.html",
 		"oF": 0
@@ -17818,6 +17902,7 @@
 	"/riders/len-zawodniak/peru/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/len-zawodniak/peru/index.html",
 		"oF": 0
@@ -17847,6 +17932,7 @@
 	"/riders/len-zawodniak/route-66/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/len-zawodniak/route-66/index.html",
 		"oF": 0
@@ -17876,6 +17962,7 @@
 	"/riders/lynn-miller/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/lynn-miller/index.html",
 		"oF": 0
@@ -17905,6 +17992,7 @@
 	"/riders/marius-sullwald/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/marius-sullwald/index.html",
 		"oF": 0
@@ -17934,6 +18022,7 @@
 	"/riders/mark-snovell/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/mark-snovell/index.html",
 		"oF": 0
@@ -17941,6 +18030,7 @@
 	"/riders/mark-textor/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/mark-textor/index.html",
 		"oF": 0
@@ -18025,6 +18115,7 @@
 	"/riders/martin-krieg/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/martin-krieg/index.html",
 		"oF": 0
@@ -18208,6 +18299,7 @@
 	"/riders/martin-krieg/recumbent-history/img/history-011.mp4": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/riders/martin-krieg/recumbent-history/img/history-011.mp4",
 		"oF": 0
@@ -18897,6 +18989,7 @@
 	"/riders/martin-krieg/recumbent-history/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/martin-krieg/recumbent-history/index.html",
 		"oF": 0
@@ -18926,6 +19019,7 @@
 	"/riders/michael-kapala/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/michael-kapala/index.html",
 		"oF": 0
@@ -18988,6 +19082,7 @@
 	"/riders/michael-smith/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/michael-smith/index.html",
 		"oF": 0
@@ -18995,6 +19090,7 @@
 	"/riders/mick-jordan/2014rab/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/mick-jordan/2014rab/index.html",
 		"oF": 0
@@ -19233,6 +19329,7 @@
 	"/riders/mick-jordan/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/mick-jordan/index.html",
 		"oF": 0
@@ -19240,6 +19337,7 @@
 	"/riders/mick-jordan/index.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/riders/mick-jordan/index.txt",
 		"oF": 0
@@ -19753,6 +19851,7 @@
 	"/riders/mick-jordan/miscellaneous.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/mick-jordan/miscellaneous.html",
 		"oF": 0
@@ -19771,6 +19870,7 @@
 	"/riders/mick-jordan/r84/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/mick-jordan/r84/index.html",
 		"oF": 0
@@ -19833,6 +19933,7 @@
 	"/riders/mick-jordan/voyager/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/mick-jordan/voyager/index.html",
 		"oF": 0
@@ -20038,6 +20139,7 @@
 	"/riders/mike-nicholaus/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/mike-nicholaus/index.html",
 		"oF": 0
@@ -20056,6 +20158,7 @@
 	"/riders/noel-mcpharlin/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/noel-mcpharlin/index.html",
 		"oF": 0
@@ -20118,6 +20221,7 @@
 	"/riders/olav-stana/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/olav-stana/index.html",
 		"oF": 0
@@ -20147,6 +20251,7 @@
 	"/riders/paul-carew/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/paul-carew/index.html",
 		"oF": 0
@@ -20176,6 +20281,7 @@
 	"/riders/paul-gracey/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/paul-gracey/index.html",
 		"oF": 0
@@ -20183,6 +20289,7 @@
 	"/riders/paul-links/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/paul-links/index.html",
 		"oF": 0
@@ -20190,6 +20297,7 @@
 	"/riders/paul-worden/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/paul-worden/index.html",
 		"oF": 0
@@ -20208,6 +20316,7 @@
 	"/riders/peder-torgensen/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/peder-torgensen/index.html",
 		"oF": 0
@@ -20237,6 +20346,7 @@
 	"/riders/pete-penseyres/1985-petes-seattle-to-portland.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/pete-penseyres/1985-petes-seattle-to-portland.html",
 		"oF": 0
@@ -20244,6 +20354,7 @@
 	"/riders/pete-penseyres/1995-pbp.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/pete-penseyres/1995-pbp.html",
 		"oF": 0
@@ -20251,6 +20362,7 @@
 	"/riders/pete-penseyres/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/pete-penseyres/index.html",
 		"oF": 0
@@ -20258,6 +20370,7 @@
 	"/riders/ray-boyer/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/ray-boyer/index.html",
 		"oF": 0
@@ -20298,6 +20411,7 @@
 	"/riders/raymond-leikes/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/raymond-leikes/index.html",
 		"oF": 0
@@ -20349,6 +20463,7 @@
 	"/riders/rich-kara/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/rich-kara/index.html",
 		"oF": 0
@@ -20356,6 +20471,7 @@
 	"/riders/rick-landers/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/rick-landers/index.html",
 		"oF": 0
@@ -20407,6 +20523,7 @@
 	"/riders/roland-stuck/2017-12-f90.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/riders/roland-stuck/2017-12-f90.html",
 		"oF": 0
@@ -20414,6 +20531,7 @@
 	"/riders/roland-stuck/2017-12-phantom.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/riders/roland-stuck/2017-12-phantom.html",
 		"oF": 0
@@ -20454,6 +20572,7 @@
 	"/riders/roland-stuck/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/roland-stuck/index.html",
 		"oF": 0
@@ -20802,6 +20921,7 @@
 	"/riders/sandro-bollina/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/sandro-bollina/index.html",
 		"oF": 0
@@ -21095,6 +21215,7 @@
 	"/riders/scott-garwick/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/scott-garwick/index.html",
 		"oF": 0
@@ -21113,6 +21234,7 @@
 	"/riders/scott-macri/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/scott-macri/index.html",
 		"oF": 0
@@ -21164,6 +21286,7 @@
 	"/riders/scott-mccullough/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/scott-mccullough/index.html",
 		"oF": 0
@@ -21182,6 +21305,7 @@
 	"/riders/sheryl-johnson/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/sheryl-johnson/index.html",
 		"oF": 0
@@ -21211,6 +21335,7 @@
 	"/riders/stephen-purcell/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/stephen-purcell/index.html",
 		"oF": 0
@@ -21218,6 +21343,7 @@
 	"/riders/steve-friedlander/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/steve-friedlander/index.html",
 		"oF": 0
@@ -21225,6 +21351,7 @@
 	"/riders/strava.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/strava.html",
 		"oF": 0
@@ -21232,6 +21359,7 @@
 	"/riders/sue-yocom/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/sue-yocom/index.html",
 		"oF": 0
@@ -21261,6 +21389,7 @@
 	"/riders/susan-reed/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/susan-reed/index.html",
 		"oF": 0
@@ -21279,6 +21408,7 @@
 	"/riders/timothy-chance/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/timothy-chance/index.html",
 		"oF": 0
@@ -21374,6 +21504,7 @@
 	"/riders/tom-black/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/tom-black/index.html",
 		"oF": 0
@@ -21425,6 +21556,7 @@
 	"/riders/tyger-johnson/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/tyger-johnson/index.html",
 		"oF": 0
@@ -21487,6 +21619,7 @@
 	"/riders/wally-kiehler/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/wally-kiehler/index.html",
 		"oF": 0
@@ -21549,6 +21682,7 @@
 	"/riders/wendy-sparks/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/wendy-sparks/index.html",
 		"oF": 0
@@ -21567,6 +21701,7 @@
 	"/riders/will-pederson/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/will-pederson/index.html",
 		"oF": 0
@@ -21585,6 +21720,7 @@
 	"/riders/william-kaenel/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/william-kaenel/index.html",
 		"oF": 0
@@ -21603,6 +21739,7 @@
 	"/riders/william-petrie/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/riders/william-petrie/index.html",
 		"oF": 0
@@ -21621,6 +21758,7 @@
 	"/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/robots.txt",
 		"oF": 0
@@ -21628,6 +21766,7 @@
 	"/search.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/search.html",
 		"oF": 0
@@ -21635,6 +21774,7 @@
 	"/sitemap.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/sitemap.txt",
 		"oF": 0
@@ -21642,6 +21782,7 @@
 	"/sitemap.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/sitemap.xml",
 		"oF": 0
@@ -21715,6 +21856,7 @@
 	"/stealth/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/stealth/gallery/index.html",
 		"oF": 0
@@ -21722,6 +21864,7 @@
 	"/stealth/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/stealth/index.html",
 		"oF": 0
@@ -21729,6 +21872,7 @@
 	"/store/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/store/index.html",
 		"oF": 0
@@ -21736,6 +21880,7 @@
 	"/support.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/support.html",
 		"oF": 0
@@ -21787,6 +21932,7 @@
 	"/t38/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/t38/gallery/index.html",
 		"oF": 0
@@ -21794,6 +21940,7 @@
 	"/t38/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/t38/index.html",
 		"oF": 0
@@ -21801,6 +21948,7 @@
 	"/thanks.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/thanks.html",
 		"oF": 0
@@ -21896,6 +22044,7 @@
 	"/thunderbolt/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/thunderbolt/gallery/index.html",
 		"oF": 0
@@ -21903,6 +22052,7 @@
 	"/thunderbolt/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/thunderbolt/index.html",
 		"oF": 0
@@ -21910,6 +22060,7 @@
 	"/tips/700c-phantom.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/700c-phantom.html",
 		"oF": 0
@@ -21917,6 +22068,7 @@
 	"/tips/bike-carrier.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/bike-carrier.html",
 		"oF": 0
@@ -21924,6 +22076,7 @@
 	"/tips/disc-brake-adjustment.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/disc-brake-adjustment.html",
 		"oF": 0
@@ -21931,6 +22084,7 @@
 	"/tips/flat-feet.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/flat-feet.html",
 		"oF": 0
@@ -21938,6 +22092,7 @@
 	"/tips/heirloom.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/heirloom.html",
 		"oF": 0
@@ -21945,6 +22100,7 @@
 	"/tips/hotfoot.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/hotfoot.html",
 		"oF": 0
@@ -21952,6 +22108,7 @@
 	"/tips/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/index.html",
 		"oF": 0
@@ -21959,6 +22116,7 @@
 	"/tips/p-38-suspension-fork.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/p-38-suspension-fork.html",
 		"oF": 0
@@ -21966,6 +22124,7 @@
 	"/tips/phantom-headset.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/phantom-headset.html",
 		"oF": 0
@@ -21973,6 +22132,7 @@
 	"/tips/rollers.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/rollers.html",
 		"oF": 0
@@ -21980,6 +22140,7 @@
 	"/tips/seat-cord.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/seat-cord.html",
 		"oF": 0
@@ -21987,6 +22148,7 @@
 	"/tips/seat-mesh-lacing.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/seat-mesh-lacing.html",
 		"oF": 0
@@ -21994,6 +22156,7 @@
 	"/tips/shockster-rear-rack.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/shockster-rear-rack.html",
 		"oF": 0
@@ -22001,6 +22164,7 @@
 	"/tips/sliding-forward.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/sliding-forward.html",
 		"oF": 0
@@ -22008,6 +22172,7 @@
 	"/tips/trailers.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/trailers.html",
 		"oF": 0
@@ -22015,6 +22180,7 @@
 	"/tips/trek-bb90.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/trek-bb90.html",
 		"oF": 0
@@ -22022,6 +22188,7 @@
 	"/tips/windtrainer.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/tips/windtrainer.html",
 		"oF": 0
@@ -22172,6 +22339,7 @@
 	"/u2/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/u2/gallery/index.html",
 		"oF": 0
@@ -22179,6 +22347,7 @@
 	"/u2/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/u2/index.html",
 		"oF": 0
@@ -22197,6 +22366,7 @@
 	"/videos/20080513-nrgxpert.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/20080513-nrgxpert.html",
 		"oF": 0
@@ -22204,6 +22374,7 @@
 	"/videos/20110225rtv.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/20110225rtv.html",
 		"oF": 0
@@ -22211,6 +22382,7 @@
 	"/videos/20121008-doug-grosjean.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/20121008-doug-grosjean.html",
 		"oF": 0
@@ -22218,6 +22390,7 @@
 	"/videos/20160731-tim-brummer-interview.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/videos/20160731-tim-brummer-interview.html",
 		"oF": 0
@@ -22225,6 +22398,7 @@
 	"/videos/20161008-rcc-interview.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/20161008-rcc-interview.html",
 		"oF": 0
@@ -22232,6 +22406,7 @@
 	"/videos/20180917-Laidback-Bike-Report.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/videos/20180917-Laidback-Bike-Report.html",
 		"oF": 0
@@ -22239,6 +22414,7 @@
 	"/videos/e-lightning-assembly.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/e-lightning-assembly.html",
 		"oF": 0
@@ -22246,6 +22422,7 @@
 	"/videos/e-lightning.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/e-lightning.html",
 		"oF": 0
@@ -22253,6 +22430,7 @@
 	"/videos/f40-descent.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/f40-descent.html",
 		"oF": 0
@@ -22260,6 +22438,7 @@
 	"/videos/f40-entry.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/f40-entry.html",
 		"oF": 0
@@ -22267,6 +22446,7 @@
 	"/videos/f40-strava-kom.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/f40-strava-kom.html",
 		"oF": 0
@@ -22274,6 +22454,7 @@
 	"/videos/f40.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/f40.html",
 		"oF": 0
@@ -22281,6 +22462,7 @@
 	"/videos/first-ride.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/first-ride.html",
 		"oF": 0
@@ -22288,6 +22470,7 @@
 	"/videos/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/index.html",
 		"oF": 0
@@ -22295,6 +22478,7 @@
 	"/videos/jeff-wills-p38-testimonial.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/jeff-wills-p38-testimonial.html",
 		"oF": 0
@@ -22302,6 +22486,7 @@
 	"/videos/lcd-climb.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/lcd-climb.html",
 		"oF": 0
@@ -22309,6 +22494,7 @@
 	"/videos/lcd-x2.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/lcd-x2.html",
 		"oF": 0
@@ -22316,6 +22502,7 @@
 	"/videos/lightning-promo.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/lightning-promo.html",
 		"oF": 0
@@ -22323,6 +22510,7 @@
 	"/videos/lightning-r84-introduction.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/lightning-r84-introduction.html",
 		"oF": 0
@@ -22330,6 +22518,7 @@
 	"/videos/lnl-demo-video.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/lnl-demo-video.html",
 		"oF": 0
@@ -22337,6 +22526,7 @@
 	"/videos/model-lineup.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/model-lineup.html",
 		"oF": 0
@@ -22344,6 +22534,7 @@
 	"/videos/p38-cockpit-view.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/p38-cockpit-view.html",
 		"oF": 0
@@ -22351,6 +22542,7 @@
 	"/videos/rose-city-p-38-walkaround.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/rose-city-p-38-walkaround.html",
 		"oF": 0
@@ -22358,6 +22550,7 @@
 	"/videos/rose-city-phantom-build.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/rose-city-phantom-build.html",
 		"oF": 0
@@ -22365,6 +22558,7 @@
 	"/videos/stealth.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/stealth.html",
 		"oF": 0
@@ -22372,6 +22566,7 @@
 	"/videos/t38.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/videos/t38.html",
 		"oF": 0
@@ -22489,6 +22684,7 @@
 	"/voyager/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/voyager/gallery/index.html",
 		"oF": 0
@@ -22496,6 +22692,7 @@
 	"/voyager/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/voyager/index.html",
 		"oF": 0
@@ -22503,6 +22700,7 @@
 	"/voyager/packing.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/voyager/packing.html",
 		"oF": 0
@@ -22510,6 +22708,7 @@
 	"/white-lightning/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/white-lightning/index.html",
 		"oF": 0
@@ -22781,6 +22980,7 @@
 	"/x2/gallery/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/x2/gallery/index.html",
 		"oF": 0
@@ -22788,6 +22988,7 @@
 	"/x2/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/x2/index.html",
 		"oF": 0
@@ -22887,6 +23088,12 @@
 		"function-sent": {
 			"active": 0
 			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
 		"instanceof": {
 			"active": 0
 			},
@@ -22906,6 +23113,36 @@
 			"active": 0
 			},
 		"minify-booleans": {
+			"active": 0
+			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
 			"active": 0
 			},
 		"modules-amd": {
@@ -22956,6 +23193,9 @@
 		"pipeline-operator": {
 			"active": 0
 			},
+		"private-methods": {
+			"active": 0
+			},
 		"property-literals": {
 			"active": 0
 			},
@@ -22989,10 +23229,16 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
+			"active": 0
+			},
+		"remove-undefined": {
 			"active": 0
 			},
 		"reserved-words": {
@@ -23941,6 +24187,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-useless-computed-key": {
 			"active": 1,
 			"optionString": ""
@@ -24603,6 +24853,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -24624,6 +24875,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 2,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
@@ -24646,7 +24898,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -24685,6 +24938,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -24694,7 +24948,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -24715,7 +24970,8 @@
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -24744,7 +25000,8 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -24832,16 +25089,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"ascii_only": {
-			"active": 0,
+		"arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare_returns": {
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
 		"booleans": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"booleans_as_integers": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"braces": {
@@ -24853,14 +25114,14 @@
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -24883,6 +25144,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -24908,10 +25173,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"html5_comments": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"ie8": {
 			"active": 0,
 			"flagValue": -1
@@ -24920,13 +25181,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-start": {
-			"active": 0,
-			"flagValue": 0
-			},
 		"indent_level": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"indent_start": {
+			"active": 0,
+			"flagValue": 0
 			},
 		"inline": {
 			"active": 1,
@@ -24938,6 +25199,10 @@
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -24960,13 +25225,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
@@ -24975,10 +25240,6 @@
 		"passes": {
 			"active": 1,
 			"flagValue": 1
-			},
-		"preserve_line": {
-			"active": 0,
-			"flagValue": -1
 			},
 		"properties": {
 			"active": 1,
@@ -25002,6 +25263,10 @@
 			},
 		"reduce_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -25036,6 +25301,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"unsafe_comps": {
 			"active": 0,
 			"flagValue": -1
@@ -25045,6 +25314,10 @@
 			"flagValue": -1
 			},
 		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -25072,15 +25345,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
-			},
 		"wrap_iife": {
 			"active": 0,
 			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$",
 	"websiteRelativeRoot": ""
 	},
