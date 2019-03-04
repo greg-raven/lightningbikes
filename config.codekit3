@@ -3559,6 +3559,17 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/_assets/img/p38/side-view-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 19602,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_assets/img/p38/side-view-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/_assets/img/p38/sizing-chart-616.jpg": {
 		"ft": 16384,
 		"iS": 14829,
@@ -13796,6 +13807,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/recumbents-new.html",
+		"oF": 0
+		},
+	"/recumbents-PreviewTemp-82220590-3053-494A-937A-2975E997226B.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/recumbents-PreviewTemp-82220590-3053-494A-937A-2975E997226B.html",
 		"oF": 0
 		},
 	"/recumbents.html": {
