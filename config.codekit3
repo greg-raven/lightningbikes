@@ -6159,6 +6159,36 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"/_assets/js/switchProtocol-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_assets/js/min/switchProtocol-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/_assets/js/switchProtocol-min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_assets/js/switchProtocol-min.js.map",
+		"oF": 0
+		},
+	"/_assets/js/switchProtocol.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 1,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_assets/js/switchProtocol-min.js",
+		"oF": 2,
+		"sC": 1,
+		"tS": 0
+		},
 	"/_assets/js/vlb_engine/jquery.min.js": {
 		"bF": 0,
 		"ft": 64,
