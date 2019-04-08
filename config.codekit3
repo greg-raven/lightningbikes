@@ -21408,6 +21408,25 @@
 		"oAP": "/riders/strava.html",
 		"oF": 0
 		},
+	"/riders/stuart-palmer/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/riders/stuart-palmer/index.html",
+		"oF": 0
+		},
+	"/riders/stuart-palmer/kings-college-chapel.jpg": {
+		"ft": 16384,
+		"iS": 67810,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/riders/stuart-palmer/kings-college-chapel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
 	"/riders/sue-yocom/index.html": {
 		"cB": 0,
 		"ft": 8192,
