@@ -20382,6 +20382,47 @@
 		"opt": 0,
 		"q": 80
 		},
+	"/riders/paul-copeland/1.jpg": {
+		"ft": 16384,
+		"iS": 388984,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/riders/paul-copeland/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/riders/paul-copeland/2.jpg": {
+		"ft": 16384,
+		"iS": 473315,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/riders/paul-copeland/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/riders/paul-copeland/3.jpg": {
+		"ft": 16384,
+		"iS": 287085,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/riders/paul-copeland/3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 80
+		},
+	"/riders/paul-copeland/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/riders/paul-copeland/index.html",
+		"oF": 0
+		},
 	"/riders/paul-gracey/coroplast-drag-racing.jpg": {
 		"ft": 16384,
 		"iS": 52127,
