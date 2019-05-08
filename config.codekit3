@@ -6653,6 +6653,28 @@
 		"oAP": "/accessories/zzipper-fairing.html",
 		"oF": 0
 		},
+	"/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 2352,
+		"oA": 0,
+		"oAP": "/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 80
+		},
+	"/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 7045,
+		"oA": 0,
+		"oAP": "/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 80
+		},
 	"/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 2699,
@@ -6678,6 +6700,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/bikefit.html",
+		"oF": 0
+		},
+	"/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/browserconfig.xml",
 		"oF": 0
 		},
 	"/cgi-bin/lightningbikes_config.xml": {
@@ -8571,6 +8601,28 @@
 		"oAP": "/faq.html",
 		"oF": 0
 		},
+	"/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 350,
+		"oA": 0,
+		"oAP": "/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 80
+		},
+	"/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 654,
+		"oA": 0,
+		"oAP": "/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 80
+		},
 	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -9957,6 +10009,17 @@
 		"oA": 0,
 		"oAP": "/midracers/modifying_midracer-seat-stays.html",
 		"oF": 0
+		},
+	"/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 1514,
+		"oA": 0,
+		"oAP": "/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 80
 		},
 	"/p38/anniversary.html": {
 		"cB": 0,
@@ -21845,12 +21908,30 @@
 		"oAP": "/robots.txt",
 		"oF": 0
 		},
+	"/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/search.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/search.html",
+		"oF": 0
+		},
+	"/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/site.webmanifest",
 		"oF": 0
 		},
 	"/sitemap.txt": {
