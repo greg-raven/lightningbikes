@@ -7,7 +7,7 @@
 		"uuidString": "4D3FA354-0CD3-4EE6-8261-AA81EAC201F7"
 		}
 	],
-"creatorBuild": "31927",
+"creatorBuild": "31934",
 "files": {
 	"/.editorconfig": {
 		"cB": 0,
@@ -25163,7 +25163,6 @@
 		"autoOutputPathStyle": 2,
 		"createSourceMap": 0,
 		"enableJavascript": 0,
-		"ieCompatibility": 1,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
