@@ -13085,14 +13085,6 @@
 		"oAP": "/phantom/tensioner-assembly.html",
 		"oF": 0
 		},
-	"/pop-over.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/pop-over.html",
-		"oF": 0
-		},
 	"/products.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -21981,22 +21973,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/sitemap.xml",
-		"oF": 0
-		},
-	"/splash/free-shipping.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/splash/free-shipping.html",
-		"oF": 0
-		},
-	"/splash/holiday-special.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/splash/holiday-special.html",
 		"oF": 0
 		},
 	"/stealth/gallery/data/images1/charles_dibellas_touring_bike.jpg": {

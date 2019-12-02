@@ -63,6 +63,23 @@
 	<meta name="msapplication-TileColor" content="#2d89ef">
 	<meta name="theme-color" content="#ffffff">
 <!-- #bbpragma ignore_errors="off" -->
+	<style>
+		div.modal
+		{
+			background-image: url('/_assets/img/holiday-bg.jpg');
+			background-position: center;
+			background-size: cover;
+			background-repeat: no-repeat;
+			height: 100%;
+		}
+
+		div.modal-header, div.modal-body, div.modal-footer
+		{
+			background-color: rgba(251, 0, 0, 0.1);
+			font-size: x-large;
+			font-weight: bold;
+		}
+</style>
 </head>
 <body>
 <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -212,5 +229,33 @@
 	 ]
 	}
 </script>
+<!-- #bbinclude "modal.incl" -->
+<div class="modal fade" tabindex="-1" role="dialog" id="myModal">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title">
+					LIGHTNING BIKES HOLIDAY SALE
+				</h4>
+			</div>
+			<div class="modal-body">
+				<p>
+					From now through January 1st, get $50 off cranksets and $100 off bikes.
+				</p>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">Website</button> <a href="https://www.lightningbikes.com/store/#!/Bikes/c/30267620/offset=0&sort=normal" class="btn btn-primary">Order now</a>
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!-- must add modal-js to bottom of the page to effectuate the modal -->
+<!-- end bbinclude -->
+<!-- #bbinclude "modal-js.incl" -->
+<script>
+	$('#myModal').modal( 'show' )
+</script>
+<!-- end bbinclude -->
 </body>
 </html>
