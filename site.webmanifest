@@ -1,5 +1,5 @@
 {
-    "name": "Lightning bikes",
+    "name": "Lightning Cycle Dynamics",
     "short_name": "Lightning bikes",
     "icons": [
         {
@@ -15,6 +15,5 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "https://www.lightningbikes.com",
-    "display": "standalone"
+    "display": "browser"
 }
