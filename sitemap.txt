@@ -2,6 +2,7 @@ https://www.lightningbikes.com/accessories/adjusting-ring-screw.html
 https://www.lightningbikes.com/accessories/adjusting-ring.html
 https://www.lightningbikes.com/accessories/ballistic-fork.html
 https://www.lightningbikes.com/accessories/chain-idler.html
+https://www.lightningbikes.com/accessories/cycle-computer.html
 https://www.lightningbikes.com/accessories/fenders.html
 https://www.lightningbikes.com/accessories/handlebar-bag.html
 https://www.lightningbikes.com/accessories/hydrapack-bladder.html
@@ -70,7 +71,6 @@ https://www.lightningbikes.com/fabrication/gallery/index.html
 https://www.lightningbikes.com/fabrication/index.html
 https://www.lightningbikes.com/faq.html
 https://www.lightningbikes.com/framesets.html
-https://www.lightningbikes.com/free-shipping.html
 https://www.lightningbikes.com/gallery/index.html
 https://www.lightningbikes.com/gallery/lcd/index.html
 https://www.lightningbikes.com/howtobuy.html
@@ -125,11 +125,12 @@ https://www.lightningbikes.com/media/20100706-recumbent-journal.html
 https://www.lightningbikes.com/media/20110109-brol.html
 https://www.lightningbikes.com/media/20110223-tririg-crank-review.html
 https://www.lightningbikes.com/media/20110727-brol.html
-https://www.lightningbikes.com/media/201202-rtr-lightning-r-84.html
+https://www.lightningbikes.com/media/201202-rtr-lightning-r-84/index.html
 https://www.lightningbikes.com/media/20120215-rbr-crank-review.html
 https://www.lightningbikes.com/media/20120326-RBA/index.html
 https://www.lightningbikes.com/media/201207-RBA/index.html
 https://www.lightningbikes.com/media/20141226-bike-route-interview.html
+https://www.lightningbikes.com/media/201804-RTR_64/index.html
 https://www.lightningbikes.com/media/bicycle-retailer.html
 https://www.lightningbikes.com/media/brol-thunderbolt.html
 https://www.lightningbikes.com/media/index.html
@@ -137,18 +138,21 @@ https://www.lightningbikes.com/midracers/gallery/index.html
 https://www.lightningbikes.com/midracers/index.html
 https://www.lightningbikes.com/midracers/modifying_midracer-seat-stays.html
 https://www.lightningbikes.com/p38/anniversary.html
+https://www.lightningbikes.com/p38/belt-drive.html
 https://www.lightningbikes.com/p38/comments.html
 https://www.lightningbikes.com/p38/gallery/index.html
 https://www.lightningbikes.com/p38/index.html
 https://www.lightningbikes.com/p38/manual-2011.html
 https://www.lightningbikes.com/p38/order-bike.html
 https://www.lightningbikes.com/p38/order-frame.html
+https://www.lightningbikes.com/p38/rox.html
 https://www.lightningbikes.com/p38/serial-numbers.html
 https://www.lightningbikes.com/patents/index.html
 https://www.lightningbikes.com/phantom/features.html
 https://www.lightningbikes.com/phantom/feedback.html
 https://www.lightningbikes.com/phantom/gallery/index.html
 https://www.lightningbikes.com/phantom/index.html
+https://www.lightningbikes.com/phantom/manual-text.html
 https://www.lightningbikes.com/phantom/manual.html
 https://www.lightningbikes.com/phantom/specs.html
 https://www.lightningbikes.com/phantom/tensioner-assembly.html
@@ -167,7 +171,6 @@ https://www.lightningbikes.com/racing/2006-fc508.html
 https://www.lightningbikes.com/racing/f40-racing.html
 https://www.lightningbikes.com/racing/f90-racing.html
 https://www.lightningbikes.com/racing/index.html
-https://www.lightningbikes.com/recumbents-new.html
 https://www.lightningbikes.com/recumbents.html
 https://www.lightningbikes.com/riders/adam-hansen/index.html
 https://www.lightningbikes.com/riders/alec-proudfoot/index.html
@@ -187,6 +190,7 @@ https://www.lightningbikes.com/riders/bob-fourney/index.html
 https://www.lightningbikes.com/riders/bob-steele/index.html
 https://www.lightningbikes.com/riders/carl-murdock/index.html
 https://www.lightningbikes.com/riders/carl-patty/index.html
+https://www.lightningbikes.com/riders/carol-ireland/index.html
 https://www.lightningbikes.com/riders/carolyn-trimble/index.html
 https://www.lightningbikes.com/riders/ceb-blankenship/index.html
 https://www.lightningbikes.com/riders/charles-dibella/index.html
@@ -261,6 +265,7 @@ https://www.lightningbikes.com/riders/mike-nicholaus/index.html
 https://www.lightningbikes.com/riders/noel-mcpharlin/index.html
 https://www.lightningbikes.com/riders/olav-stana/index.html
 https://www.lightningbikes.com/riders/paul-carew/index.html
+https://www.lightningbikes.com/riders/paul-copeland/index.html
 https://www.lightningbikes.com/riders/paul-gracey/index.html
 https://www.lightningbikes.com/riders/paul-links/index.html
 https://www.lightningbikes.com/riders/paul-worden/index.html
@@ -280,9 +285,11 @@ https://www.lightningbikes.com/riders/scott-garwick/index.html
 https://www.lightningbikes.com/riders/scott-macri/index.html
 https://www.lightningbikes.com/riders/scott-mccullough/index.html
 https://www.lightningbikes.com/riders/sheryl-johnson/index.html
+https://www.lightningbikes.com/riders/stefan-schmidhofer/index.html
 https://www.lightningbikes.com/riders/stephen-purcell/index.html
 https://www.lightningbikes.com/riders/steve-friedlander/index.html
 https://www.lightningbikes.com/riders/strava.html
+https://www.lightningbikes.com/riders/stuart-palmer/index.html
 https://www.lightningbikes.com/riders/sue-yocom/index.html
 https://www.lightningbikes.com/riders/susan-reed/index.html
 https://www.lightningbikes.com/riders/timothy-chance/index.html
@@ -310,6 +317,7 @@ https://www.lightningbikes.com/tips/flat-feet.html
 https://www.lightningbikes.com/tips/heirloom.html
 https://www.lightningbikes.com/tips/hotfoot.html
 https://www.lightningbikes.com/tips/index.html
+https://www.lightningbikes.com/tips/installing-lightning-cranks.html
 https://www.lightningbikes.com/tips/p-38-suspension-fork.html
 https://www.lightningbikes.com/tips/phantom-headset.html
 https://www.lightningbikes.com/tips/rollers.html
@@ -328,6 +336,7 @@ https://www.lightningbikes.com/videos/20121008-doug-grosjean.html
 https://www.lightningbikes.com/videos/20160731-tim-brummer-interview.html
 https://www.lightningbikes.com/videos/20161008-rcc-interview.html
 https://www.lightningbikes.com/videos/20180917-Laidback-Bike-Report.html
+https://www.lightningbikes.com/videos/20190407-e-lightning.html
 https://www.lightningbikes.com/videos/e-lightning-assembly.html
 https://www.lightningbikes.com/videos/e-lightning.html
 https://www.lightningbikes.com/videos/f40-descent.html
@@ -344,6 +353,7 @@ https://www.lightningbikes.com/videos/lightning-r84-introduction.html
 https://www.lightningbikes.com/videos/lnl-demo-video.html
 https://www.lightningbikes.com/videos/model-lineup.html
 https://www.lightningbikes.com/videos/p38-cockpit-view.html
+https://www.lightningbikes.com/videos/phantom-d-multi-surface.html
 https://www.lightningbikes.com/videos/rose-city-p-38-walkaround.html
 https://www.lightningbikes.com/videos/rose-city-phantom-build.html
 https://www.lightningbikes.com/videos/stealth.html

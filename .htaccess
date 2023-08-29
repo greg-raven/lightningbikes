@@ -238,6 +238,7 @@ Redirect 301 /white_lightning.htm https://www.lightningbikes.com/white-lightning
 Redirect 301 /x-2_racing.htm https://www.lightningbikes.com/x2/index.html
 Redirect 301 /XX%20spyder%20seals%20and%20spacer.htm https://www.lightningbikes.com/cranks/spyders.html
 Redirect 301 /riders/martin-krieg/recumbent-history/gr/index.html https://www.lightningbikes.com/riders/martin-krieg/recumbent-history/index.html
+Redirect 301 /r84/di2.html https://www.lightningbikes.com/r84/index.html
 
 # ----------------------------------------------------------------------
 # Set error pages
