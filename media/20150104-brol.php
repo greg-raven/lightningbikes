@@ -7,7 +7,7 @@
 		window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
 		gtag('js', new Date());
-		gtag('config', 'UA-37984504-1');</script><script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script><script src="/_assets/js/switchProtocol-min.js"></script>
+		gtag('config', 'UA-37984504-1');</script><script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 <!-- end bbinclude -->
 </head>
 <body>
@@ -50,7 +50,7 @@
 				One advantage that the Phantom II has always had over the pricier P-38 is its adjustability. The seat angle moves between 50 and 65 degrees and the boom can telescope to fit riders between 5&prime;7&Prime; and 6&prime; 6&Prime; or so on the Large model I reviewed. There is a smaller frame with a 16&Prime; front wheel for shorter riders.
 			</p>
 			<p>
-				I&rsquo;ve always found Lightnings to be very comfortable bikes and the Phantom II was no exception. The P-38 is more closed and has a sort of &ldquo;love it or hate it&rdquo; riding position but the Phantom II is much more accommodating. Lightning&rsquo;s improved seat is also quite cushy and breathable. It&rsquo;s also much easier for riders with shorter legs to get their feet flat on the ground than it was in the past, but the smaller frame size with its smaller front wheel will still be needed by some people for sure.
+				I&rsquo;ve always found Lightnings to be very comfortable bikes and the Phantom II was no exception. The P-38 is more closed and has a sort of <q>love it or hate it</q> riding position but the Phantom II is much more accommodating. Lightning&rsquo;s improved seat is also quite cushy and breathable. It&rsquo;s also much easier for riders with shorter legs to get their feet flat on the ground than it was in the past, but the smaller frame size with its smaller front wheel will still be needed by some people for sure.
 			</p>
 			<p>
 				Lightning&rsquo;s locking stem isn&rsquo;t as pretty as some other folding steering risers but it does work exceeding well and allows for a wide variety of hand positions. The Phantom II now comes with trigger shifters which is a bit rare on a recumbent but I really like them. They fit the bike&rsquo;s ergonomics very well.
@@ -59,10 +59,10 @@
 				The Phantom II&rsquo;s geometry and overall design are a bit old school. The wheelbase is quite short when compared to something like a Bacchetta Giro or RANS Rocket but I really like the way it handles. The low speed handing is very direct but by no means twitchy. Once you&rsquo;re used to it, very tight parking lot or bike path turns are surprisingly easy.
 			</p>
 			<p>
-				Although the Phantom II is quite nimble at low speeds, the high speed handing doesn&rsquo;t seem to suffer. It&rsquo;s &ldquo;happy place&rdquo; seems to be somewhere in that 15-30 mph range where the bike will reside most of the time. At those speeds, the Phantom II was almost hands-off stable.
+				Although the Phantom II is quite nimble at low speeds, the high speed handing doesn&rsquo;t seem to suffer. It&rsquo;s <q>happy place</q> seems to be somewhere in that 15-30 mph range where the bike will reside most of the time. At those speeds, the Phantom II was almost hands-off stable.
 			</p>
 			<p>
-				Like most Lightning&rsquo;s the Phantom II is surprisingly fast. It&rsquo;s not particularly aerodynamic or light but something about that Lightning seating position seems to eek every bit of speed out of a design. It doesn&rsquo;t have quite that magic &ldquo;zing&rdquo; of its much more expensive P-38 big brother but it&rsquo;s close. The Phantom II is definitely every bit as fast any other bike in its class.
+				Like most Lightning&rsquo;s the Phantom II is surprisingly fast. It&rsquo;s not particularly aerodynamic or light but something about that Lightning seating position seems to eek every bit of speed out of a design. It doesn&rsquo;t have quite that magic <q>zing</q> of its much more expensive P-38 big brother but it&rsquo;s close. The Phantom II is definitely every bit as fast any other bike in its class.
 			</p>
 			<p>
 				I spent most of my time riding the Phantom II on my local bike paths cruising along at 15-20 mph looking at the sites. It&rsquo;s a fantastic bike for that. It&rsquo;s got a very smooth ride, it&rsquo;s comfortable, it&rsquo;s quiet and the upright seating position gives you a good view of what&rsquo;s around you.
@@ -102,7 +102,7 @@
 </div><!-- /.container-fluid -->
 <!-- end bbinclude -->
 <!-- #bbinclude "footer.incl" -->
-<div class="container-fluid"><div class="row"><div class="col-sm-12"><footer class="address"><hr><p class="text-center">Copyright &copy; <a href="/company.html">Lightning Cycle Dynamics</a>, 1977&ndash;2023</p></footer></div><!-- /.col-sm-12 --></div><!-- /.row --></div><!-- /.container-fluid --><a href="https://www.psx4central.com/nightmaresmile.php?source=854"><!-- weird-mist --></a><script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script><script>
+<div class="container-fluid"><div class="row"><div class="col-sm-12"><footer class="address"><hr><p class="text-center">Copyright &copy; <a href="/company.html">Lightning Cycle Dynamics</a>, 1977&ndash;2024</p></footer></div><!-- /.col-sm-12 --></div><!-- /.row --></div><!-- /.container-fluid --><a href="https://www.psx4central.com/nightmaresmile.php?source=854"><!-- weird-mist --></a><script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script><script>
 	$(document).ready(function () {
 			"use strict";
 			// Optimalisation: Store the references outside the event handler:
