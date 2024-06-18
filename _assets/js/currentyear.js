@@ -1,8 +1,15 @@
 // Return today's date and time
-var currentTime = new Date();
-// returns the year (four digits)
-var year = currentTime.getFullYear();
-// insert current year into document
-// first create span element with
-// id of currentyear
-document.getElementById("currentyear").innerHTML = year;
+
+document.addEventListener("DOMContentLoaded", function() {
+    // This function runs after the DOM is fully loaded
+    var currentTime = new Date();
+    var year = currentTime.getFullYear();
+    var currentYearElement = document.getElementById("currentyear");
+
+    // Check if element exists before setting innerHTML
+    if (currentYearElement) {
+        currentYearElement.innerHTML = year;
+    } else {
+        console.error("Element with id 'currentyear' not found.");
+    }
+});

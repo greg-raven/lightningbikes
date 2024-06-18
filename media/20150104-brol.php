@@ -95,7 +95,7 @@
 		</article>
 		<div class="col-sm-2 col-sm-pull-10">
 			<nav class="inside" id="menuInner"></nav>
-			<script type="text/Javascript" src="/_assets/js/menuInner-min.js"></script>
+			<script type="text/Javascript" src="/_assets/js/menuInner.js"></script>
 			<noscript>You must enable JavaScript in your browser to view the menu.</noscript>
 		</div><!-- /.col-sm-2 col-sm-pull-10 -->
 	</div><!-- /.row -->
