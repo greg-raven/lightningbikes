@@ -2008,6 +2008,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/_assets\/img\/e-lightning\/controller-curve.jpg" : {
+      "ft" : 16384,
+      "iS" : 58621,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/e-lightning\/controller-curve.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/_assets\/img\/e-lightning\/controller.jpg" : {
       "ft" : 16384,
       "iS" : 129896,
@@ -2047,9 +2060,22 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/e-lightning\/e-lightning-dashboard.jpg" : {
+    "\/_assets\/img\/e-lightning\/e-lightning-dashboard-old.jpg" : {
       "ft" : 16384,
       "iS" : 73188,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/e-lightning\/e-lightning-dashboard-old.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_assets\/img\/e-lightning\/e-lightning-dashboard.jpg" : {
+      "ft" : 16384,
+      "iS" : 54157,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/_assets\/img\/e-lightning\/e-lightning-dashboard.jpg",
@@ -2073,6 +2099,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/_assets\/img\/e-lightning\/e-lightning-range.jpg" : {
+      "ft" : 16384,
+      "iS" : 28390,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/e-lightning\/e-lightning-range.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/_assets\/img\/e-lightning\/e-lightning-red-thumbnail.jpg" : {
       "ft" : 16384,
       "iS" : 18933,
@@ -2088,7 +2127,7 @@
     },
     "\/_assets\/img\/e-lightning\/e-lightning-throttle.jpg" : {
       "ft" : 16384,
-      "iS" : 40052,
+      "iS" : 40581,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/_assets\/img\/e-lightning\/e-lightning-throttle.jpg",
@@ -2131,6 +2170,110 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/_assets\/img\/e-lightning\/red-right.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_assets\/img\/e84\/e84-battery.jpg" : {
+      "ft" : 16384,
+      "iS" : 120608,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/e84\/e84-battery.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_assets\/img\/e84\/e84-control-head.jpg" : {
+      "ft" : 16384,
+      "iS" : 155590,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/e84\/e84-control-head.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_assets\/img\/e84\/e84-left-front-600.jpg" : {
+      "ft" : 16384,
+      "iS" : 50342,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/e84\/e84-left-front-600.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_assets\/img\/e84\/e84-left-front.jpg" : {
+      "ft" : 16384,
+      "iS" : 80584,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/e84\/e84-left-front.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_assets\/img\/e84\/e84-motor.jpg" : {
+      "ft" : 16384,
+      "iS" : 102482,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/e84\/e84-motor.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_assets\/img\/e84\/e84-range-extender.jpg" : {
+      "ft" : 16384,
+      "iS" : 85486,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/e84\/e84-range-extender.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_assets\/img\/e84\/e84-range.jpg" : {
+      "ft" : 16384,
+      "iS" : 16291,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/e84\/e84-range.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_assets\/img\/e84\/e84-side.jpg" : {
+      "ft" : 16384,
+      "iS" : 81238,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/e84\/e84-side.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -15300,6 +15443,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/r84\/di2.html",
+      "oF" : 0
+    },
+    "\/r84\/e84.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/r84\/e84.html",
       "oF" : 0
     },
     "\/r84\/gallery\/data\/images1\/2007_from_new_molds.jpg" : {
