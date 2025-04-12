@@ -21,7 +21,7 @@ Redirect 301 /accessor.htm https://www.lightningbikes.com/accessories/index.html
 Redirect 301 /accessories/accessories.html https://www.lightningbikes.com/accessories/index.html
 Redirect 301 /argus_race.htm https://www.lightningbikes.com/media/1988-argus_race.html
 Redirect 301 /BBcups%20Types.html https://www.lightningbikes.com/cranks/bottom-bracket-cups.html
-Redirect 301 /bicycles.htm https://www.lightningbikes.com/recumbents.html
+Redirect 301 /bicycles.htm https://www.lightningbikes.com/index.html
 Redirect 301 /Bike%20Manuals.htm https://www.lightningbikes.com/manuals.html
 Redirect 301 /bikefit.htm https://www.lightningbikes.com/bikefit.html
 Redirect 301 /brochure.htm https://www.lightningbikes.com/index.html
@@ -111,7 +111,7 @@ Redirect 301 /racers/pete-penseyres.html https://www.lightningbikes.com/riders/p
 Redirect 301 /racers/tyger_racing.html https://www.lightningbikes.com/riders/tyger_racing.html
 Redirect 301 /racing1.htm https://www.lightningbikes.com/riders/racing.html
 Redirect 301 /records.htm https://www.lightningbikes.com/riders/racing.html
-Redirect 301 /Recumbents.htm https://www.lightningbikes.com/recumbents.html
+Redirect 301 /Recumbents.htm https://www.lightningbikes.com/index.html
 Redirect 301 /Reversable%20spyder%20details.htm https://www.lightningbikes.com/cranks/spyders.html
 Redirect 301 /riderquotes.htm https://www.lightningbikes.com/riders/index.html
 Redirect 301 /rider-quotes.html https://www.lightningbikes.com/riders/index.html
