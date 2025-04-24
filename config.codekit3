@@ -2151,9 +2151,22 @@
       "q" : 80,
       "rq" : 75
     },
-    "\/_assets\/img\/e-lightning\/e-lightning-range.jpg" : {
+    "\/_assets\/img\/e-lightning\/e-lightning-range-old.jpg" : {
       "ft" : 16384,
       "iS" : 25615,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/e-lightning\/e-lightning-range-old.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/_assets\/img\/e-lightning\/e-lightning-range.jpg" : {
+      "ft" : 16384,
+      "iS" : 24061,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/_assets\/img\/e-lightning\/e-lightning-range.jpg",
