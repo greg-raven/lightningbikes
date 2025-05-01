@@ -1,3 +1,4 @@
+https://www.lightningbikes.com/_assets/bootstrap3_player/index.html
 https://www.lightningbikes.com/accessories/adjusting-ring-screw.html
 https://www.lightningbikes.com/accessories/adjusting-ring.html
 https://www.lightningbikes.com/accessories/ballistic-fork.html
@@ -46,21 +47,8 @@ https://www.lightningbikes.com/cranks/reversible-spyder-details.html
 https://www.lightningbikes.com/cranks/spyder-installation.html
 https://www.lightningbikes.com/cranks/spyder-mod.html
 https://www.lightningbikes.com/cranks/spyders.html
-https://www.lightningbikes.com/dealers/0-midwest.html
-https://www.lightningbikes.com/dealers/1-new-england.html
-https://www.lightningbikes.com/dealers/2-ny-nj.html
-https://www.lightningbikes.com/dealers/3-mid-atlantic.html
-https://www.lightningbikes.com/dealers/4-southeast.html
-https://www.lightningbikes.com/dealers/5-south-central.html
-https://www.lightningbikes.com/dealers/6-california.html
-https://www.lightningbikes.com/dealers/7-west.html
-https://www.lightningbikes.com/dealers/8-great-lakes.html
-https://www.lightningbikes.com/dealers/9-central.html
-https://www.lightningbikes.com/dealers/cranks-only.html
-https://www.lightningbikes.com/dealers/dealer.html
-https://www.lightningbikes.com/dealers/index.html
-https://www.lightningbikes.com/dealers/international.html
-https://www.lightningbikes.com/dealers/rose-city-cycles/index.html
+https://www.lightningbikes.com/default.html
+https://www.lightningbikes.com/e-lightning/comments.html
 https://www.lightningbikes.com/e-lightning/index.html
 https://www.lightningbikes.com/f22/index.html
 https://www.lightningbikes.com/f40/gallery/index.html
@@ -88,6 +76,7 @@ https://www.lightningbikes.com/media/1984q1-Human-Power-p19/index.html
 https://www.lightningbikes.com/media/1984q1-Human-Power-p21/index.html
 https://www.lightningbikes.com/media/198507-sports-nw.html
 https://www.lightningbikes.com/media/198508-hpv-news.html
+https://www.lightningbikes.com/media/198602-popular-science.html
 https://www.lightningbikes.com/media/198603-bicycle-guide.html
 https://www.lightningbikes.com/media/1988-argus_race.html
 https://www.lightningbikes.com/media/1989-raam-bicycle-guide.html
@@ -130,7 +119,9 @@ https://www.lightningbikes.com/media/20120215-rbr-crank-review.html
 https://www.lightningbikes.com/media/20120326-RBA/index.html
 https://www.lightningbikes.com/media/201207-RBA/index.html
 https://www.lightningbikes.com/media/20141226-bike-route-interview.html
+https://www.lightningbikes.com/media/20150104-brol.html
 https://www.lightningbikes.com/media/201804-RTR_64/index.html
+https://www.lightningbikes.com/media/20250330-brol-e-lightning-review.html
 https://www.lightningbikes.com/media/bicycle-retailer.html
 https://www.lightningbikes.com/media/brol-thunderbolt.html
 https://www.lightningbikes.com/media/index.html
@@ -157,9 +148,10 @@ https://www.lightningbikes.com/phantom/manual.html
 https://www.lightningbikes.com/phantom/specs.html
 https://www.lightningbikes.com/phantom/tensioner-assembly.html
 https://www.lightningbikes.com/products.html
+https://www.lightningbikes.com/r84/di2.html
+https://www.lightningbikes.com/r84/e84.html
 https://www.lightningbikes.com/r84/gallery/index.html
 https://www.lightningbikes.com/r84/index.html
-https://www.lightningbikes.com/r84/e84.html
 https://www.lightningbikes.com/r84/manual-2016.html
 https://www.lightningbikes.com/racing/1989-raam-splits.html
 https://www.lightningbikes.com/racing/1998-ihpva_racing.html
@@ -172,6 +164,7 @@ https://www.lightningbikes.com/racing/2006-fc508.html
 https://www.lightningbikes.com/racing/f40-racing.html
 https://www.lightningbikes.com/racing/f90-racing.html
 https://www.lightningbikes.com/racing/index.html
+https://www.lightningbikes.com/recumbents.html
 https://www.lightningbikes.com/riders/adam-hansen/index.html
 https://www.lightningbikes.com/riders/alec-proudfoot/index.html
 https://www.lightningbikes.com/riders/alexander-hatziyannis/index.html
