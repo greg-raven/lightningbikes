@@ -14666,6 +14666,19 @@
       "oAP" : "\/patents\/index.html",
       "oF" : 0
     },
+    "\/phantom\/_assets\/phantom-serial-numbers.jpg" : {
+      "ft" : 16384,
+      "iS" : 390676,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/phantom\/_assets\/phantom-serial-numbers.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
     "\/phantom\/features.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -15308,6 +15321,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/phantom\/manual.html",
+      "oF" : 0
+    },
+    "\/phantom\/serial-numbers.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/phantom\/serial-numbers.html",
       "oF" : 0
     },
     "\/phantom\/specs.html" : {
