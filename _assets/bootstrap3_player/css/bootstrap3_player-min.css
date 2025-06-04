@@ -1,0 +1,44 @@
+.playa input[type="range"] {
+  background-color: #ddd;
+  border: 1px solid #bbb;
+  border-radius: 0.5em;
+  opacity: 0.5;
+  height: 1em;
+  top: 2px;
+  position: relative;
+}
+
+.playa  .thumbnail  {
+    width:100%;
+}
+
+/* sliders and buttons need a uniform height */
+.playa .btn-group .btn {
+    display:inline-block;
+    float:none;
+    height: 2.2em;
+}
+
+/*  contains the attribution link */
+.playa .row:nth-child(4) {
+  overflow: hidden;
+}
+
+/* Acknowledgements:
+To Glyphicons (https://glyphicons.com/) for the Halflings glyphs font */
+
+/* .spin is used to rotate glyphicon glyphicon-refresh */
+.spin {
+  animation: spin 2s infinite linear;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/*# sourceMappingURL=bootstrap3_player-min.css.map */

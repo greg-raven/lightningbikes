@@ -7,7 +7,7 @@
       "uuidString" : "778DC585-A5FC-4A59-A178-86AF1E48BFB9"
     }
   ],
-  "creatorBuild" : "34689",
+  "creatorBuild" : "34704",
   "files" : {
     "\/_assets\/audio\/20141226-LightningWheelSize.mp3" : {
       "cB" : 0,
@@ -33,32 +33,25 @@
       "oAP" : "\/_assets\/audio\/Penseyres-Podcast-Recumbent.mp3",
       "oF" : 0
     },
-    "\/_assets\/bootstrap3_player\/.gitignore" : {
+    "\/_assets\/bootstrap3_player\/css\/bootstrap3_player-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 1,
+      "oA" : 0,
+      "oAP" : "\/_assets\/bootstrap3_player\/css\/bootstrap3_player-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/_assets\/bootstrap3_player\/css\/bootstrap3_player-min.css.map" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/bootstrap3_player\/.gitignore",
+      "oAP" : "\/_assets\/bootstrap3_player\/css\/bootstrap3_player-min.css.map",
       "oF" : 0
-    },
-    "\/_assets\/bootstrap3_player\/CHANGES.md" : {
-      "cB" : 0,
-      "cS" : 0,
-      "eF" : 1,
-      "eL" : 1,
-      "ema" : 1,
-      "eSQ" : 1,
-      "ft" : 4096,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/_assets\/bootstrap3_player\/CHANGES.html",
-      "oF" : 0,
-      "oFM" : 0,
-      "oS" : 0,
-      "pHT" : 0,
-      "pME" : 1,
-      "rFN" : 0,
-      "uCM" : 0
     },
     "\/_assets\/bootstrap3_player\/css\/bootstrap3_player.css" : {
       "aP" : 1,
@@ -80,14 +73,6 @@
       "oAP" : "\/_assets\/bootstrap3_player\/index.html",
       "oF" : 0
     },
-    "\/_assets\/bootstrap3_player\/js\/.jshintrc" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/_assets\/bootstrap3_player\/js\/.jshintrc",
-      "oF" : 0
-    },
     "\/_assets\/bootstrap3_player\/js\/bootstrap3_player.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -98,33 +83,6 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
-    },
-    "\/_assets\/bootstrap3_player\/LICENSE" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/_assets\/bootstrap3_player\/LICENSE",
-      "oF" : 0
-    },
-    "\/_assets\/bootstrap3_player\/README.md" : {
-      "cB" : 0,
-      "cS" : 0,
-      "eF" : 1,
-      "eL" : 1,
-      "ema" : 1,
-      "eSQ" : 1,
-      "ft" : 4096,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/_assets\/bootstrap3_player\/README.html",
-      "oF" : 0,
-      "oFM" : 0,
-      "oS" : 0,
-      "pHT" : 0,
-      "pME" : 1,
-      "rFN" : 0,
-      "uCM" : 0
     },
     "\/_assets\/css\/lcd.css" : {
       "aP" : 1,
@@ -3313,6 +3271,32 @@
       "oF" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/_assets\/img\/made-in-the-usa-256.jpg" : {
+      "ft" : 16384,
+      "iS" : 17243,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/made-in-the-usa-256.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/_assets\/img\/made-in-the-usa-800.jpg" : {
+      "ft" : 16384,
+      "iS" : 70104,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/img\/made-in-the-usa-800.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
       "rq" : 75
     },
     "\/_assets\/img\/media\/1979-55mph1.jpg" : {
@@ -7336,46 +7320,24 @@
       "oAP" : "\/_assets\/includes\/mobile-nav.htm",
       "oF" : 0
     },
-    "\/_assets\/js\/currentyear.js" : {
+    "\/_assets\/js\/menu-highlight-min.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/_assets\/js\/currentyear-min.js",
+      "oAP" : "\/_assets\/js\/menu-highlight-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/_assets\/js\/menuInner-min.js" : {
+    "\/_assets\/js\/menu-highlight.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/_assets\/js\/menuInner-min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/_assets\/js\/menuInner.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/_assets\/js\/menuInner-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/_assets\/js\/switchProtocol.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/_assets\/js\/switchProtocol-min.js",
+      "oAP" : "\/_assets\/js\/menu-highlight-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -7387,6 +7349,17 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/_assets\/js\/vlb_engine\/jquery.min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/_assets\/js\/vlb_engine\/visuallightbox-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/_assets\/js\/vlb_engine\/visuallightbox-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -9899,6 +9872,118 @@
       "oAP" : "\/f90\/index.html",
       "oF" : 0
     },
+    "\/fabrication\/factory\/1-welding.jpg" : {
+      "ft" : 16384,
+      "iS" : 37067,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/fabrication\/factory\/1-welding.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/fabrication\/factory\/2-facing.jpg" : {
+      "ft" : 16384,
+      "iS" : 20156,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/fabrication\/factory\/2-facing.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/fabrication\/factory\/3-alignment.jpg" : {
+      "ft" : 16384,
+      "iS" : 43664,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/fabrication\/factory\/3-alignment.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/fabrication\/factory\/4-seat-tube.jpg" : {
+      "ft" : 16384,
+      "iS" : 101668,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/fabrication\/factory\/4-seat-tube.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/fabrication\/factory\/5-powder-coating.jpg" : {
+      "ft" : 16384,
+      "iS" : 34227,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/fabrication\/factory\/5-powder-coating.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/fabrication\/factory\/6-wheels.jpg" : {
+      "ft" : 16384,
+      "iS" : 77736,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/fabrication\/factory\/6-wheels.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/fabrication\/factory\/7-assembly.jpg" : {
+      "ft" : 16384,
+      "iS" : 61497,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/fabrication\/factory\/7-assembly.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/fabrication\/factory\/8-factory-floor.jpg" : {
+      "ft" : 16384,
+      "iS" : 105817,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/fabrication\/factory\/8-factory-floor.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/fabrication\/factory\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fabrication\/factory\/index.html",
+      "oF" : 0
+    },
     "\/fabrication\/gallery\/data\/images1\/aluminumtubestructure.jpg" : {
       "ft" : 16384,
       "iS" : 11095,
@@ -10662,6 +10747,17 @@
       "oA" : 0,
       "oAP" : "\/introduction.html",
       "oF" : 0
+    },
+    "\/load-mobile-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/load-mobile-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
     },
     "\/manuals.html" : {
       "cB" : 0,

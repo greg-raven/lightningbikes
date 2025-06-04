@@ -1,4 +1,4 @@
-.playa input[type="range"] {  
+.playa input[type="range"] {
   background-color: #ddd;
   border: 1px solid #bbb;
   border-radius: 0.5em;
@@ -20,12 +20,12 @@
 }
 
 /*  contains the attribution link */
-.playa .row:nth-child(4) { 
+.playa .row:nth-child(4) {
   overflow: hidden;
 }
 
 /* Acknowledgements:
-To Glyphicons (http://glyphicons.com/) for the Halflings glyphs font */
+To Glyphicons (https://glyphicons.com/) for the Halflings glyphs font */
 
 /* .spin is used to rotate glyphicon glyphicon-refresh */
 .spin {

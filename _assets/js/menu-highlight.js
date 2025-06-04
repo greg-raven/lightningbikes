@@ -1,0 +1,55 @@
+$(document).ready(function () {
+    switch (true) {
+    case ((/company.html/).test(window.location.pathname)):
+    case ((/fabrication/).test(window.location.pathname)):
+        $("#about").addClass("active");
+        break;
+    case ((/contact.html/).test(window.location.pathname)):
+        $("#contact").addClass("active");
+        break;
+    case ((/faq.html/).test(window.location.pathname)):
+        $("#faq").addClass("active");
+        break;
+    case ((/e-lightning/).test(window.location.pathname)):
+    case ((/f90/).test(window.location.pathname)):
+    case ((/p38/).test(window.location.pathname)):
+    case ((/r84/).test(window.location.pathname)):
+    case ((/voyager/).test(window.location.pathname)):
+        $("#home").addClass("active");
+        break;
+    case ((/gallery/).test(window.location.pathname)):
+        $("#photos").addClass("active");
+        break;
+    case ((/howtobuy.html/).test(window.location.pathname)):
+        $("#buying").addClass("active");
+        break;
+    case ((/introduction.html/).test(window.location.pathname)):
+        $("#intro").addClass("active");
+        break;
+    case ((/media/).test(window.location.pathname)):
+        $("#media").addClass("active");
+        break;
+    case ((/racing/).test(window.location.pathname)):
+    case ((/u2/).test(window.location.pathname)):
+    case ((/white-lightning/).test(window.location.pathname)):
+    case ((/x2/).test(window.location.pathname)):
+    case ((/x4/).test(window.location.pathname)):
+        $("#racing").addClass("active");
+        break;
+    case ((/riders/).test(window.location.pathname)):
+        $("#riders").addClass("active");
+        break;
+    case ((/search.html/).test(window.location.pathname)):
+        $("#search").addClass("active");
+        break;
+    case ((/store/).test(window.location.pathname)):
+        $("#store").addClass("active");
+        break;
+    case ((/tips/).test(window.location.pathname)):
+        $("#tips").addClass("active");
+        break;
+    case ((/videos/).test(window.location.pathname)):
+        $("#videos").addClass("active");
+        break;
+    }
+});

@@ -1,0 +1,1 @@
+$(document).ready((function(){"use strict";var i=$(window);function e(){i.width()<768&&$("#mobileNav").load("/_assets/includes/mobile-nav.htm")}e(),$(window).resize(e)}));
