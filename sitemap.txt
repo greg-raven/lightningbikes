@@ -124,7 +124,6 @@ https://www.lightningbikes.com/photos/t-bolt-pics/index.html
 https://www.lightningbikes.com/photos/u-2-pics/index.html
 https://www.lightningbikes.com/photos/v-ger-pics/index.html
 https://www.lightningbikes.com/photos/x-2-pics/index.html
-https://www.lightningbikes.com/r84/di2.html
 https://www.lightningbikes.com/r84/e84.html
 https://www.lightningbikes.com/r84/index.html
 https://www.lightningbikes.com/r84/manual-2016.html
@@ -139,6 +138,10 @@ https://www.lightningbikes.com/racing/2006-fc508.html
 https://www.lightningbikes.com/racing/f40-racing.html
 https://www.lightningbikes.com/racing/f90-racing.html
 https://www.lightningbikes.com/racing/index.html
+https://www.lightningbikes.com/racing/t38/index.html
+https://www.lightningbikes.com/racing/u2/index.html
+https://www.lightningbikes.com/racing/white-lightning/index.html
+https://www.lightningbikes.com/racing/x2/index.html
 https://www.lightningbikes.com/riders/adam-hansen/index.html
 https://www.lightningbikes.com/riders/alec-proudfoot/index.html
 https://www.lightningbikes.com/riders/alexander-hatziyannis/index.html
@@ -301,7 +304,7 @@ https://www.lightningbikes.com/support/contact.html
 https://www.lightningbikes.com/support/faq.html
 https://www.lightningbikes.com/support/index.html
 https://www.lightningbikes.com/support/manuals.html
-https://www.lightningbikes.com/t38/index.html
+https://www.lightningbikes.com/thanks.html
 https://www.lightningbikes.com/thunderbolt/index.html
 https://www.lightningbikes.com/tips/700c-phantom.html
 https://www.lightningbikes.com/tips/bike-carrier.html
@@ -321,7 +324,6 @@ https://www.lightningbikes.com/tips/sliding-forward.html
 https://www.lightningbikes.com/tips/trailers.html
 https://www.lightningbikes.com/tips/trek-bb90.html
 https://www.lightningbikes.com/tips/windtrainer.html
-https://www.lightningbikes.com/u2/index.html
 https://www.lightningbikes.com/videos/20080513-nrgxpert.html
 https://www.lightningbikes.com/videos/20110225rtv.html
 https://www.lightningbikes.com/videos/20121008-doug-grosjean.html
@@ -352,5 +354,3 @@ https://www.lightningbikes.com/videos/stealth.html
 https://www.lightningbikes.com/videos/t38.html
 https://www.lightningbikes.com/voyager/index.html
 https://www.lightningbikes.com/voyager/packing.html
-https://www.lightningbikes.com/white-lightning/index.html
-https://www.lightningbikes.com/x2/index.html
