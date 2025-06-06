@@ -151,15 +151,10 @@ Redirect 301 /XX%20spyder%20seals%20and%20spacer.htm https://www.lightningbikes.
 Redirect 301 /riders/martin-krieg/recumbent-history/gr/index.html https://www.lightningbikes.com/riders/martin-krieg/recumbent-history/index.html
 Redirect 301 /r84/di2.html https://www.lightningbikes.com/r84/index.html
 
-Redirect 301 /android-chrome-192x192.png https://www.lightningbikes.com/_assets/siteicons/android-chrome-192x192.png
-Redirect 301 /android-chrome-512x512.png https://www.lightningbikes.com/_assets/siteicons/android-chrome-512x512.png
 Redirect 301 /apple-touch-icon.png https://www.lightningbikes.com/_assets/siteicons/apple-touch-icon.png
-Redirect 301 /browserconfig.xml https://www.lightningbikes.com/_assets/siteicons/browserconfig.xml
-Redirect 301 /favicon-16x16.png https://www.lightningbikes.com/_assets/siteicons/favicon-16x16.png
-Redirect 301 /favicon-32x32.png https://www.lightningbikes.com/_assets/siteicons/favicon-32x32.png
+Redirect 301 /favicon-96x96.png https://www.lightningbikes.com/_assets/siteicons/favicon-96x96.png
 Redirect 301 /favicon.ico https://www.lightningbikes.com/_assets/siteicons/favicon.ico
-Redirect 301 /mstile-150x150.png https://www.lightningbikes.com/_assets/siteicons/mstile-150x150.png
-Redirect 301 /safari-pinned-tab.svg https://www.lightningbikes.com/_assets/siteicons/safari-pinned-tab.svg
+Redirect 301 /favicon.svg https://www.lightningbikes.com/_assets/siteicons/favicon.svg
 Redirect 301 /site.webmanifest https://www.lightningbikes.com/_assets/siteicons/site.webmanifest
 
 

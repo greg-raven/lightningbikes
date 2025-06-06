@@ -14,17 +14,14 @@ document.addEventListener("DOMContentLoaded", function () {
         "media": "media",
         "midracers": "racing",
         "p38": "home",
-        "phantom": "home",
         "photos": "photos",
         "r84": "home",
         "racing": "racing",
         "riders": "riders",
         "search": "search",
-        "stealth": "home",
         "store": "store",
         "support": "support",
         "t38": "racing",
-        "thunderbolt": "home",
         "tips": "tips",
         "u2": "racing",
         "videos": "videos",
@@ -41,9 +38,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 
-    if (path.endsWith("company.html")) {
-        document.getElementById("about")?.classList.add("active");
-    }
     if (path.endsWith("search.html")) {
         document.getElementById("search")?.classList.add("active");
     }
