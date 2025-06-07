@@ -156,8 +156,6 @@ Redirect 301 /favicon-96x96.png https://www.lightningbikes.com/_assets/siteicons
 Redirect 301 /favicon.ico https://www.lightningbikes.com/_assets/siteicons/favicon.ico
 Redirect 301 /favicon.svg https://www.lightningbikes.com/_assets/siteicons/favicon.svg
 Redirect 301 /site.webmanifest https://www.lightningbikes.com/_assets/siteicons/site.webmanifest
-
-
 # ----------------------------------------------------------------------
 # Set error pages
 # ----------------------------------------------------------------------

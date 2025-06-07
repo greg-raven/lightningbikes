@@ -110,8 +110,6 @@
 	background:url(/_assets/js/vlb_files1/next.png) 97% center no-repeat;
 	_background-image:url(/_assets/js/vlb_files1/next_ie6.gif)
 }
-
-
 #vlb1imageDataContainer{
 	font:10px Verdana, Helvetica, sans-serif;
 	font-family:"Lucida Grande","Lucida Sans Unicode",Arial,Verdana,sans-serif;
@@ -156,8 +154,6 @@
 	height:32px;
 	background:url(/_assets/js/vlb_files1/close.gif) no-repeat;
 }
-
-
 .clearfix:after { content:"."; display:block; height:0; clear:both; visibility:hidden;}
 * html>body .clearfix {display:inline-block; width:100%;}
 
@@ -166,16 +162,12 @@
 	height:1%;
 	/* End hide from IE-mac */
 }
-
-
 #vlb1outerImageFrame{
 	border:solid 1px red;
 	height:100%;
 	width:100%;
 	position:absolute;
 }
-
-
 #vlb1outerImageContainer{
 	overflow:visible;
 }
