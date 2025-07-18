@@ -24,6 +24,7 @@ Redirect 301 /BBcups%20Types.html https://www.lightningbikes.com/cranks/bottom-b
 Redirect 301 /bicycles.htm https://www.lightningbikes.com/index.html
 Redirect 301 /Bike%20Manuals.htm https://www.lightningbikes.com/manuals.html
 Redirect 301 /bikefit.htm https://www.lightningbikes.com/howtobuy/bikefit.html
+Redirect 301 /bikefit.html https://www.lightningbikes.com/howtobuy/bikefit.html
 Redirect 301 /bike-measurements.html https://www.lightningbikes.com/howtobuy/bike-measurements.html
 Redirect 301 /brochure.htm https://www.lightningbikes.com/index.html
 Redirect 301 /BUYCRANKS.html https://www.lightningbikes.com/cranks/buy-now.html
